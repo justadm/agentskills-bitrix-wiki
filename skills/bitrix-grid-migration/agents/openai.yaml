@@ -1,3 +1,0 @@
-display_name: "Bitrix Grid Migration"
-short_description: "Plan or execute DataTables to Bitrix Grid migrations."
-default_prompt: "Inventory DataTables usage, classify complexity, map to Bitrix Grid patterns, and provide a phased migration plan with risks and estimates."

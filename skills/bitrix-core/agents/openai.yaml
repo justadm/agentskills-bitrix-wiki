@@ -1,3 +1,0 @@
-display_name: "Bitrix Core"
-short_description: "Bitrix/Bitrix24 setup, audits, migrations, and troubleshooting."
-default_prompt: "Help with Bitrix/Bitrix24 project setup, audits, migrations, or support. Ask for context (version, deployment type), then provide findings and next steps with exact paths/commands."

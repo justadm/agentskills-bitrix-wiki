@@ -1,17 +1,8 @@
-# Agent Skills for Bitrix/Bitrix24
+# Bitrix Wiki (AgentSkills)
 
-Этот репозиторий содержит набор Agent Skills и локальную базу знаний по Bitrix/Bitrix24.
+This repository contains the generated Bitrix/Bitrix24 wiki and JSON API indexes.
 
-## Состав
-
-- `skills/` — навыки для Codex (аудит, миграции, marketplace, инциденты).
-- `wiki/` — локальная wiki и JSON‑API индексы.
-- `scripts/` — сборка, поиск, валидация.
-- `docs/` — документация (RU/EN).
-
-## Быстрый старт
-
-Сбор и индексация:
+## Build
 
 ```
 python3 /Users/just/projects/AgentSkills/Bitrix/scripts/bitrix_wiki_scrape.py \
@@ -23,7 +14,7 @@ python3 /Users/just/projects/AgentSkills/Bitrix/scripts/bitrix_wiki_build.py \
   --root /Users/just/projects/AgentSkills/Bitrix/wiki --methods-compact
 ```
 
-Документация:
+## Contents
 
-- `/Users/just/projects/AgentSkills/Bitrix/docs/README_RU.md`
-- `/Users/just/projects/AgentSkills/Bitrix/docs/README_EN.md`
+- `wiki/` Markdown pages
+- `api/` JSON indices

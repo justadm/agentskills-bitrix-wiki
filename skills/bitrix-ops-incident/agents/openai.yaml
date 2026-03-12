@@ -1,3 +1,0 @@
-display_name: "Bitrix Ops Incident"
-short_description: "Production triage, hotfixes, and safe deploy steps."
-default_prompt: "Triage Bitrix incidents, identify root causes, propose minimal fixes, and provide safe deploy steps with verification checks."

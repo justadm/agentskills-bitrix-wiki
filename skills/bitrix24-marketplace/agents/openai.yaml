@@ -1,3 +1,0 @@
-display_name: "Bitrix24 Marketplace"
-short_description: "Marketplace readiness, packaging, and submission checks."
-default_prompt: "Validate module structure, run prechecks, verify install/update/rollback, and list remaining marketplace card items."

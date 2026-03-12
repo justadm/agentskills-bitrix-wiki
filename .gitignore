@@ -1,5 +1,4 @@
-wiki/sources/repos/
 wiki/sources/_cache/
-scripts/__pycache__/
+wiki/sources/repos/
 **/__pycache__/
 *.pyc
