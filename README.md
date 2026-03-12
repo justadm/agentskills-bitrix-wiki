@@ -19,6 +19,12 @@ python3 scripts/bitrix_wiki_build.py \
 - `wiki/` Markdown pages
 - `api/` JSON indices
 
+## Quick validate
+
+```
+python3 scripts/quick_validate.py --root wiki
+```
+
 ## Tests
 
 ```
