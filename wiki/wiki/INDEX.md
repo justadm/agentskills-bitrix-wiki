@@ -2002,4 +2002,3 @@
 - guide: Когда посетитель заполняет crm-форму обратного звонка OnExternalCallBackStart (https://apidocs.bitrix24.ru/api-reference/telephony/events/on-external-call-back-start.html)
 - guide: Когда пользователь нажимает на телефонный номер в объектах CRM для совершения исходящего звонка OnExternalCallStart (https://apidocs.bitrix24.ru/api-reference/telephony/events/on-external-call-start.html)
 - guide: Телефония (https://apidocs.bitrix24.ru/api-reference/telephony/index.html)
-- guide: README.md (https://github.com/bitrix-tools/bitrix24-dev-hub)

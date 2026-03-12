@@ -22,31 +22,27 @@ Use scripts in `scripts/` to crawl/parse sources and rebuild the wiki and API.
 ## Example commands
 
 ```bash
-# Clone dev hub (once)
-git clone https://github.com/bitrix-tools/bitrix24-dev-hub \
-  /Users/just/projects/AgentSkills/Bitrix/wiki/sources/repos/bitrix24-dev-hub
-
 # Fetch and ingest
-python3 /Users/just/projects/AgentSkills/Bitrix/scripts/bitrix_wiki_scrape.py \
-  --config /Users/just/projects/AgentSkills/Bitrix/scripts/bitrix_wiki_config.json \
-  --out /Users/just/projects/AgentSkills/Bitrix/wiki \
-  --cache /Users/just/projects/AgentSkills/Bitrix/wiki/sources/_cache
+python3 scripts/bitrix_wiki_scrape.py \
+  --config scripts/bitrix_wiki_config.json \
+  --out wiki \
+  --cache wiki/sources/_cache
 
 # Build index
-python3 /Users/just/projects/AgentSkills/Bitrix/scripts/bitrix_wiki_build.py \
-  --root /Users/just/projects/AgentSkills/Bitrix/wiki
+python3 scripts/bitrix_wiki_build.py \
+  --root wiki
 
 # Search
-python3 /Users/just/projects/AgentSkills/Bitrix/scripts/bitrix_wiki_search.py \
-  --root /Users/just/projects/AgentSkills/Bitrix/wiki --q "crm"
+python3 scripts/bitrix_wiki_search.py \
+  --root wiki --q "crm"
 
 # Methods-only search
-python3 /Users/just/projects/AgentSkills/Bitrix/scripts/bitrix_wiki_search.py \
-  --root /Users/just/projects/AgentSkills/Bitrix/wiki --q "user\\.get" --methods-only
+python3 scripts/bitrix_wiki_search.py \
+  --root wiki --q "user\\.get" --methods-only
 
 # Validate index
-python3 /Users/just/projects/AgentSkills/Bitrix/scripts/bitrix_wiki_validate.py \
-  --index /Users/just/projects/AgentSkills/Bitrix/wiki/api/index.json
+python3 scripts/bitrix_wiki_validate.py \
+  --index wiki/api/index.json
 ```
 
 ## Section indexes

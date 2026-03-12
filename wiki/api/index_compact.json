@@ -31668,15 +31668,6 @@
         "scope": [],
         "who_can_execute": ""
       }
-    },
-    {
-      "id": "github.com__bitrix-tools__bitrix24-dev-hub_README.md",
-      "type": "guide",
-      "title": "README.md",
-      "summary": "",
-      "source_url": "https://github.com/bitrix-tools/bitrix24-dev-hub",
-      "tags": [],
-      "meta": {}
     }
   ]
 }
