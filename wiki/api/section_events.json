@@ -15,7 +15,7 @@
       "tags": [
         "events"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__events__event-bind.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__events__event-bind.html.md",
       "meta": {
         "scope": [],
         "who_can_execute": "любой пользователь"
@@ -194,7 +194,7 @@
       "tags": [
         "events"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__events__event-get.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__events__event-get.html.md",
       "meta": {
         "scope": [],
         "who_can_execute": "любой пользователь"
@@ -342,7 +342,7 @@
       "tags": [
         "events"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__events__event-offline-clear.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__events__event-offline-clear.html.md",
       "meta": {
         "scope": [],
         "who_can_execute": "любой пользователь"
@@ -506,7 +506,7 @@
       "tags": [
         "events"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__events__event-offline-error.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__events__event-offline-error.html.md",
       "meta": {
         "scope": [],
         "who_can_execute": "любой пользователь"
@@ -665,7 +665,7 @@
       "tags": [
         "events"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__events__event-offline-get.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__events__event-offline-get.html.md",
       "meta": {
         "scope": [],
         "who_can_execute": "любой пользователь"
@@ -829,7 +829,7 @@
       "tags": [
         "events"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__events__event-offline-list.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__events__event-offline-list.html.md",
       "meta": {
         "scope": [],
         "who_can_execute": "любой пользователь"
@@ -998,7 +998,7 @@
       "tags": [
         "events"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__events__event-unbind.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__events__event-unbind.html.md",
       "meta": {
         "scope": [],
         "who_can_execute": "администратор"
@@ -1167,7 +1167,7 @@
       "tags": [
         "events"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__events__events.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__events__events.html.md",
       "meta": {
         "scope": [],
         "who_can_execute": "любой пользователь"
@@ -1321,7 +1321,7 @@
       "tags": [
         "events"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__events__index.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__events__index.html.md",
       "meta": {
         "scope": [],
         "who_can_execute": ""
@@ -1355,7 +1355,7 @@
       "tags": [
         "events"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__events__offline-events.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__events__offline-events.html.md",
       "meta": {
         "scope": [],
         "who_can_execute": ""
@@ -1380,7 +1380,7 @@
       "tags": [
         "events"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__events__on-offline-event.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__events__on-offline-event.html.md",
       "meta": {
         "scope": [],
         "who_can_execute": ""
@@ -1410,7 +1410,7 @@
       "tags": [
         "events"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__events__safe-event-handlers.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__events__safe-event-handlers.html.md",
       "meta": {
         "scope": [],
         "who_can_execute": ""
@@ -1435,7 +1435,7 @@
       "tags": [
         "events"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__events__test-handler.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__events__test-handler.html.md",
       "meta": {
         "scope": [],
         "who_can_execute": ""

@@ -36,6 +36,8 @@ def main() -> int:
             continue
         if args.content:
             md_path = entity.get("body_md_path", "")
+            if md_path and not os.path.isabs(md_path):
+                md_path = os.path.join(args.root, md_path)
             if md_path and os.path.isfile(md_path):
                 content = read_text(md_path)
                 if pattern.search(content):

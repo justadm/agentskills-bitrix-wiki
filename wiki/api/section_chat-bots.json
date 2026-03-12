@@ -15,7 +15,7 @@
       "tags": [
         "chat-bots"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__chat-bots__chats__events__index.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__chat-bots__chats__events__index.html.md",
       "meta": {
         "scope": [
           "imbot"
@@ -42,7 +42,7 @@
       "tags": [
         "chat-bots"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__chat-bots__chats__events__on-imbot-join-chat.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__chat-bots__chats__events__on-imbot-join-chat.html.md",
       "meta": {
         "scope": [
           "imbot"
@@ -86,7 +86,7 @@
       "tags": [
         "chat-bots"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__chat-bots__chats__fields.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__chat-bots__chats__fields.html.md",
       "meta": {
         "scope": [],
         "who_can_execute": ""
@@ -111,7 +111,7 @@
       "tags": [
         "chat-bots"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__chat-bots__chats__imbot-chat-add.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__chat-bots__chats__imbot-chat-add.html.md",
       "meta": {
         "scope": [
           "imbot"
@@ -317,7 +317,7 @@
       "tags": [
         "chat-bots"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__chat-bots__chats__imbot-chat-get.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__chat-bots__chats__imbot-chat-get.html.md",
       "meta": {
         "scope": [
           "imbot"
@@ -478,7 +478,7 @@
       "tags": [
         "chat-bots"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__chat-bots__chats__imbot-chat-leave.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__chat-bots__chats__imbot-chat-leave.html.md",
       "meta": {
         "scope": [
           "imbot"
@@ -644,7 +644,7 @@
       "tags": [
         "chat-bots"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__chat-bots__chats__imbot-chat-send-typing.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__chat-bots__chats__imbot-chat-send-typing.html.md",
       "meta": {
         "scope": [
           "imbot"
@@ -810,7 +810,7 @@
       "tags": [
         "chat-bots"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__chat-bots__chats__imbot-chat-set-manager.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__chat-bots__chats__imbot-chat-set-manager.html.md",
       "meta": {
         "scope": [
           "imbot"
@@ -986,7 +986,7 @@
       "tags": [
         "chat-bots"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__chat-bots__chats__imbot-chat-update-avatar.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__chat-bots__chats__imbot-chat-update-avatar.html.md",
       "meta": {
         "scope": [
           "imbot"
@@ -1157,7 +1157,7 @@
       "tags": [
         "chat-bots"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__chat-bots__chats__imbot-chat-update-color.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__chat-bots__chats__imbot-chat-update-color.html.md",
       "meta": {
         "scope": [
           "imbot"
@@ -1328,7 +1328,7 @@
       "tags": [
         "chat-bots"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__chat-bots__chats__imbot-chat-update-title.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__chat-bots__chats__imbot-chat-update-title.html.md",
       "meta": {
         "scope": [
           "imbot"
@@ -1499,7 +1499,7 @@
       "tags": [
         "chat-bots"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__chat-bots__chats__imbot-chat-user-add.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__chat-bots__chats__imbot-chat-user-add.html.md",
       "meta": {
         "scope": [
           "imbot"
@@ -1675,7 +1675,7 @@
       "tags": [
         "chat-bots"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__chat-bots__chats__imbot-chat-user-delete.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__chat-bots__chats__imbot-chat-user-delete.html.md",
       "meta": {
         "scope": [
           "imbot"
@@ -1846,7 +1846,7 @@
       "tags": [
         "chat-bots"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__chat-bots__chats__imbot-chat-user-list.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__chat-bots__chats__imbot-chat-user-list.html.md",
       "meta": {
         "scope": [
           "imbot"
@@ -2012,7 +2012,7 @@
       "tags": [
         "chat-bots"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__chat-bots__chats__imbot-dialog-get.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__chat-bots__chats__imbot-dialog-get.html.md",
       "meta": {
         "scope": [
           "imbot"
@@ -2168,7 +2168,7 @@
       "tags": [
         "chat-bots"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__chat-bots__chats__index.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__chat-bots__chats__index.html.md",
       "meta": {
         "scope": [
           "imbot"
@@ -2195,7 +2195,7 @@
       "tags": [
         "chat-bots"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__chat-bots__commands__events__on-im-command-add.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__chat-bots__commands__events__on-im-command-add.html.md",
       "meta": {
         "scope": [
           "imbot"
@@ -2239,7 +2239,7 @@
       "tags": [
         "chat-bots"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__chat-bots__commands__imbot-command-answer.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__chat-bots__commands__imbot-command-answer.html.md",
       "meta": {
         "scope": [
           "imbot"
@@ -2440,7 +2440,7 @@
       "tags": [
         "chat-bots"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__chat-bots__commands__imbot-command-register.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__chat-bots__commands__imbot-command-register.html.md",
       "meta": {
         "scope": [
           "imbot"
@@ -2631,7 +2631,7 @@
       "tags": [
         "chat-bots"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__chat-bots__commands__imbot-command-unregister.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__chat-bots__commands__imbot-command-unregister.html.md",
       "meta": {
         "scope": [
           "imbot"
@@ -2792,7 +2792,7 @@
       "tags": [
         "chat-bots"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__chat-bots__commands__imbot-command-update.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__chat-bots__commands__imbot-command-update.html.md",
       "meta": {
         "scope": [
           "imbot"
@@ -2958,7 +2958,7 @@
       "tags": [
         "chat-bots"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__chat-bots__commands__index.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__chat-bots__commands__index.html.md",
       "meta": {
         "scope": [
           "imbot"
@@ -2994,7 +2994,7 @@
       "tags": [
         "chat-bots"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__chat-bots__events__index.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__chat-bots__events__index.html.md",
       "meta": {
         "scope": [],
         "who_can_execute": ""
@@ -3019,7 +3019,7 @@
       "tags": [
         "chat-bots"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__chat-bots__events__on-imbot-delete.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__chat-bots__events__on-imbot-delete.html.md",
       "meta": {
         "scope": [
           "imbot"
@@ -3051,7 +3051,7 @@
       "tags": [
         "chat-bots"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__chat-bots__imbot-bot-list.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__chat-bots__imbot-bot-list.html.md",
       "meta": {
         "scope": [
           "imbot"
@@ -3201,7 +3201,7 @@
       "tags": [
         "chat-bots"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__chat-bots__imbot-register.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__chat-bots__imbot-register.html.md",
       "meta": {
         "scope": [
           "imbot"
@@ -3407,7 +3407,7 @@
       "tags": [
         "chat-bots"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__chat-bots__imbot-unregister.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__chat-bots__imbot-unregister.html.md",
       "meta": {
         "scope": [
           "imbot"
@@ -3568,7 +3568,7 @@
       "tags": [
         "chat-bots"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__chat-bots__imbot-update.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__chat-bots__imbot-update.html.md",
       "meta": {
         "scope": [
           "imbot"
@@ -3734,7 +3734,7 @@
       "tags": [
         "chat-bots"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__chat-bots__index.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__chat-bots__index.html.md",
       "meta": {
         "scope": [],
         "who_can_execute": ""
@@ -3759,7 +3759,7 @@
       "tags": [
         "chat-bots"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__chat-bots__messages__events__index.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__chat-bots__messages__events__index.html.md",
       "meta": {
         "scope": [
           "imbot"
@@ -3786,7 +3786,7 @@
       "tags": [
         "chat-bots"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__chat-bots__messages__events__on-imbot-message-add.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__chat-bots__messages__events__on-imbot-message-add.html.md",
       "meta": {
         "scope": [
           "imbot"
@@ -3830,7 +3830,7 @@
       "tags": [
         "chat-bots"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__chat-bots__messages__events__on-imbot-message-delete.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__chat-bots__messages__events__on-imbot-message-delete.html.md",
       "meta": {
         "scope": [
           "imbot"
@@ -3874,7 +3874,7 @@
       "tags": [
         "chat-bots"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__chat-bots__messages__events__on-imbot-message-update.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__chat-bots__messages__events__on-imbot-message-update.html.md",
       "meta": {
         "scope": [
           "imbot"
@@ -3918,7 +3918,7 @@
       "tags": [
         "chat-bots"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__chat-bots__messages__imbot-message-add.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__chat-bots__messages__imbot-message-add.html.md",
       "meta": {
         "scope": [
           "imbot"
@@ -4129,7 +4129,7 @@
       "tags": [
         "chat-bots"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__chat-bots__messages__imbot-message-delete.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__chat-bots__messages__imbot-message-delete.html.md",
       "meta": {
         "scope": [
           "imbot"
@@ -4300,7 +4300,7 @@
       "tags": [
         "chat-bots"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__chat-bots__messages__imbot-message-like.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__chat-bots__messages__imbot-message-like.html.md",
       "meta": {
         "scope": [
           "imbot"
@@ -4471,7 +4471,7 @@
       "tags": [
         "chat-bots"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__chat-bots__messages__imbot-message-update.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__chat-bots__messages__imbot-message-update.html.md",
       "meta": {
         "scope": [
           "imbot"
@@ -4667,7 +4667,7 @@
       "tags": [
         "chat-bots"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__chat-bots__messages__index.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__chat-bots__messages__index.html.md",
       "meta": {
         "scope": [
           "imbot"
@@ -4694,7 +4694,7 @@
       "tags": [
         "chat-bots"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__chat-bots__send-command.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__chat-bots__send-command.html.md",
       "meta": {
         "scope": [],
         "who_can_execute": ""
@@ -4732,7 +4732,7 @@
       "tags": [
         "chat-bots"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__chat-bots__tutorials.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__chat-bots__tutorials.html.md",
       "meta": {
         "scope": [],
         "who_can_execute": ""

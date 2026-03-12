@@ -15,7 +15,7 @@
       "tags": [
         "mailservice"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__mailservice__index.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__mailservice__index.html.md",
       "meta": {
         "scope": [
           "mailservice"
@@ -42,7 +42,7 @@
       "tags": [
         "mailservice"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__mailservice__mailservice-add.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__mailservice__mailservice-add.html.md",
       "meta": {
         "scope": [
           "mailservice"
@@ -90,7 +90,7 @@
       "tags": [
         "mailservice"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__mailservice__mailservice-delete.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__mailservice__mailservice-delete.html.md",
       "meta": {
         "scope": [
           "mailservice"
@@ -138,7 +138,7 @@
       "tags": [
         "mailservice"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__mailservice__mailservice-fields.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__mailservice__mailservice-fields.html.md",
       "meta": {
         "scope": [
           "mailservice"
@@ -186,7 +186,7 @@
       "tags": [
         "mailservice"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__mailservice__mailservice-get.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__mailservice__mailservice-get.html.md",
       "meta": {
         "scope": [
           "mailservice"
@@ -234,7 +234,7 @@
       "tags": [
         "mailservice"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__mailservice__mailservice-list.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__mailservice__mailservice-list.html.md",
       "meta": {
         "scope": [
           "mailservice"
@@ -282,7 +282,7 @@
       "tags": [
         "mailservice"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__mailservice__mailservice-update.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__mailservice__mailservice-update.html.md",
       "meta": {
         "scope": [
           "mailservice"

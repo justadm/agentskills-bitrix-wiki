@@ -15,7 +15,7 @@
       "tags": [
         "sign"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__sign__index.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__sign__index.html.md",
       "meta": {
         "scope": [
           "sign.b2e"
@@ -42,7 +42,7 @@
       "tags": [
         "sign"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__sign__sign-b2e-mysafe-tail.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__sign__sign-b2e-mysafe-tail.html.md",
       "meta": {
         "scope": [
           "sign.b2e"
@@ -203,7 +203,7 @@
       "tags": [
         "sign"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__sign__sign-b2e-personal-tail.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__sign__sign-b2e-personal-tail.html.md",
       "meta": {
         "scope": [
           "sign.b2e"

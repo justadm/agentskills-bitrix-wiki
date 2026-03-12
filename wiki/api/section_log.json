@@ -15,7 +15,7 @@
       "tags": [
         "log"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__log__blogcomment__index.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__log__blogcomment__index.html.md",
       "meta": {
         "scope": [
           "log"
@@ -42,7 +42,7 @@
       "tags": [
         "log"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__log__blogcomment__log-blogcomment-add.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__log__blogcomment__log-blogcomment-add.html.md",
       "meta": {
         "scope": [
           "log"
@@ -213,7 +213,7 @@
       "tags": [
         "log"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__log__blogcomment__log-blogcomment-delete.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__log__blogcomment__log-blogcomment-delete.html.md",
       "meta": {
         "scope": [
           "log"
@@ -374,7 +374,7 @@
       "tags": [
         "log"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__log__blogcomment__log-blogcomment-user-get.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__log__blogcomment__log-blogcomment-user-get.html.md",
       "meta": {
         "scope": [
           "log"
@@ -454,7 +454,7 @@
       "tags": [
         "log"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__log__events__index.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__log__events__index.html.md",
       "meta": {
         "scope": [
           "sonet"
@@ -481,7 +481,7 @@
       "tags": [
         "log"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__log__events__on-live-feed-post-add.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__log__events__on-live-feed-post-add.html.md",
       "meta": {
         "scope": [
           "log"
@@ -513,7 +513,7 @@
       "tags": [
         "log"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__log__events__on-live-feed-post-delete.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__log__events__on-live-feed-post-delete.html.md",
       "meta": {
         "scope": [
           "log"
@@ -545,7 +545,7 @@
       "tags": [
         "log"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__log__events__on-live-feed-post-update.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__log__events__on-live-feed-post-update.html.md",
       "meta": {
         "scope": [
           "log"
@@ -577,7 +577,7 @@
       "tags": [
         "log"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__log__index.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__log__index.html.md",
       "meta": {
         "scope": [
           "log"
@@ -604,7 +604,7 @@
       "tags": [
         "log"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__log__log-blogpost-add.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__log__log-blogpost-add.html.md",
       "meta": {
         "scope": [
           "log"
@@ -652,7 +652,7 @@
       "tags": [
         "log"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__log__log-blogpost-delete.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__log__log-blogpost-delete.html.md",
       "meta": {
         "scope": [
           "log"
@@ -679,7 +679,7 @@
       "tags": [
         "log"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__log__log-blogpost-get.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__log__log-blogpost-get.html.md",
       "meta": {
         "scope": [
           "log"
@@ -727,7 +727,7 @@
       "tags": [
         "log"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__log__log-blogpost-getusers-important.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__log__log-blogpost-getusers-important.html.md",
       "meta": {
         "scope": [
           "log"
@@ -775,7 +775,7 @@
       "tags": [
         "log"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__log__log-blogpost-share.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__log__log-blogpost-share.html.md",
       "meta": {
         "scope": [
           "log"
@@ -802,7 +802,7 @@
       "tags": [
         "log"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__log__log-blogpost-update.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__log__log-blogpost-update.html.md",
       "meta": {
         "scope": [
           "log"

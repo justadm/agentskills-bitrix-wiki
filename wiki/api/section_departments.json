@@ -15,7 +15,7 @@
       "tags": [
         "departments"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__departments__department-add.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__departments__department-add.html.md",
       "meta": {
         "scope": [
           "department"
@@ -186,7 +186,7 @@
       "tags": [
         "departments"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__departments__department-delete.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__departments__department-delete.html.md",
       "meta": {
         "scope": [
           "department"
@@ -342,7 +342,7 @@
       "tags": [
         "departments"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__departments__department-fields.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__departments__department-fields.html.md",
       "meta": {
         "scope": [
           "department"
@@ -492,7 +492,7 @@
       "tags": [
         "departments"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__departments__department-get.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__departments__department-get.html.md",
       "meta": {
         "scope": [
           "department"
@@ -688,7 +688,7 @@
       "tags": [
         "departments"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__departments__department-update.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__departments__department-update.html.md",
       "meta": {
         "scope": [
           "department"
@@ -864,7 +864,7 @@
       "tags": [
         "departments"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__departments__index.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__departments__index.html.md",
       "meta": {
         "scope": [
           "department"

@@ -15,7 +15,7 @@
       "tags": [
         "catalog"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__catalog__catalog__catalog-catalog-get-fields.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__catalog__catalog__catalog-catalog-get-fields.html.md",
       "meta": {
         "scope": [
           "catalog"
@@ -170,7 +170,7 @@
       "tags": [
         "catalog"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__catalog__catalog__catalog-catalog-get.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__catalog__catalog__catalog-catalog-get.html.md",
       "meta": {
         "scope": [
           "catalog"
@@ -331,7 +331,7 @@
       "tags": [
         "catalog"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__catalog__catalog__catalog-catalog-is-offers.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__catalog__catalog__catalog-catalog-is-offers.html.md",
       "meta": {
         "scope": [
           "catalog"
@@ -487,7 +487,7 @@
       "tags": [
         "catalog"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__catalog__catalog__catalog-catalog-list.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__catalog__catalog__catalog-catalog-list.html.md",
       "meta": {
         "scope": [
           "catalog"
@@ -668,7 +668,7 @@
       "tags": [
         "catalog"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__catalog__catalog__index.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__catalog__catalog__index.html.md",
       "meta": {
         "scope": [
           "catalog"
@@ -695,7 +695,7 @@
       "tags": [
         "catalog"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__catalog__data-types.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__catalog__data-types.html.md",
       "meta": {
         "scope": [],
         "who_can_execute": ""
@@ -720,7 +720,7 @@
       "tags": [
         "catalog"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__catalog__document__catalog-document-add.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__catalog__document__catalog-document-add.html.md",
       "meta": {
         "scope": [
           "catalog"
@@ -881,7 +881,7 @@
       "tags": [
         "catalog"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__catalog__document__catalog-document-cancel-list.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__catalog__document__catalog-document-cancel-list.html.md",
       "meta": {
         "scope": [
           "catalog"
@@ -1037,7 +1037,7 @@
       "tags": [
         "catalog"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__catalog__document__catalog-document-cancel.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__catalog__document__catalog-document-cancel.html.md",
       "meta": {
         "scope": [
           "catalog"
@@ -1193,7 +1193,7 @@
       "tags": [
         "catalog"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__catalog__document__catalog-document-conduct-list.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__catalog__document__catalog-document-conduct-list.html.md",
       "meta": {
         "scope": [
           "catalog"
@@ -1349,7 +1349,7 @@
       "tags": [
         "catalog"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__catalog__document__catalog-document-conduct.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__catalog__document__catalog-document-conduct.html.md",
       "meta": {
         "scope": [
           "catalog"
@@ -1505,7 +1505,7 @@
       "tags": [
         "catalog"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__catalog__document__catalog-document-delete-list.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__catalog__document__catalog-document-delete-list.html.md",
       "meta": {
         "scope": [
           "catalog"
@@ -1661,7 +1661,7 @@
       "tags": [
         "catalog"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__catalog__document__catalog-document-delete.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__catalog__document__catalog-document-delete.html.md",
       "meta": {
         "scope": [
           "catalog"
@@ -1817,7 +1817,7 @@
       "tags": [
         "catalog"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__catalog__document__catalog-document-get-fields.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__catalog__document__catalog-document-get-fields.html.md",
       "meta": {
         "scope": [
           "catalog"
@@ -1972,7 +1972,7 @@
       "tags": [
         "catalog"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__catalog__document__catalog-document-list.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__catalog__document__catalog-document-list.html.md",
       "meta": {
         "scope": [
           "catalog"
@@ -2158,7 +2158,7 @@
       "tags": [
         "catalog"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__catalog__document__catalog-document-mode-status.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__catalog__document__catalog-document-mode-status.html.md",
       "meta": {
         "scope": [
           "catalog"
@@ -2308,7 +2308,7 @@
       "tags": [
         "catalog"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__catalog__document__catalog-document-update.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__catalog__document__catalog-document-update.html.md",
       "meta": {
         "scope": [
           "catalog"
@@ -2474,7 +2474,7 @@
       "tags": [
         "catalog"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__catalog__document__document-element__catalog-document-element-add.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__catalog__document__document-element__catalog-document-element-add.html.md",
       "meta": {
         "scope": [
           "catalog"
@@ -2635,7 +2635,7 @@
       "tags": [
         "catalog"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__catalog__document__document-element__catalog-document-element-delete.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__catalog__document__document-element__catalog-document-element-delete.html.md",
       "meta": {
         "scope": [
           "catalog"
@@ -2791,7 +2791,7 @@
       "tags": [
         "catalog"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__catalog__document__document-element__catalog-document-element-get-fields.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__catalog__document__document-element__catalog-document-element-get-fields.html.md",
       "meta": {
         "scope": [
           "catalog"
@@ -2941,7 +2941,7 @@
       "tags": [
         "catalog"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__catalog__document__document-element__catalog-document-element-list.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__catalog__document__document-element__catalog-document-element-list.html.md",
       "meta": {
         "scope": [
           "catalog"
@@ -3122,7 +3122,7 @@
       "tags": [
         "catalog"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__catalog__document__document-element__catalog-document-element-update.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__catalog__document__document-element__catalog-document-element-update.html.md",
       "meta": {
         "scope": [
           "catalog"
@@ -3288,7 +3288,7 @@
       "tags": [
         "catalog"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__catalog__document__document-element__index.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__catalog__document__document-element__index.html.md",
       "meta": {
         "scope": [
           "catalog"
@@ -3315,7 +3315,7 @@
       "tags": [
         "catalog"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__catalog__document__index.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__catalog__document__index.html.md",
       "meta": {
         "scope": [
           "catalog"
@@ -3342,7 +3342,7 @@
       "tags": [
         "catalog"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__catalog__document__outdated__catalog-document-confirm.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__catalog__document__outdated__catalog-document-confirm.html.md",
       "meta": {
         "scope": [
           "catalog"
@@ -3396,7 +3396,7 @@
       "tags": [
         "catalog"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__catalog__document__outdated__catalog-document-fields.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__catalog__document__outdated__catalog-document-fields.html.md",
       "meta": {
         "scope": [
           "catalog"
@@ -3444,7 +3444,7 @@
       "tags": [
         "catalog"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__catalog__document__outdated__catalog-document-unconfirm.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__catalog__document__outdated__catalog-document-unconfirm.html.md",
       "meta": {
         "scope": [
           "catalog"
@@ -3498,7 +3498,7 @@
       "tags": [
         "catalog"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__catalog__document__outdated__index.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__catalog__document__outdated__index.html.md",
       "meta": {
         "scope": [
           "catalog"
@@ -3525,7 +3525,7 @@
       "tags": [
         "catalog"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__catalog__documentcontractor__catalog-documentcontractor-add.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__catalog__documentcontractor__catalog-documentcontractor-add.html.md",
       "meta": {
         "scope": [
           "catalog"
@@ -3686,7 +3686,7 @@
       "tags": [
         "catalog"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__catalog__documentcontractor__catalog-documentcontractor-delete.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__catalog__documentcontractor__catalog-documentcontractor-delete.html.md",
       "meta": {
         "scope": [
           "catalog"
@@ -3842,7 +3842,7 @@
       "tags": [
         "catalog"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__catalog__documentcontractor__catalog-documentcontractor-get-fields.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__catalog__documentcontractor__catalog-documentcontractor-get-fields.html.md",
       "meta": {
         "scope": [
           "catalog"
@@ -3997,7 +3997,7 @@
       "tags": [
         "catalog"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__catalog__documentcontractor__catalog-documentcontractor-list.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__catalog__documentcontractor__catalog-documentcontractor-list.html.md",
       "meta": {
         "scope": [
           "catalog"
@@ -4183,7 +4183,7 @@
       "tags": [
         "catalog"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__catalog__documentcontractor__index.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__catalog__documentcontractor__index.html.md",
       "meta": {
         "scope": [
           "catalog"
@@ -4210,7 +4210,7 @@
       "tags": [
         "catalog"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__catalog__enum__catalog-enum-get-round-types.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__catalog__enum__catalog-enum-get-round-types.html.md",
       "meta": {
         "scope": [
           "catalog"
@@ -4258,7 +4258,7 @@
       "tags": [
         "catalog"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__catalog__enum__catalog-enum-get-store-document-types.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__catalog__enum__catalog-enum-get-store-document-types.html.md",
       "meta": {
         "scope": [
           "catalog"
@@ -4306,7 +4306,7 @@
       "tags": [
         "catalog"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__catalog__enum__index.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__catalog__enum__index.html.md",
       "meta": {
         "scope": [
           "catalog"
@@ -4333,7 +4333,7 @@
       "tags": [
         "catalog"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__catalog__extra__catalog-extra-get-fields.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__catalog__extra__catalog-extra-get-fields.html.md",
       "meta": {
         "scope": [
           "catalog"
@@ -4488,7 +4488,7 @@
       "tags": [
         "catalog"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__catalog__extra__catalog-extra-get.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__catalog__extra__catalog-extra-get.html.md",
       "meta": {
         "scope": [
           "catalog"
@@ -4649,7 +4649,7 @@
       "tags": [
         "catalog"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__catalog__extra__catalog-extra-list.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__catalog__extra__catalog-extra-list.html.md",
       "meta": {
         "scope": [
           "catalog"
@@ -4830,7 +4830,7 @@
       "tags": [
         "catalog"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__catalog__extra__index.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__catalog__extra__index.html.md",
       "meta": {
         "scope": [
           "catalog"
@@ -4857,7 +4857,7 @@
       "tags": [
         "catalog"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__catalog__index.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__catalog__index.html.md",
       "meta": {
         "scope": [
           "catalog"
@@ -4884,7 +4884,7 @@
       "tags": [
         "catalog"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__catalog__measure__catalog-measure-add.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__catalog__measure__catalog-measure-add.html.md",
       "meta": {
         "scope": [
           "catalog"
@@ -5045,7 +5045,7 @@
       "tags": [
         "catalog"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__catalog__measure__catalog-measure-delete.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__catalog__measure__catalog-measure-delete.html.md",
       "meta": {
         "scope": [
           "catalog"
@@ -5201,7 +5201,7 @@
       "tags": [
         "catalog"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__catalog__measure__catalog-measure-get-fields.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__catalog__measure__catalog-measure-get-fields.html.md",
       "meta": {
         "scope": [
           "catalog"
@@ -5356,7 +5356,7 @@
       "tags": [
         "catalog"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__catalog__measure__catalog-measure-get.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__catalog__measure__catalog-measure-get.html.md",
       "meta": {
         "scope": [
           "catalog"
@@ -5517,7 +5517,7 @@
       "tags": [
         "catalog"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__catalog__measure__catalog-measure-list.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__catalog__measure__catalog-measure-list.html.md",
       "meta": {
         "scope": [
           "catalog"
@@ -5698,7 +5698,7 @@
       "tags": [
         "catalog"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__catalog__measure__catalog-measure-update.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__catalog__measure__catalog-measure-update.html.md",
       "meta": {
         "scope": [
           "catalog"
@@ -5864,7 +5864,7 @@
       "tags": [
         "catalog"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__catalog__measure__events__catalog-measure-on-add.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__catalog__measure__events__catalog-measure-on-add.html.md",
       "meta": {
         "scope": [
           "catalog"
@@ -5896,7 +5896,7 @@
       "tags": [
         "catalog"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__catalog__measure__events__catalog-measure-on-delete.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__catalog__measure__events__catalog-measure-on-delete.html.md",
       "meta": {
         "scope": [
           "catalog"
@@ -5928,7 +5928,7 @@
       "tags": [
         "catalog"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__catalog__measure__events__catalog-measure-on-update.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__catalog__measure__events__catalog-measure-on-update.html.md",
       "meta": {
         "scope": [
           "catalog"
@@ -5960,7 +5960,7 @@
       "tags": [
         "catalog"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__catalog__measure__events__index.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__catalog__measure__events__index.html.md",
       "meta": {
         "scope": [
           "catalog"
@@ -5987,7 +5987,7 @@
       "tags": [
         "catalog"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__catalog__measure__index.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__catalog__measure__index.html.md",
       "meta": {
         "scope": [
           "catalog"
@@ -6014,7 +6014,7 @@
       "tags": [
         "catalog"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__catalog__price-type__catalog-price-type-add.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__catalog__price-type__catalog-price-type-add.html.md",
       "meta": {
         "scope": [
           "catalog"
@@ -6175,7 +6175,7 @@
       "tags": [
         "catalog"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__catalog__price-type__catalog-price-type-delete.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__catalog__price-type__catalog-price-type-delete.html.md",
       "meta": {
         "scope": [
           "catalog"
@@ -6331,7 +6331,7 @@
       "tags": [
         "catalog"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__catalog__price-type__catalog-price-type-get-fields.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__catalog__price-type__catalog-price-type-get-fields.html.md",
       "meta": {
         "scope": [
           "catalog"
@@ -6486,7 +6486,7 @@
       "tags": [
         "catalog"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__catalog__price-type__catalog-price-type-get.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__catalog__price-type__catalog-price-type-get.html.md",
       "meta": {
         "scope": [
           "catalog"
@@ -6647,7 +6647,7 @@
       "tags": [
         "catalog"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__catalog__price-type__catalog-price-type-list.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__catalog__price-type__catalog-price-type-list.html.md",
       "meta": {
         "scope": [
           "catalog"
@@ -6828,7 +6828,7 @@
       "tags": [
         "catalog"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__catalog__price-type__catalog-price-type-update.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__catalog__price-type__catalog-price-type-update.html.md",
       "meta": {
         "scope": [
           "catalog"
@@ -6994,7 +6994,7 @@
       "tags": [
         "catalog"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__catalog__price-type__events__catalog-price-type-on-add.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__catalog__price-type__events__catalog-price-type-on-add.html.md",
       "meta": {
         "scope": [
           "catalog"
@@ -7026,7 +7026,7 @@
       "tags": [
         "catalog"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__catalog__price-type__events__catalog-price-type-on-delete.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__catalog__price-type__events__catalog-price-type-on-delete.html.md",
       "meta": {
         "scope": [
           "catalog"
@@ -7058,7 +7058,7 @@
       "tags": [
         "catalog"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__catalog__price-type__events__catalog-price-type-on-update.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__catalog__price-type__events__catalog-price-type-on-update.html.md",
       "meta": {
         "scope": [
           "catalog"
@@ -7090,7 +7090,7 @@
       "tags": [
         "catalog"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__catalog__price-type__events__index.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__catalog__price-type__events__index.html.md",
       "meta": {
         "scope": [
           "catalog"
@@ -7117,7 +7117,7 @@
       "tags": [
         "catalog"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__catalog__price-type__index.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__catalog__price-type__index.html.md",
       "meta": {
         "scope": [
           "catalog"
@@ -7144,7 +7144,7 @@
       "tags": [
         "catalog"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__catalog__price-type__price-type-group__catalog-price-type-group-add.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__catalog__price-type__price-type-group__catalog-price-type-group-add.html.md",
       "meta": {
         "scope": [
           "catalog"
@@ -7192,7 +7192,7 @@
       "tags": [
         "catalog"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__catalog__price-type__price-type-group__catalog-price-type-group-delete.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__catalog__price-type__price-type-group__catalog-price-type-group-delete.html.md",
       "meta": {
         "scope": [
           "catalog"
@@ -7240,7 +7240,7 @@
       "tags": [
         "catalog"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__catalog__price-type__price-type-group__catalog-price-type-group-get-fields.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__catalog__price-type__price-type-group__catalog-price-type-group-get-fields.html.md",
       "meta": {
         "scope": [
           "catalog"
@@ -7288,7 +7288,7 @@
       "tags": [
         "catalog"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__catalog__price-type__price-type-group__catalog-price-type-group-list.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__catalog__price-type__price-type-group__catalog-price-type-group-list.html.md",
       "meta": {
         "scope": [
           "catalog"
@@ -7336,7 +7336,7 @@
       "tags": [
         "catalog"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__catalog__price-type__price-type-group__index.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__catalog__price-type__price-type-group__index.html.md",
       "meta": {
         "scope": [
           "catalog"
@@ -7363,7 +7363,7 @@
       "tags": [
         "catalog"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__catalog__price-type__price-type-lang__catalog-price-type-lang-add.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__catalog__price-type__price-type-lang__catalog-price-type-lang-add.html.md",
       "meta": {
         "scope": [
           "catalog"
@@ -7524,7 +7524,7 @@
       "tags": [
         "catalog"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__catalog__price-type__price-type-lang__catalog-price-type-lang-delete.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__catalog__price-type__price-type-lang__catalog-price-type-lang-delete.html.md",
       "meta": {
         "scope": [
           "catalog"
@@ -7680,7 +7680,7 @@
       "tags": [
         "catalog"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__catalog__price-type__price-type-lang__catalog-price-type-lang-get-fields.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__catalog__price-type__price-type-lang__catalog-price-type-lang-get-fields.html.md",
       "meta": {
         "scope": [
           "catalog"
@@ -7835,7 +7835,7 @@
       "tags": [
         "catalog"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__catalog__price-type__price-type-lang__catalog-price-type-lang-get-languages.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__catalog__price-type__price-type-lang__catalog-price-type-lang-get-languages.html.md",
       "meta": {
         "scope": [
           "catalog"
@@ -7990,7 +7990,7 @@
       "tags": [
         "catalog"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__catalog__price-type__price-type-lang__catalog-price-type-lang-get.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__catalog__price-type__price-type-lang__catalog-price-type-lang-get.html.md",
       "meta": {
         "scope": [
           "catalog"
@@ -8151,7 +8151,7 @@
       "tags": [
         "catalog"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__catalog__price-type__price-type-lang__catalog-price-type-lang-list.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__catalog__price-type__price-type-lang__catalog-price-type-lang-list.html.md",
       "meta": {
         "scope": [
           "catalog"
@@ -8332,7 +8332,7 @@
       "tags": [
         "catalog"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__catalog__price-type__price-type-lang__catalog-price-type-lang-update.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__catalog__price-type__price-type-lang__catalog-price-type-lang-update.html.md",
       "meta": {
         "scope": [
           "catalog"
@@ -8498,7 +8498,7 @@
       "tags": [
         "catalog"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__catalog__price-type__price-type-lang__index.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__catalog__price-type__price-type-lang__index.html.md",
       "meta": {
         "scope": [
           "catalog"
@@ -8525,7 +8525,7 @@
       "tags": [
         "catalog"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__catalog__price__catalog-price-add.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__catalog__price__catalog-price-add.html.md",
       "meta": {
         "scope": [
           "catalog"
@@ -8686,7 +8686,7 @@
       "tags": [
         "catalog"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__catalog__price__catalog-price-delete.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__catalog__price__catalog-price-delete.html.md",
       "meta": {
         "scope": [
           "catalog"
@@ -8842,7 +8842,7 @@
       "tags": [
         "catalog"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__catalog__price__catalog-price-get-fields.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__catalog__price__catalog-price-get-fields.html.md",
       "meta": {
         "scope": [
           "catalog"
@@ -8997,7 +8997,7 @@
       "tags": [
         "catalog"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__catalog__price__catalog-price-get.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__catalog__price__catalog-price-get.html.md",
       "meta": {
         "scope": [
           "catalog"
@@ -9158,7 +9158,7 @@
       "tags": [
         "catalog"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__catalog__price__catalog-price-list.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__catalog__price__catalog-price-list.html.md",
       "meta": {
         "scope": [
           "catalog"
@@ -9339,7 +9339,7 @@
       "tags": [
         "catalog"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__catalog__price__catalog-price-modify.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__catalog__price__catalog-price-modify.html.md",
       "meta": {
         "scope": [
           "catalog"
@@ -9500,7 +9500,7 @@
       "tags": [
         "catalog"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__catalog__price__catalog-price-update.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__catalog__price__catalog-price-update.html.md",
       "meta": {
         "scope": [
           "catalog"
@@ -9666,7 +9666,7 @@
       "tags": [
         "catalog"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__catalog__price__events__catalog-price-on-add.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__catalog__price__events__catalog-price-on-add.html.md",
       "meta": {
         "scope": [
           "catalog"
@@ -9698,7 +9698,7 @@
       "tags": [
         "catalog"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__catalog__price__events__catalog-price-on-delete.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__catalog__price__events__catalog-price-on-delete.html.md",
       "meta": {
         "scope": [
           "catalog"
@@ -9730,7 +9730,7 @@
       "tags": [
         "catalog"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__catalog__price__events__catalog-price-on-update.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__catalog__price__events__catalog-price-on-update.html.md",
       "meta": {
         "scope": [
           "catalog"
@@ -9762,7 +9762,7 @@
       "tags": [
         "catalog"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__catalog__price__events__index.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__catalog__price__events__index.html.md",
       "meta": {
         "scope": [
           "catalog"
@@ -9789,7 +9789,7 @@
       "tags": [
         "catalog"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__catalog__price__index.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__catalog__price__index.html.md",
       "meta": {
         "scope": [
           "catalog"
@@ -9816,7 +9816,7 @@
       "tags": [
         "catalog"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__catalog__product-image__catalog-product-image-add.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__catalog__product-image__catalog-product-image-add.html.md",
       "meta": {
         "scope": [
           "catalog"
@@ -9982,7 +9982,7 @@
       "tags": [
         "catalog"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__catalog__product-image__catalog-product-image-delete.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__catalog__product-image__catalog-product-image-delete.html.md",
       "meta": {
         "scope": [
           "catalog"
@@ -10143,7 +10143,7 @@
       "tags": [
         "catalog"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__catalog__product-image__catalog-product-image-get-fields.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__catalog__product-image__catalog-product-image-get-fields.html.md",
       "meta": {
         "scope": [
           "catalog"
@@ -10298,7 +10298,7 @@
       "tags": [
         "catalog"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__catalog__product-image__catalog-product-image-get.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__catalog__product-image__catalog-product-image-get.html.md",
       "meta": {
         "scope": [
           "catalog"
@@ -10464,7 +10464,7 @@
       "tags": [
         "catalog"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__catalog__product-image__catalog-product-image-list.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__catalog__product-image__catalog-product-image-list.html.md",
       "meta": {
         "scope": [
           "catalog"
@@ -10635,7 +10635,7 @@
       "tags": [
         "catalog"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__catalog__product-image__index.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__catalog__product-image__index.html.md",
       "meta": {
         "scope": [
           "catalog"
@@ -10662,7 +10662,7 @@
       "tags": [
         "catalog"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__catalog__product-property-enum__catalog-product-property-enum-add.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__catalog__product-property-enum__catalog-product-property-enum-add.html.md",
       "meta": {
         "scope": [
           "catalog"
@@ -10710,7 +10710,7 @@
       "tags": [
         "catalog"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__catalog__product-property-enum__catalog-product-property-enum-delete.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__catalog__product-property-enum__catalog-product-property-enum-delete.html.md",
       "meta": {
         "scope": [
           "catalog"
@@ -10758,7 +10758,7 @@
       "tags": [
         "catalog"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__catalog__product-property-enum__catalog-product-property-enum-get-fields.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__catalog__product-property-enum__catalog-product-property-enum-get-fields.html.md",
       "meta": {
         "scope": [
           "catalog"
@@ -10806,7 +10806,7 @@
       "tags": [
         "catalog"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__catalog__product-property-enum__catalog-product-property-enum-get.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__catalog__product-property-enum__catalog-product-property-enum-get.html.md",
       "meta": {
         "scope": [
           "catalog"
@@ -10854,7 +10854,7 @@
       "tags": [
         "catalog"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__catalog__product-property-enum__catalog-product-property-enum-list.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__catalog__product-property-enum__catalog-product-property-enum-list.html.md",
       "meta": {
         "scope": [
           "catalog"
@@ -10902,7 +10902,7 @@
       "tags": [
         "catalog"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__catalog__product-property-enum__catalog-product-property-enum-update.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__catalog__product-property-enum__catalog-product-property-enum-update.html.md",
       "meta": {
         "scope": [
           "catalog"
@@ -10950,7 +10950,7 @@
       "tags": [
         "catalog"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__catalog__product-property-enum__index.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__catalog__product-property-enum__index.html.md",
       "meta": {
         "scope": [
           "catalog"
@@ -10977,7 +10977,7 @@
       "tags": [
         "catalog"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__catalog__product-property-feature__catalog-product-property-feature-add.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__catalog__product-property-feature__catalog-product-property-feature-add.html.md",
       "meta": {
         "scope": [
           "catalog"
@@ -11025,7 +11025,7 @@
       "tags": [
         "catalog"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__catalog__product-property-feature__catalog-product-property-feature-get-available-features-by-property.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__catalog__product-property-feature__catalog-product-property-feature-get-available-features-by-property.html.md",
       "meta": {
         "scope": [
           "catalog"
@@ -11073,7 +11073,7 @@
       "tags": [
         "catalog"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__catalog__product-property-feature__catalog-product-property-feature-get-fields.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__catalog__product-property-feature__catalog-product-property-feature-get-fields.html.md",
       "meta": {
         "scope": [
           "catalog"
@@ -11121,7 +11121,7 @@
       "tags": [
         "catalog"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__catalog__product-property-feature__catalog-product-property-feature-get.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__catalog__product-property-feature__catalog-product-property-feature-get.html.md",
       "meta": {
         "scope": [
           "catalog"
@@ -11169,7 +11169,7 @@
       "tags": [
         "catalog"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__catalog__product-property-feature__catalog-product-property-feature-update.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__catalog__product-property-feature__catalog-product-property-feature-update.html.md",
       "meta": {
         "scope": [
           "catalog"
@@ -11217,7 +11217,7 @@
       "tags": [
         "catalog"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__catalog__product-property-feature__index.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__catalog__product-property-feature__index.html.md",
       "meta": {
         "scope": [
           "catalog"
@@ -11244,7 +11244,7 @@
       "tags": [
         "catalog"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__catalog__product-property-section__catalog-product-property-section-get.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__catalog__product-property-section__catalog-product-property-section-get.html.md",
       "meta": {
         "scope": [
           "catalog"
@@ -11292,7 +11292,7 @@
       "tags": [
         "catalog"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__catalog__product-property-section__catalog-product-property-section-list.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__catalog__product-property-section__catalog-product-property-section-list.html.md",
       "meta": {
         "scope": [
           "catalog"
@@ -11340,7 +11340,7 @@
       "tags": [
         "catalog"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__catalog__product-property-section__catalog-product-property-section-set.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__catalog__product-property-section__catalog-product-property-section-set.html.md",
       "meta": {
         "scope": [
           "catalog"
@@ -11388,7 +11388,7 @@
       "tags": [
         "catalog"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__catalog__product-property-section__index.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__catalog__product-property-section__index.html.md",
       "meta": {
         "scope": [
           "catalog"
@@ -11415,7 +11415,7 @@
       "tags": [
         "catalog"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__catalog__product-property__catalog-product-property-add.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__catalog__product-property__catalog-product-property-add.html.md",
       "meta": {
         "scope": [
           "catalog"
@@ -11463,7 +11463,7 @@
       "tags": [
         "catalog"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__catalog__product-property__catalog-product-property-delete.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__catalog__product-property__catalog-product-property-delete.html.md",
       "meta": {
         "scope": [
           "catalog"
@@ -11511,7 +11511,7 @@
       "tags": [
         "catalog"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__catalog__product-property__catalog-product-property-get-fields.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__catalog__product-property__catalog-product-property-get-fields.html.md",
       "meta": {
         "scope": [
           "catalog"
@@ -11559,7 +11559,7 @@
       "tags": [
         "catalog"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__catalog__product-property__catalog-product-property-get.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__catalog__product-property__catalog-product-property-get.html.md",
       "meta": {
         "scope": [
           "catalog"
@@ -11607,7 +11607,7 @@
       "tags": [
         "catalog"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__catalog__product-property__catalog-product-property-list.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__catalog__product-property__catalog-product-property-list.html.md",
       "meta": {
         "scope": [
           "catalog"
@@ -11655,7 +11655,7 @@
       "tags": [
         "catalog"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__catalog__product-property__catalog-product-property-update.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__catalog__product-property__catalog-product-property-update.html.md",
       "meta": {
         "scope": [
           "catalog"
@@ -11703,7 +11703,7 @@
       "tags": [
         "catalog"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__catalog__product-property__index.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__catalog__product-property__index.html.md",
       "meta": {
         "scope": [
           "catalog"
@@ -11730,7 +11730,7 @@
       "tags": [
         "catalog"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__catalog__product__catalog-product-add.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__catalog__product__catalog-product-add.html.md",
       "meta": {
         "scope": [
           "catalog"
@@ -11891,7 +11891,7 @@
       "tags": [
         "catalog"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__catalog__product__catalog-product-delete.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__catalog__product__catalog-product-delete.html.md",
       "meta": {
         "scope": [
           "catalog"
@@ -12047,7 +12047,7 @@
       "tags": [
         "catalog"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__catalog__product__catalog-product-download.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__catalog__product__catalog-product-download.html.md",
       "meta": {
         "scope": [
           "catalog"
@@ -12192,7 +12192,7 @@
       "tags": [
         "catalog"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__catalog__product__catalog-product-get-fields-by-filter.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__catalog__product__catalog-product-get-fields-by-filter.html.md",
       "meta": {
         "scope": [
           "catalog"
@@ -12347,7 +12347,7 @@
       "tags": [
         "catalog"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__catalog__product__catalog-product-get.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__catalog__product__catalog-product-get.html.md",
       "meta": {
         "scope": [
           "catalog"
@@ -12508,7 +12508,7 @@
       "tags": [
         "catalog"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__catalog__product__catalog-product-list.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__catalog__product__catalog-product-list.html.md",
       "meta": {
         "scope": [
           "catalog"
@@ -12689,7 +12689,7 @@
       "tags": [
         "catalog"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__catalog__product__catalog-product-update.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__catalog__product__catalog-product-update.html.md",
       "meta": {
         "scope": [
           "catalog"
@@ -12855,7 +12855,7 @@
       "tags": [
         "catalog"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__catalog__product__events__catalog-product-on-add.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__catalog__product__events__catalog-product-on-add.html.md",
       "meta": {
         "scope": [
           "catalog"
@@ -12887,7 +12887,7 @@
       "tags": [
         "catalog"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__catalog__product__events__catalog-product-on-delete.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__catalog__product__events__catalog-product-on-delete.html.md",
       "meta": {
         "scope": [
           "catalog"
@@ -12919,7 +12919,7 @@
       "tags": [
         "catalog"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__catalog__product__events__catalog-product-on-update.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__catalog__product__events__catalog-product-on-update.html.md",
       "meta": {
         "scope": [
           "catalog"
@@ -12951,7 +12951,7 @@
       "tags": [
         "catalog"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__catalog__product__events__index.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__catalog__product__events__index.html.md",
       "meta": {
         "scope": [
           "catalog"
@@ -12978,7 +12978,7 @@
       "tags": [
         "catalog"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__catalog__product__index.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__catalog__product__index.html.md",
       "meta": {
         "scope": [
           "catalog"
@@ -13005,7 +13005,7 @@
       "tags": [
         "catalog"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__catalog__product__offer__catalog-product-offer-add.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__catalog__product__offer__catalog-product-offer-add.html.md",
       "meta": {
         "scope": [
           "catalog"
@@ -13166,7 +13166,7 @@
       "tags": [
         "catalog"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__catalog__product__offer__catalog-product-offer-delete.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__catalog__product__offer__catalog-product-offer-delete.html.md",
       "meta": {
         "scope": [
           "catalog"
@@ -13322,7 +13322,7 @@
       "tags": [
         "catalog"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__catalog__product__offer__catalog-product-offer-download.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__catalog__product__offer__catalog-product-offer-download.html.md",
       "meta": {
         "scope": [
           "catalog"
@@ -13467,7 +13467,7 @@
       "tags": [
         "catalog"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__catalog__product__offer__catalog-product-offer-get-fields-by-filter.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__catalog__product__offer__catalog-product-offer-get-fields-by-filter.html.md",
       "meta": {
         "scope": [
           "catalog"
@@ -13628,7 +13628,7 @@
       "tags": [
         "catalog"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__catalog__product__offer__catalog-product-offer-get.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__catalog__product__offer__catalog-product-offer-get.html.md",
       "meta": {
         "scope": [
           "catalog"
@@ -13789,7 +13789,7 @@
       "tags": [
         "catalog"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__catalog__product__offer__catalog-product-offer-list.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__catalog__product__offer__catalog-product-offer-list.html.md",
       "meta": {
         "scope": [
           "catalog"
@@ -13970,7 +13970,7 @@
       "tags": [
         "catalog"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__catalog__product__offer__catalog-product-offer-update.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__catalog__product__offer__catalog-product-offer-update.html.md",
       "meta": {
         "scope": [
           "catalog"
@@ -14136,7 +14136,7 @@
       "tags": [
         "catalog"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__catalog__product__offer__index.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__catalog__product__offer__index.html.md",
       "meta": {
         "scope": [
           "catalog"
@@ -14163,7 +14163,7 @@
       "tags": [
         "catalog"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__catalog__product__service__catalog-product-service-add.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__catalog__product__service__catalog-product-service-add.html.md",
       "meta": {
         "scope": [
           "catalog"
@@ -14324,7 +14324,7 @@
       "tags": [
         "catalog"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__catalog__product__service__catalog-product-service-delete.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__catalog__product__service__catalog-product-service-delete.html.md",
       "meta": {
         "scope": [
           "catalog"
@@ -14480,7 +14480,7 @@
       "tags": [
         "catalog"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__catalog__product__service__catalog-product-service-download.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__catalog__product__service__catalog-product-service-download.html.md",
       "meta": {
         "scope": [
           "catalog"
@@ -14625,7 +14625,7 @@
       "tags": [
         "catalog"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__catalog__product__service__catalog-product-service-get-fields-by-filter.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__catalog__product__service__catalog-product-service-get-fields-by-filter.html.md",
       "meta": {
         "scope": [
           "catalog"
@@ -14786,7 +14786,7 @@
       "tags": [
         "catalog"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__catalog__product__service__catalog-product-service-get.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__catalog__product__service__catalog-product-service-get.html.md",
       "meta": {
         "scope": [
           "catalog"
@@ -14947,7 +14947,7 @@
       "tags": [
         "catalog"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__catalog__product__service__catalog-product-service-list.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__catalog__product__service__catalog-product-service-list.html.md",
       "meta": {
         "scope": [
           "catalog"
@@ -15128,7 +15128,7 @@
       "tags": [
         "catalog"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__catalog__product__service__catalog-product-service-update.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__catalog__product__service__catalog-product-service-update.html.md",
       "meta": {
         "scope": [
           "catalog"
@@ -15294,7 +15294,7 @@
       "tags": [
         "catalog"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__catalog__product__service__index.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__catalog__product__service__index.html.md",
       "meta": {
         "scope": [
           "catalog"
@@ -15321,7 +15321,7 @@
       "tags": [
         "catalog"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__catalog__product__sku__catalog-product-sku-add.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__catalog__product__sku__catalog-product-sku-add.html.md",
       "meta": {
         "scope": [
           "catalog"
@@ -15482,7 +15482,7 @@
       "tags": [
         "catalog"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__catalog__product__sku__catalog-product-sku-delete.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__catalog__product__sku__catalog-product-sku-delete.html.md",
       "meta": {
         "scope": [
           "catalog"
@@ -15638,7 +15638,7 @@
       "tags": [
         "catalog"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__catalog__product__sku__catalog-product-sku-download.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__catalog__product__sku__catalog-product-sku-download.html.md",
       "meta": {
         "scope": [
           "catalog"
@@ -15783,7 +15783,7 @@
       "tags": [
         "catalog"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__catalog__product__sku__catalog-product-sku-get-fields-by-filter.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__catalog__product__sku__catalog-product-sku-get-fields-by-filter.html.md",
       "meta": {
         "scope": [
           "catalog"
@@ -15944,7 +15944,7 @@
       "tags": [
         "catalog"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__catalog__product__sku__catalog-product-sku-get.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__catalog__product__sku__catalog-product-sku-get.html.md",
       "meta": {
         "scope": [
           "catalog"
@@ -16105,7 +16105,7 @@
       "tags": [
         "catalog"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__catalog__product__sku__catalog-product-sku-list.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__catalog__product__sku__catalog-product-sku-list.html.md",
       "meta": {
         "scope": [
           "catalog"
@@ -16286,7 +16286,7 @@
       "tags": [
         "catalog"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__catalog__product__sku__catalog-product-sku-update.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__catalog__product__sku__catalog-product-sku-update.html.md",
       "meta": {
         "scope": [
           "catalog"
@@ -16452,7 +16452,7 @@
       "tags": [
         "catalog"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__catalog__product__sku__index.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__catalog__product__sku__index.html.md",
       "meta": {
         "scope": [
           "catalog"
@@ -16479,7 +16479,7 @@
       "tags": [
         "catalog"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__catalog__ratio__catalog-ratio-get-fields.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__catalog__ratio__catalog-ratio-get-fields.html.md",
       "meta": {
         "scope": [
           "catalog"
@@ -16634,7 +16634,7 @@
       "tags": [
         "catalog"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__catalog__ratio__catalog-ratio-get.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__catalog__ratio__catalog-ratio-get.html.md",
       "meta": {
         "scope": [
           "catalog"
@@ -16795,7 +16795,7 @@
       "tags": [
         "catalog"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__catalog__ratio__catalog-ratio-list.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__catalog__ratio__catalog-ratio-list.html.md",
       "meta": {
         "scope": [
           "catalog"
@@ -16976,7 +16976,7 @@
       "tags": [
         "catalog"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__catalog__ratio__index.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__catalog__ratio__index.html.md",
       "meta": {
         "scope": [
           "catalog"
@@ -17003,7 +17003,7 @@
       "tags": [
         "catalog"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__catalog__rounding-rule__catalog-rounding-rule-add.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__catalog__rounding-rule__catalog-rounding-rule-add.html.md",
       "meta": {
         "scope": [
           "catalog"
@@ -17164,7 +17164,7 @@
       "tags": [
         "catalog"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__catalog__rounding-rule__catalog-rounding-rule-delete.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__catalog__rounding-rule__catalog-rounding-rule-delete.html.md",
       "meta": {
         "scope": [
           "catalog"
@@ -17320,7 +17320,7 @@
       "tags": [
         "catalog"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__catalog__rounding-rule__catalog-rounding-rule-get-fields.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__catalog__rounding-rule__catalog-rounding-rule-get-fields.html.md",
       "meta": {
         "scope": [
           "catalog"
@@ -17475,7 +17475,7 @@
       "tags": [
         "catalog"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__catalog__rounding-rule__catalog-rounding-rule-get.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__catalog__rounding-rule__catalog-rounding-rule-get.html.md",
       "meta": {
         "scope": [
           "catalog"
@@ -17636,7 +17636,7 @@
       "tags": [
         "catalog"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__catalog__rounding-rule__catalog-rounding-rule-list.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__catalog__rounding-rule__catalog-rounding-rule-list.html.md",
       "meta": {
         "scope": [
           "catalog"
@@ -17817,7 +17817,7 @@
       "tags": [
         "catalog"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__catalog__rounding-rule__catalog-rounding-rule-update.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__catalog__rounding-rule__catalog-rounding-rule-update.html.md",
       "meta": {
         "scope": [
           "catalog"
@@ -17983,7 +17983,7 @@
       "tags": [
         "catalog"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__catalog__rounding-rule__events__catalog-rounding-on-add.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__catalog__rounding-rule__events__catalog-rounding-on-add.html.md",
       "meta": {
         "scope": [
           "catalog"
@@ -18015,7 +18015,7 @@
       "tags": [
         "catalog"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__catalog__rounding-rule__events__catalog-rounding-on-delete.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__catalog__rounding-rule__events__catalog-rounding-on-delete.html.md",
       "meta": {
         "scope": [
           "catalog"
@@ -18047,7 +18047,7 @@
       "tags": [
         "catalog"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__catalog__rounding-rule__events__catalog-rounding-on-update.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__catalog__rounding-rule__events__catalog-rounding-on-update.html.md",
       "meta": {
         "scope": [
           "catalog"
@@ -18079,7 +18079,7 @@
       "tags": [
         "catalog"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__catalog__rounding-rule__events__index.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__catalog__rounding-rule__events__index.html.md",
       "meta": {
         "scope": [
           "catalog"
@@ -18106,7 +18106,7 @@
       "tags": [
         "catalog"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__catalog__rounding-rule__index.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__catalog__rounding-rule__index.html.md",
       "meta": {
         "scope": [
           "catalog"
@@ -18133,7 +18133,7 @@
       "tags": [
         "catalog"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__catalog__section__catalog-section-add.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__catalog__section__catalog-section-add.html.md",
       "meta": {
         "scope": [
           "catalog"
@@ -18294,7 +18294,7 @@
       "tags": [
         "catalog"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__catalog__section__catalog-section-delete.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__catalog__section__catalog-section-delete.html.md",
       "meta": {
         "scope": [
           "catalog"
@@ -18450,7 +18450,7 @@
       "tags": [
         "catalog"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__catalog__section__catalog-section-get-fields.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__catalog__section__catalog-section-get-fields.html.md",
       "meta": {
         "scope": [
           "catalog"
@@ -18605,7 +18605,7 @@
       "tags": [
         "catalog"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__catalog__section__catalog-section-get.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__catalog__section__catalog-section-get.html.md",
       "meta": {
         "scope": [
           "catalog"
@@ -18766,7 +18766,7 @@
       "tags": [
         "catalog"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__catalog__section__catalog-section-list.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__catalog__section__catalog-section-list.html.md",
       "meta": {
         "scope": [
           "catalog"
@@ -18947,7 +18947,7 @@
       "tags": [
         "catalog"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__catalog__section__catalog-section-update.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__catalog__section__catalog-section-update.html.md",
       "meta": {
         "scope": [
           "catalog"
@@ -19113,7 +19113,7 @@
       "tags": [
         "catalog"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__catalog__section__index.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__catalog__section__index.html.md",
       "meta": {
         "scope": [
           "catalog"
@@ -19140,7 +19140,7 @@
       "tags": [
         "catalog"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__catalog__store-product__catalog-store-product-get-fields.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__catalog__store-product__catalog-store-product-get-fields.html.md",
       "meta": {
         "scope": [
           "catalog"
@@ -19295,7 +19295,7 @@
       "tags": [
         "catalog"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__catalog__store-product__catalog-store-product-get.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__catalog__store-product__catalog-store-product-get.html.md",
       "meta": {
         "scope": [
           "catalog"
@@ -19456,7 +19456,7 @@
       "tags": [
         "catalog"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__catalog__store-product__catalog-store-product-list.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__catalog__store-product__catalog-store-product-list.html.md",
       "meta": {
         "scope": [
           "catalog"
@@ -19637,7 +19637,7 @@
       "tags": [
         "catalog"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__catalog__store-product__index.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__catalog__store-product__index.html.md",
       "meta": {
         "scope": [
           "catalog"
@@ -19664,7 +19664,7 @@
       "tags": [
         "catalog"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__catalog__store__catalog-store-add.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__catalog__store__catalog-store-add.html.md",
       "meta": {
         "scope": [
           "catalog"
@@ -19825,7 +19825,7 @@
       "tags": [
         "catalog"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__catalog__store__catalog-store-delete.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__catalog__store__catalog-store-delete.html.md",
       "meta": {
         "scope": [
           "catalog"
@@ -19981,7 +19981,7 @@
       "tags": [
         "catalog"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__catalog__store__catalog-store-get-fields.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__catalog__store__catalog-store-get-fields.html.md",
       "meta": {
         "scope": [
           "catalog"
@@ -20136,7 +20136,7 @@
       "tags": [
         "catalog"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__catalog__store__catalog-store-get.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__catalog__store__catalog-store-get.html.md",
       "meta": {
         "scope": [
           "catalog"
@@ -20297,7 +20297,7 @@
       "tags": [
         "catalog"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__catalog__store__catalog-store-list.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__catalog__store__catalog-store-list.html.md",
       "meta": {
         "scope": [
           "catalog"
@@ -20478,7 +20478,7 @@
       "tags": [
         "catalog"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__catalog__store__catalog-store-update.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__catalog__store__catalog-store-update.html.md",
       "meta": {
         "scope": [
           "catalog"
@@ -20644,7 +20644,7 @@
       "tags": [
         "catalog"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__catalog__store__index.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__catalog__store__index.html.md",
       "meta": {
         "scope": [
           "catalog"
@@ -20671,7 +20671,7 @@
       "tags": [
         "catalog"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__catalog__userfield-document__catalog-userfield-document-list.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__catalog__userfield-document__catalog-userfield-document-list.html.md",
       "meta": {
         "scope": [
           "catalog"
@@ -20719,7 +20719,7 @@
       "tags": [
         "catalog"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__catalog__userfield-document__catalog-userfield-document-update.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__catalog__userfield-document__catalog-userfield-document-update.html.md",
       "meta": {
         "scope": [
           "catalog"
@@ -20767,7 +20767,7 @@
       "tags": [
         "catalog"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__catalog__userfield-document__index.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__catalog__userfield-document__index.html.md",
       "meta": {
         "scope": [
           "catalog"
@@ -20794,7 +20794,7 @@
       "tags": [
         "catalog"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__catalog__vat__catalog-vat-add.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__catalog__vat__catalog-vat-add.html.md",
       "meta": {
         "scope": [
           "catalog"
@@ -20955,7 +20955,7 @@
       "tags": [
         "catalog"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__catalog__vat__catalog-vat-delete.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__catalog__vat__catalog-vat-delete.html.md",
       "meta": {
         "scope": [
           "catalog"
@@ -21111,7 +21111,7 @@
       "tags": [
         "catalog"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__catalog__vat__catalog-vat-get-fields.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__catalog__vat__catalog-vat-get-fields.html.md",
       "meta": {
         "scope": [
           "catalog"
@@ -21266,7 +21266,7 @@
       "tags": [
         "catalog"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__catalog__vat__catalog-vat-get.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__catalog__vat__catalog-vat-get.html.md",
       "meta": {
         "scope": [
           "catalog"
@@ -21427,7 +21427,7 @@
       "tags": [
         "catalog"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__catalog__vat__catalog-vat-list.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__catalog__vat__catalog-vat-list.html.md",
       "meta": {
         "scope": [
           "catalog"
@@ -21608,7 +21608,7 @@
       "tags": [
         "catalog"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__catalog__vat__catalog-vat-update.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__catalog__vat__catalog-vat-update.html.md",
       "meta": {
         "scope": [
           "catalog"
@@ -21774,7 +21774,7 @@
       "tags": [
         "catalog"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__catalog__vat__index.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__catalog__vat__index.html.md",
       "meta": {
         "scope": [
           "catalog"

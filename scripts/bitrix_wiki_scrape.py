@@ -492,6 +492,7 @@ def main() -> int:
 
         raw_path = os.path.join(sources_dir, f"{slug}.html")
         md_path = os.path.join(wiki_dir, f"{slug}.md")
+        md_rel_path = os.path.relpath(md_path, args.out)
         write_text(raw_path, html)
         write_text(md_path, text + "\n")
 
@@ -507,7 +508,7 @@ def main() -> int:
             "source_path": "",
             "last_updated": "",
             "tags": [],
-            "body_md_path": md_path,
+            "body_md_path": md_rel_path,
             "params": {},
             "returns": {},
             "examples": [],
@@ -516,7 +517,7 @@ def main() -> int:
         if "apidocs.bitrix24.ru/api-reference/" in url:
             parsed = build_entity_from_apidocs(url, html, slug)
             if parsed:
-                parsed["body_md_path"] = md_path
+                parsed["body_md_path"] = md_rel_path
                 entities.append(parsed)
             else:
                 entities.append(base_entity)
@@ -531,11 +532,12 @@ def main() -> int:
         slug = sanitize_filename(url)
         raw_path = os.path.join(sources_dir, f"{slug}.html")
         md_path = os.path.join(wiki_dir, f"{slug}.md")
+        md_rel_path = os.path.relpath(md_path, args.out)
         write_text(raw_path, html)
         write_text(md_path, text + "\n")
         parsed = build_entity_from_apidocs(url, html, slug)
         if parsed:
-            parsed["body_md_path"] = md_path
+            parsed["body_md_path"] = md_rel_path
             entities.append(parsed)
         else:
             entities.append(
@@ -550,7 +552,7 @@ def main() -> int:
                     "source_path": "",
                     "last_updated": "",
                     "tags": [],
-                    "body_md_path": md_path,
+                    "body_md_path": md_rel_path,
                     "params": {},
                     "returns": {},
                     "examples": [],
@@ -569,6 +571,7 @@ def main() -> int:
             rel_path = os.path.relpath(path, repo_path)
             slug = sanitize_filename(f"{src.get('repo_url','repo')}::{rel_path}")
             md_path = os.path.join(wiki_dir, f"{slug}.md")
+            md_rel_path = os.path.relpath(md_path, args.out)
             write_text(md_path, md + ("\n" if not md.endswith("\n") else ""))
 
             entities.append(
@@ -583,7 +586,7 @@ def main() -> int:
                     "source_path": rel_path,
                     "last_updated": "",
                     "tags": [],
-                    "body_md_path": md_path,
+                    "body_md_path": md_rel_path,
                     "params": {},
                     "returns": {},
                     "examples": [],

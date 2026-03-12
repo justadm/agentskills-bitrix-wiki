@@ -15,7 +15,7 @@
       "tags": [
         "document-generator"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__document-generator__document-generator-document-add.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__document-generator__document-generator-document-add.html.md",
       "meta": {
         "scope": [
           "documentgenerator"
@@ -42,7 +42,7 @@
       "tags": [
         "document-generator"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__document-generator__document-generator-document-delete.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__document-generator__document-generator-document-delete.html.md",
       "meta": {
         "scope": [
           "documentgenerator"
@@ -69,7 +69,7 @@
       "tags": [
         "document-generator"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__document-generator__document-generator-document-enable-public-url.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__document-generator__document-generator-document-enable-public-url.html.md",
       "meta": {
         "scope": [
           "documentgenerator"
@@ -101,7 +101,7 @@
       "tags": [
         "document-generator"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__document-generator__document-generator-document-get-fields.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__document-generator__document-generator-document-get-fields.html.md",
       "meta": {
         "scope": [
           "documentgenerator"
@@ -128,7 +128,7 @@
       "tags": [
         "document-generator"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__document-generator__document-generator-document-get.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__document-generator__document-generator-document-get.html.md",
       "meta": {
         "scope": [
           "documentgenerator"
@@ -160,7 +160,7 @@
       "tags": [
         "document-generator"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__document-generator__document-generator-document-list.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__document-generator__document-generator-document-list.html.md",
       "meta": {
         "scope": [
           "documentgenerator"
@@ -196,7 +196,7 @@
       "tags": [
         "document-generator"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__document-generator__document-generator-document-update.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__document-generator__document-generator-document-update.html.md",
       "meta": {
         "scope": [
           "documentgenerator"
@@ -223,7 +223,7 @@
       "tags": [
         "document-generator"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__document-generator__examples__document-date-name.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__document-generator__examples__document-date-name.html.md",
       "meta": {
         "scope": [],
         "who_can_execute": ""
@@ -257,7 +257,7 @@
       "tags": [
         "document-generator"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__document-generator__examples__document-images-seals.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__document-generator__examples__document-images-seals.html.md",
       "meta": {
         "scope": [],
         "who_can_execute": ""
@@ -287,7 +287,7 @@
       "tags": [
         "document-generator"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__document-generator__examples__document-table-complex.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__document-generator__examples__document-table-complex.html.md",
       "meta": {
         "scope": [],
         "who_can_execute": ""
@@ -325,7 +325,7 @@
       "tags": [
         "document-generator"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__document-generator__examples__document-table-data.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__document-generator__examples__document-table-data.html.md",
       "meta": {
         "scope": [],
         "who_can_execute": ""
@@ -359,7 +359,7 @@
       "tags": [
         "document-generator"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__document-generator__examples__index.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__document-generator__examples__index.html.md",
       "meta": {
         "scope": [],
         "who_can_execute": ""
@@ -389,7 +389,7 @@
       "tags": [
         "document-generator"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__document-generator__index.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__document-generator__index.html.md",
       "meta": {
         "scope": [],
         "who_can_execute": ""
@@ -414,7 +414,7 @@
       "tags": [
         "document-generator"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__document-generator__numerators__document-generator-numerator-add.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__document-generator__numerators__document-generator-numerator-add.html.md",
       "meta": {
         "scope": [
           "documentgenerator"
@@ -450,7 +450,7 @@
       "tags": [
         "document-generator"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__document-generator__numerators__document-generator-numerator-delete.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__document-generator__numerators__document-generator-numerator-delete.html.md",
       "meta": {
         "scope": [
           "documentgenerator"
@@ -477,7 +477,7 @@
       "tags": [
         "document-generator"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__document-generator__numerators__document-generator-numerator-get.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__document-generator__numerators__document-generator-numerator-get.html.md",
       "meta": {
         "scope": [
           "documentgenerator"
@@ -509,7 +509,7 @@
       "tags": [
         "document-generator"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__document-generator__numerators__document-generator-numerator-list.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__document-generator__numerators__document-generator-numerator-list.html.md",
       "meta": {
         "scope": [
           "documentgenerator"
@@ -541,7 +541,7 @@
       "tags": [
         "document-generator"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__document-generator__numerators__document-generator-numerator-update.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__document-generator__numerators__document-generator-numerator-update.html.md",
       "meta": {
         "scope": [
           "documentgenerator"
@@ -568,7 +568,7 @@
       "tags": [
         "document-generator"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__document-generator__numerators__index.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__document-generator__numerators__index.html.md",
       "meta": {
         "scope": [],
         "who_can_execute": ""
@@ -593,7 +593,7 @@
       "tags": [
         "document-generator"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__document-generator__region__document-generator-region-add.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__document-generator__region__document-generator-region-add.html.md",
       "meta": {
         "scope": [
           "documentgenerator"
@@ -625,7 +625,7 @@
       "tags": [
         "document-generator"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__document-generator__region__document-generator-region-delete.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__document-generator__region__document-generator-region-delete.html.md",
       "meta": {
         "scope": [
           "documentgenerator"
@@ -652,7 +652,7 @@
       "tags": [
         "document-generator"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__document-generator__region__document-generator-region-get.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__document-generator__region__document-generator-region-get.html.md",
       "meta": {
         "scope": [
           "documentgenerator"
@@ -684,7 +684,7 @@
       "tags": [
         "document-generator"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__document-generator__region__document-generator-region-list.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__document-generator__region__document-generator-region-list.html.md",
       "meta": {
         "scope": [
           "documentgenerator"
@@ -716,7 +716,7 @@
       "tags": [
         "document-generator"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__document-generator__region__document-generator-region-update.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__document-generator__region__document-generator-region-update.html.md",
       "meta": {
         "scope": [
           "documentgenerator"
@@ -743,7 +743,7 @@
       "tags": [
         "document-generator"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__document-generator__region__index.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__document-generator__region__index.html.md",
       "meta": {
         "scope": [
           "documentgenerator"
@@ -770,7 +770,7 @@
       "tags": [
         "document-generator"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__document-generator__role__document-generator-role-add.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__document-generator__role__document-generator-role-add.html.md",
       "meta": {
         "scope": [
           "documentgenerator"
@@ -802,7 +802,7 @@
       "tags": [
         "document-generator"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__document-generator__role__document-generator-role-delete.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__document-generator__role__document-generator-role-delete.html.md",
       "meta": {
         "scope": [
           "documentgenerator"
@@ -829,7 +829,7 @@
       "tags": [
         "document-generator"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__document-generator__role__document-generator-role-fill-accesses.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__document-generator__role__document-generator-role-fill-accesses.html.md",
       "meta": {
         "scope": [
           "documentgenerator"
@@ -861,7 +861,7 @@
       "tags": [
         "document-generator"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__document-generator__role__document-generator-role-get.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__document-generator__role__document-generator-role-get.html.md",
       "meta": {
         "scope": [
           "documentgenerator"
@@ -893,7 +893,7 @@
       "tags": [
         "document-generator"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__document-generator__role__document-generator-role-list.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__document-generator__role__document-generator-role-list.html.md",
       "meta": {
         "scope": [
           "documentgenerator"
@@ -925,7 +925,7 @@
       "tags": [
         "document-generator"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__document-generator__role__document-generator-role-update.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__document-generator__role__document-generator-role-update.html.md",
       "meta": {
         "scope": [
           "documentgenerator"
@@ -957,7 +957,7 @@
       "tags": [
         "document-generator"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__document-generator__role__index.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__document-generator__role__index.html.md",
       "meta": {
         "scope": [
           "documentgenerator"
@@ -984,7 +984,7 @@
       "tags": [
         "document-generator"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__document-generator__templates__document-generator-template-add.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__document-generator__templates__document-generator-template-add.html.md",
       "meta": {
         "scope": [
           "documentgenerator"
@@ -1020,7 +1020,7 @@
       "tags": [
         "document-generator"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__document-generator__templates__document-generator-template-delete.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__document-generator__templates__document-generator-template-delete.html.md",
       "meta": {
         "scope": [
           "documentgenerator"
@@ -1047,7 +1047,7 @@
       "tags": [
         "document-generator"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__document-generator__templates__document-generator-template-get-fields.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__document-generator__templates__document-generator-template-get-fields.html.md",
       "meta": {
         "scope": [
           "documentgenerator"
@@ -1083,7 +1083,7 @@
       "tags": [
         "document-generator"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__document-generator__templates__document-generator-template-get.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__document-generator__templates__document-generator-template-get.html.md",
       "meta": {
         "scope": [
           "documentgenerator"
@@ -1115,7 +1115,7 @@
       "tags": [
         "document-generator"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__document-generator__templates__document-generator-template-list.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__document-generator__templates__document-generator-template-list.html.md",
       "meta": {
         "scope": [
           "documentgenerator"
@@ -1155,7 +1155,7 @@
       "tags": [
         "document-generator"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__document-generator__templates__document-generator-template-update.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__document-generator__templates__document-generator-template-update.html.md",
       "meta": {
         "scope": [
           "documentgenerator"
@@ -1182,7 +1182,7 @@
       "tags": [
         "document-generator"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__document-generator__templates__index.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__document-generator__templates__index.html.md",
       "meta": {
         "scope": [
           "documentgenerator"

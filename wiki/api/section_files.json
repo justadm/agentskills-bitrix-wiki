@@ -15,7 +15,7 @@
       "tags": [
         "files"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__files__how-to-update-files.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__files__how-to-update-files.html.md",
       "meta": {
         "scope": [],
         "who_can_execute": ""
@@ -61,7 +61,7 @@
       "tags": [
         "files"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__files__how-to-upload-files.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__files__how-to-upload-files.html.md",
       "meta": {
         "scope": [],
         "who_can_execute": ""
@@ -107,7 +107,7 @@
       "tags": [
         "files"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__files__index.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__files__index.html.md",
       "meta": {
         "scope": [],
         "who_can_execute": ""

@@ -15,7 +15,7 @@
       "tags": [
         "landing"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__landing__additional-links.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__landing__additional-links.html.md",
       "meta": {
         "scope": [],
         "who_can_execute": ""
@@ -40,7 +40,7 @@
       "tags": [
         "landing"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__landing__block__attributes.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__landing__block__attributes.html.md",
       "meta": {
         "scope": [],
         "who_can_execute": ""
@@ -86,7 +86,7 @@
       "tags": [
         "landing"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__landing__block__extended-description.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__landing__block__extended-description.html.md",
       "meta": {
         "scope": [],
         "who_can_execute": ""
@@ -124,7 +124,7 @@
       "tags": [
         "landing"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__landing__block__index.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__landing__block__index.html.md",
       "meta": {
         "scope": [],
         "who_can_execute": ""
@@ -154,7 +154,7 @@
       "tags": [
         "landing"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__landing__block__interactive__gallery.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__landing__block__interactive__gallery.html.md",
       "meta": {
         "scope": [],
         "who_can_execute": ""
@@ -192,7 +192,7 @@
       "tags": [
         "landing"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__landing__block__interactive__index.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__landing__block__interactive__index.html.md",
       "meta": {
         "scope": [],
         "who_can_execute": ""
@@ -217,7 +217,7 @@
       "tags": [
         "landing"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__landing__block__interactive__sliders.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__landing__block__interactive__sliders.html.md",
       "meta": {
         "scope": [],
         "who_can_execute": ""
@@ -263,7 +263,7 @@
       "tags": [
         "landing"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__landing__block__interactive__timer.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__landing__block__interactive__timer.html.md",
       "meta": {
         "scope": [],
         "who_can_execute": ""
@@ -309,7 +309,7 @@
       "tags": [
         "landing"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__landing__block__localization.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__landing__block__localization.html.md",
       "meta": {
         "scope": [],
         "who_can_execute": ""
@@ -339,7 +339,7 @@
       "tags": [
         "landing"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__landing__block__manifest.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__landing__block__manifest.html.md",
       "meta": {
         "scope": [],
         "who_can_execute": ""
@@ -385,7 +385,7 @@
       "tags": [
         "landing"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__landing__block__methods__index.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__landing__block__methods__index.html.md",
       "meta": {
         "scope": [
           "landing"
@@ -412,7 +412,7 @@
       "tags": [
         "landing"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__landing__block__methods__landing-block-add-card.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__landing__block__methods__landing-block-add-card.html.md",
       "meta": {
         "scope": [
           "landing"
@@ -460,7 +460,7 @@
       "tags": [
         "landing"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__landing__block__methods__landing-block-change-anchor.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__landing__block__methods__landing-block-change-anchor.html.md",
       "meta": {
         "scope": [
           "landing"
@@ -508,7 +508,7 @@
       "tags": [
         "landing"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__landing__block__methods__landing-block-change-node-name.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__landing__block__methods__landing-block-change-node-name.html.md",
       "meta": {
         "scope": [
           "landing"
@@ -556,7 +556,7 @@
       "tags": [
         "landing"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__landing__block__methods__landing-block-clone-card.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__landing__block__methods__landing-block-clone-card.html.md",
       "meta": {
         "scope": [
           "landing"
@@ -604,7 +604,7 @@
       "tags": [
         "landing"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__landing__block__methods__landing-block-get-by-id.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__landing__block__methods__landing-block-get-by-id.html.md",
       "meta": {
         "scope": [
           "landing"
@@ -652,7 +652,7 @@
       "tags": [
         "landing"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__landing__block__methods__landing-block-get-content-from-repository.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__landing__block__methods__landing-block-get-content-from-repository.html.md",
       "meta": {
         "scope": [
           "landing"
@@ -700,7 +700,7 @@
       "tags": [
         "landing"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__landing__block__methods__landing-block-get-content.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__landing__block__methods__landing-block-get-content.html.md",
       "meta": {
         "scope": [
           "landing"
@@ -748,7 +748,7 @@
       "tags": [
         "landing"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__landing__block__methods__landing-block-get-list.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__landing__block__methods__landing-block-get-list.html.md",
       "meta": {
         "scope": [
           "landing"
@@ -792,7 +792,7 @@
       "tags": [
         "landing"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__landing__block__methods__landing-block-get-manifest-file.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__landing__block__methods__landing-block-get-manifest-file.html.md",
       "meta": {
         "scope": [
           "landing"
@@ -840,7 +840,7 @@
       "tags": [
         "landing"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__landing__block__methods__landing-block-get-manifest.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__landing__block__methods__landing-block-get-manifest.html.md",
       "meta": {
         "scope": [
           "landing"
@@ -888,7 +888,7 @@
       "tags": [
         "landing"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__landing__block__methods__landing-block-get-repository.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__landing__block__methods__landing-block-get-repository.html.md",
       "meta": {
         "scope": [
           "landing"
@@ -936,7 +936,7 @@
       "tags": [
         "landing"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__landing__block__methods__landing-block-remove-card.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__landing__block__methods__landing-block-remove-card.html.md",
       "meta": {
         "scope": [
           "landing"
@@ -984,7 +984,7 @@
       "tags": [
         "landing"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__landing__block__methods__landing-block-update-attrs.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__landing__block__methods__landing-block-update-attrs.html.md",
       "meta": {
         "scope": [
           "landing"
@@ -1032,7 +1032,7 @@
       "tags": [
         "landing"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__landing__block__methods__landing-block-update-cards.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__landing__block__methods__landing-block-update-cards.html.md",
       "meta": {
         "scope": [
           "landing"
@@ -1080,7 +1080,7 @@
       "tags": [
         "landing"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__landing__block__methods__landing-block-update-content.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__landing__block__methods__landing-block-update-content.html.md",
       "meta": {
         "scope": [
           "landing"
@@ -1128,7 +1128,7 @@
       "tags": [
         "landing"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__landing__block__methods__landing-block-update-nodes.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__landing__block__methods__landing-block-update-nodes.html.md",
       "meta": {
         "scope": [
           "landing"
@@ -1176,7 +1176,7 @@
       "tags": [
         "landing"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__landing__block__methods__landing-block-update-styles.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__landing__block__methods__landing-block-update-styles.html.md",
       "meta": {
         "scope": [
           "landing"
@@ -1224,7 +1224,7 @@
       "tags": [
         "landing"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__landing__block__methods__landing-block-upload-file.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__landing__block__methods__landing-block-upload-file.html.md",
       "meta": {
         "scope": [
           "landing"
@@ -1272,7 +1272,7 @@
       "tags": [
         "landing"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__landing__block__node-types.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__landing__block__node-types.html.md",
       "meta": {
         "scope": [],
         "who_can_execute": ""
@@ -1318,7 +1318,7 @@
       "tags": [
         "landing"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__landing__block__special__crm-forms.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__landing__block__special__crm-forms.html.md",
       "meta": {
         "scope": [],
         "who_can_execute": ""
@@ -1360,7 +1360,7 @@
       "tags": [
         "landing"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__landing__block__special__index.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__landing__block__special__index.html.md",
       "meta": {
         "scope": [],
         "who_can_execute": ""
@@ -1390,7 +1390,7 @@
       "tags": [
         "landing"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__landing__block__special__maps.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__landing__block__special__maps.html.md",
       "meta": {
         "scope": [],
         "who_can_execute": ""
@@ -1424,7 +1424,7 @@
       "tags": [
         "landing"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__landing__block__special__navigation.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__landing__block__special__navigation.html.md",
       "meta": {
         "scope": [],
         "who_can_execute": ""
@@ -1458,7 +1458,7 @@
       "tags": [
         "landing"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__landing__block__special__search-forms.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__landing__block__special__search-forms.html.md",
       "meta": {
         "scope": [],
         "who_can_execute": ""
@@ -1492,7 +1492,7 @@
       "tags": [
         "landing"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__landing__block__special__search.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__landing__block__special__search.html.md",
       "meta": {
         "scope": [],
         "who_can_execute": ""
@@ -1517,7 +1517,7 @@
       "tags": [
         "landing"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__landing__demos__index.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__landing__demos__index.html.md",
       "meta": {
         "scope": [
           "landing"
@@ -1544,7 +1544,7 @@
       "tags": [
         "landing"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__landing__demos__introduction.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__landing__demos__introduction.html.md",
       "meta": {
         "scope": [],
         "who_can_execute": ""
@@ -1569,7 +1569,7 @@
       "tags": [
         "landing"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__landing__demos__landing-demos-get-list.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__landing__demos__landing-demos-get-list.html.md",
       "meta": {
         "scope": [
           "landing"
@@ -1617,7 +1617,7 @@
       "tags": [
         "landing"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__landing__demos__landing-demos-get-page-list.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__landing__demos__landing-demos-get-page-list.html.md",
       "meta": {
         "scope": [
           "landing"
@@ -1665,7 +1665,7 @@
       "tags": [
         "landing"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__landing__demos__landing-demos-get-site-list.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__landing__demos__landing-demos-get-site-list.html.md",
       "meta": {
         "scope": [
           "landing"
@@ -1713,7 +1713,7 @@
       "tags": [
         "landing"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__landing__demos__landing-demos-register.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__landing__demos__landing-demos-register.html.md",
       "meta": {
         "scope": [
           "landing"
@@ -1761,7 +1761,7 @@
       "tags": [
         "landing"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__landing__demos__landing-demos-unregister.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__landing__demos__landing-demos-unregister.html.md",
       "meta": {
         "scope": [
           "landing"
@@ -1809,7 +1809,7 @@
       "tags": [
         "landing"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__landing__demos__localization.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__landing__demos__localization.html.md",
       "meta": {
         "scope": [],
         "who_can_execute": ""
@@ -1834,7 +1834,7 @@
       "tags": [
         "landing"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__landing__embedding__block.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__landing__embedding__block.html.md",
       "meta": {
         "scope": [],
         "who_can_execute": ""
@@ -1880,7 +1880,7 @@
       "tags": [
         "landing"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__landing__embedding__index.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__landing__embedding__index.html.md",
       "meta": {
         "scope": [],
         "who_can_execute": ""
@@ -1905,7 +1905,7 @@
       "tags": [
         "landing"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__landing__embedding__knowledge-base__index.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__landing__embedding__knowledge-base__index.html.md",
       "meta": {
         "scope": [],
         "who_can_execute": ""
@@ -1930,7 +1930,7 @@
       "tags": [
         "landing"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__landing__embedding__knowledge-base__landing-site-binding-to-group.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__landing__embedding__knowledge-base__landing-site-binding-to-group.html.md",
       "meta": {
         "scope": [
           "landing"
@@ -1978,7 +1978,7 @@
       "tags": [
         "landing"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__landing__embedding__knowledge-base__landing-site-binding-to-menu.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__landing__embedding__knowledge-base__landing-site-binding-to-menu.html.md",
       "meta": {
         "scope": [
           "landing"
@@ -2026,7 +2026,7 @@
       "tags": [
         "landing"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__landing__embedding__knowledge-base__landing-site-get-group-bindings.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__landing__embedding__knowledge-base__landing-site-get-group-bindings.html.md",
       "meta": {
         "scope": [
           "landing"
@@ -2074,7 +2074,7 @@
       "tags": [
         "landing"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__landing__embedding__knowledge-base__landing-site-get-menu-bindings.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__landing__embedding__knowledge-base__landing-site-get-menu-bindings.html.md",
       "meta": {
         "scope": [
           "landing"
@@ -2122,7 +2122,7 @@
       "tags": [
         "landing"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__landing__embedding__knowledge-base__landing-site-unbinding-from-group.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__landing__embedding__knowledge-base__landing-site-unbinding-from-group.html.md",
       "meta": {
         "scope": [
           "landing"
@@ -2170,7 +2170,7 @@
       "tags": [
         "landing"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__landing__embedding__knowledge-base__landing-site-unbinding-from-menu.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__landing__embedding__knowledge-base__landing-site-unbinding-from-menu.html.md",
       "meta": {
         "scope": [
           "landing"
@@ -2218,7 +2218,7 @@
       "tags": [
         "landing"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__landing__embedding__landing-repo-unbind.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__landing__embedding__landing-repo-unbind.html.md",
       "meta": {
         "scope": [
           "landing"
@@ -2266,7 +2266,7 @@
       "tags": [
         "landing"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__landing__embedding__settings.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__landing__embedding__settings.html.md",
       "meta": {
         "scope": [],
         "who_can_execute": ""
@@ -2312,7 +2312,7 @@
       "tags": [
         "landing"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__landing__index.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__landing__index.html.md",
       "meta": {
         "scope": [],
         "who_can_execute": ""
@@ -2337,7 +2337,7 @@
       "tags": [
         "landing"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__landing__page__additional-fields.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__landing__page__additional-fields.html.md",
       "meta": {
         "scope": [],
         "who_can_execute": ""
@@ -2362,7 +2362,7 @@
       "tags": [
         "landing"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__landing__page__block-methods__index.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__landing__page__block-methods__index.html.md",
       "meta": {
         "scope": [
           "landing"
@@ -2389,7 +2389,7 @@
       "tags": [
         "landing"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__landing__page__block-methods__landing-landing-add-block.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__landing__page__block-methods__landing-landing-add-block.html.md",
       "meta": {
         "scope": [],
         "who_can_execute": ""
@@ -2435,7 +2435,7 @@
       "tags": [
         "landing"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__landing__page__block-methods__landing-landing-copy-block.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__landing__page__block-methods__landing-landing-copy-block.html.md",
       "meta": {
         "scope": [],
         "who_can_execute": ""
@@ -2481,7 +2481,7 @@
       "tags": [
         "landing"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__landing__page__block-methods__landing-landing-delete-block.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__landing__page__block-methods__landing-landing-delete-block.html.md",
       "meta": {
         "scope": [],
         "who_can_execute": ""
@@ -2527,7 +2527,7 @@
       "tags": [
         "landing"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__landing__page__block-methods__landing-landing-down-block.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__landing__page__block-methods__landing-landing-down-block.html.md",
       "meta": {
         "scope": [],
         "who_can_execute": ""
@@ -2573,7 +2573,7 @@
       "tags": [
         "landing"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__landing__page__block-methods__landing-landing-favorite-block.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__landing__page__block-methods__landing-landing-favorite-block.html.md",
       "meta": {
         "scope": [],
         "who_can_execute": ""
@@ -2619,7 +2619,7 @@
       "tags": [
         "landing"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__landing__page__block-methods__landing-landing-hide-block.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__landing__page__block-methods__landing-landing-hide-block.html.md",
       "meta": {
         "scope": [],
         "who_can_execute": ""
@@ -2665,7 +2665,7 @@
       "tags": [
         "landing"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__landing__page__block-methods__landing-landing-mark-deleted-block.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__landing__page__block-methods__landing-landing-mark-deleted-block.html.md",
       "meta": {
         "scope": [],
         "who_can_execute": ""
@@ -2711,7 +2711,7 @@
       "tags": [
         "landing"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__landing__page__block-methods__landing-landing-mark-undeleted-block.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__landing__page__block-methods__landing-landing-mark-undeleted-block.html.md",
       "meta": {
         "scope": [],
         "who_can_execute": ""
@@ -2757,7 +2757,7 @@
       "tags": [
         "landing"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__landing__page__block-methods__landing-landing-move-block.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__landing__page__block-methods__landing-landing-move-block.html.md",
       "meta": {
         "scope": [],
         "who_can_execute": ""
@@ -2803,7 +2803,7 @@
       "tags": [
         "landing"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__landing__page__block-methods__landing-landing-show-block.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__landing__page__block-methods__landing-landing-show-block.html.md",
       "meta": {
         "scope": [],
         "who_can_execute": ""
@@ -2849,7 +2849,7 @@
       "tags": [
         "landing"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__landing__page__block-methods__landing-landing-unfavorite-block.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__landing__page__block-methods__landing-landing-unfavorite-block.html.md",
       "meta": {
         "scope": [],
         "who_can_execute": ""
@@ -2895,7 +2895,7 @@
       "tags": [
         "landing"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__landing__page__block-methods__landing-landing-up-block.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__landing__page__block-methods__landing-landing-up-block.html.md",
       "meta": {
         "scope": [],
         "who_can_execute": ""
@@ -2941,7 +2941,7 @@
       "tags": [
         "landing"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__landing__page__color-themes.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__landing__page__color-themes.html.md",
       "meta": {
         "scope": [],
         "who_can_execute": ""
@@ -2966,7 +2966,7 @@
       "tags": [
         "landing"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__landing__page__index.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__landing__page__index.html.md",
       "meta": {
         "scope": [],
         "who_can_execute": ""
@@ -2991,7 +2991,7 @@
       "tags": [
         "landing"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__landing__page__methods__index.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__landing__page__methods__index.html.md",
       "meta": {
         "scope": [
           "landing"
@@ -3018,7 +3018,7 @@
       "tags": [
         "landing"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__landing__page__methods__landing-landing-add-by-template.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__landing__page__methods__landing-landing-add-by-template.html.md",
       "meta": {
         "scope": [
           "landing"
@@ -3066,7 +3066,7 @@
       "tags": [
         "landing"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__landing__page__methods__landing-landing-add.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__landing__page__methods__landing-landing-add.html.md",
       "meta": {
         "scope": [
           "landing"
@@ -3114,7 +3114,7 @@
       "tags": [
         "landing"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__landing__page__methods__landing-landing-copy.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__landing__page__methods__landing-landing-copy.html.md",
       "meta": {
         "scope": [
           "landing"
@@ -3162,7 +3162,7 @@
       "tags": [
         "landing"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__landing__page__methods__landing-landing-delete.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__landing__page__methods__landing-landing-delete.html.md",
       "meta": {
         "scope": [
           "landing"
@@ -3210,7 +3210,7 @@
       "tags": [
         "landing"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__landing__page__methods__landing-landing-get-additional-fields.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__landing__page__methods__landing-landing-get-additional-fields.html.md",
       "meta": {
         "scope": [
           "landing"
@@ -3258,7 +3258,7 @@
       "tags": [
         "landing"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__landing__page__methods__landing-landing-get-list.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__landing__page__methods__landing-landing-get-list.html.md",
       "meta": {
         "scope": [
           "landing"
@@ -3306,7 +3306,7 @@
       "tags": [
         "landing"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__landing__page__methods__landing-landing-get-preview.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__landing__page__methods__landing-landing-get-preview.html.md",
       "meta": {
         "scope": [
           "landing"
@@ -3354,7 +3354,7 @@
       "tags": [
         "landing"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__landing__page__methods__landing-landing-get-public-url.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__landing__page__methods__landing-landing-get-public-url.html.md",
       "meta": {
         "scope": [
           "landing"
@@ -3402,7 +3402,7 @@
       "tags": [
         "landing"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__landing__page__methods__landing-landing-mark-delete.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__landing__page__methods__landing-landing-mark-delete.html.md",
       "meta": {
         "scope": [
           "landing"
@@ -3450,7 +3450,7 @@
       "tags": [
         "landing"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__landing__page__methods__landing-landing-mark-undelete.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__landing__page__methods__landing-landing-mark-undelete.html.md",
       "meta": {
         "scope": [
           "landing"
@@ -3498,7 +3498,7 @@
       "tags": [
         "landing"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__landing__page__methods__landing-landing-move.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__landing__page__methods__landing-landing-move.html.md",
       "meta": {
         "scope": [
           "landing"
@@ -3546,7 +3546,7 @@
       "tags": [
         "landing"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__landing__page__methods__landing-landing-publication.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__landing__page__methods__landing-landing-publication.html.md",
       "meta": {
         "scope": [
           "landing"
@@ -3594,7 +3594,7 @@
       "tags": [
         "landing"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__landing__page__methods__landing-landing-remove-entities.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__landing__page__methods__landing-landing-remove-entities.html.md",
       "meta": {
         "scope": [
           "landing"
@@ -3642,7 +3642,7 @@
       "tags": [
         "landing"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__landing__page__methods__landing-landing-resolve-id-by-public-url.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__landing__page__methods__landing-landing-resolve-id-by-public-url.html.md",
       "meta": {
         "scope": [
           "landing"
@@ -3690,7 +3690,7 @@
       "tags": [
         "landing"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__landing__page__methods__landing-landing-unpublic.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__landing__page__methods__landing-landing-unpublic.html.md",
       "meta": {
         "scope": [
           "landing"
@@ -3738,7 +3738,7 @@
       "tags": [
         "landing"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__landing__page__methods__landing-landing-update.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__landing__page__methods__landing-landing-update.html.md",
       "meta": {
         "scope": [
           "landing"
@@ -3786,7 +3786,7 @@
       "tags": [
         "landing"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__landing__page__special-pages__index.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__landing__page__special-pages__index.html.md",
       "meta": {
         "scope": [],
         "who_can_execute": ""
@@ -3816,7 +3816,7 @@
       "tags": [
         "landing"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__landing__page__special-pages__landing-syspage-delete-for-landing.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__landing__page__special-pages__landing-syspage-delete-for-landing.html.md",
       "meta": {
         "scope": [
           "landing"
@@ -3864,7 +3864,7 @@
       "tags": [
         "landing"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__landing__page__special-pages__landing-syspage-delete-for-site.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__landing__page__special-pages__landing-syspage-delete-for-site.html.md",
       "meta": {
         "scope": [
           "landing"
@@ -3912,7 +3912,7 @@
       "tags": [
         "landing"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__landing__page__special-pages__landing-syspage-get-special-page.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__landing__page__special-pages__landing-syspage-get-special-page.html.md",
       "meta": {
         "scope": [
           "landing"
@@ -3960,7 +3960,7 @@
       "tags": [
         "landing"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__landing__page__special-pages__landing-syspage-get.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__landing__page__special-pages__landing-syspage-get.html.md",
       "meta": {
         "scope": [
           "landing"
@@ -4008,7 +4008,7 @@
       "tags": [
         "landing"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__landing__page__special-pages__landing-syspage-set.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__landing__page__special-pages__landing-syspage-set.html.md",
       "meta": {
         "scope": [
           "landing"
@@ -4056,7 +4056,7 @@
       "tags": [
         "landing"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__landing__rights__distinction.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__landing__rights__distinction.html.md",
       "meta": {
         "scope": [],
         "who_can_execute": ""
@@ -4081,7 +4081,7 @@
       "tags": [
         "landing"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__landing__rights__extended-model__index.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__landing__rights__extended-model__index.html.md",
       "meta": {
         "scope": [
           "landing"
@@ -4108,7 +4108,7 @@
       "tags": [
         "landing"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__landing__rights__extended-model__landing-site-get-rights.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__landing__rights__extended-model__landing-site-get-rights.html.md",
       "meta": {
         "scope": [
           "landing"
@@ -4156,7 +4156,7 @@
       "tags": [
         "landing"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__landing__rights__extended-model__landing-site-set-rights.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__landing__rights__extended-model__landing-site-set-rights.html.md",
       "meta": {
         "scope": [
           "landing"
@@ -4204,7 +4204,7 @@
       "tags": [
         "landing"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__landing__rights__index.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__landing__rights__index.html.md",
       "meta": {
         "scope": [],
         "who_can_execute": ""
@@ -4229,7 +4229,7 @@
       "tags": [
         "landing"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__landing__rights__landing-role-enable.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__landing__rights__landing-role-enable.html.md",
       "meta": {
         "scope": [
           "landing"
@@ -4277,7 +4277,7 @@
       "tags": [
         "landing"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__landing__rights__landing-role-is-enabled.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__landing__rights__landing-role-is-enabled.html.md",
       "meta": {
         "scope": [
           "landing"
@@ -4325,7 +4325,7 @@
       "tags": [
         "landing"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__landing__rights__role-model__index.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__landing__rights__role-model__index.html.md",
       "meta": {
         "scope": [
           "landing"
@@ -4352,7 +4352,7 @@
       "tags": [
         "landing"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__landing__rights__role-model__landing-role-get-list.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__landing__rights__role-model__landing-role-get-list.html.md",
       "meta": {
         "scope": [],
         "who_can_execute": ""
@@ -4398,7 +4398,7 @@
       "tags": [
         "landing"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__landing__rights__role-model__landing-role-get-rights.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__landing__rights__role-model__landing-role-get-rights.html.md",
       "meta": {
         "scope": [],
         "who_can_execute": ""
@@ -4444,7 +4444,7 @@
       "tags": [
         "landing"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__landing__rights__role-model__landing-role-set-access-codes.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__landing__rights__role-model__landing-role-set-access-codes.html.md",
       "meta": {
         "scope": [],
         "who_can_execute": ""
@@ -4490,7 +4490,7 @@
       "tags": [
         "landing"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__landing__rights__role-model__landing-role-set-rights.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__landing__rights__role-model__landing-role-set-rights.html.md",
       "meta": {
         "scope": [],
         "who_can_execute": ""
@@ -4536,7 +4536,7 @@
       "tags": [
         "landing"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__landing__site__additional-fields.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__landing__site__additional-fields.html.md",
       "meta": {
         "scope": [],
         "who_can_execute": ""
@@ -4561,7 +4561,7 @@
       "tags": [
         "landing"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__landing__site__base-fields.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__landing__site__base-fields.html.md",
       "meta": {
         "scope": [],
         "who_can_execute": ""
@@ -4586,7 +4586,7 @@
       "tags": [
         "landing"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__landing__site__index.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__landing__site__index.html.md",
       "meta": {
         "scope": [
           "landing"
@@ -4613,7 +4613,7 @@
       "tags": [
         "landing"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__landing__site__landing-site-add-folder.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__landing__site__landing-site-add-folder.html.md",
       "meta": {
         "scope": [
           "landing"
@@ -4661,7 +4661,7 @@
       "tags": [
         "landing"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__landing__site__landing-site-add.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__landing__site__landing-site-add.html.md",
       "meta": {
         "scope": [
           "landing"
@@ -4709,7 +4709,7 @@
       "tags": [
         "landing"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__landing__site__landing-site-delete.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__landing__site__landing-site-delete.html.md",
       "meta": {
         "scope": [
           "landing"
@@ -4757,7 +4757,7 @@
       "tags": [
         "landing"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__landing__site__landing-site-full-export.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__landing__site__landing-site-full-export.html.md",
       "meta": {
         "scope": [
           "landing"
@@ -4805,7 +4805,7 @@
       "tags": [
         "landing"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__landing__site__landing-site-get-additional-fields.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__landing__site__landing-site-get-additional-fields.html.md",
       "meta": {
         "scope": [
           "landing"
@@ -4853,7 +4853,7 @@
       "tags": [
         "landing"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__landing__site__landing-site-get-folders.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__landing__site__landing-site-get-folders.html.md",
       "meta": {
         "scope": [
           "landing"
@@ -4901,7 +4901,7 @@
       "tags": [
         "landing"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__landing__site__landing-site-get-list.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__landing__site__landing-site-get-list.html.md",
       "meta": {
         "scope": [
           "landing"
@@ -4949,7 +4949,7 @@
       "tags": [
         "landing"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__landing__site__landing-site-get-preview.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__landing__site__landing-site-get-preview.html.md",
       "meta": {
         "scope": [
           "landing"
@@ -4997,7 +4997,7 @@
       "tags": [
         "landing"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__landing__site__landing-site-get-public-url.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__landing__site__landing-site-get-public-url.html.md",
       "meta": {
         "scope": [
           "landing"
@@ -5045,7 +5045,7 @@
       "tags": [
         "landing"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__landing__site__landing-site-mark-delete.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__landing__site__landing-site-mark-delete.html.md",
       "meta": {
         "scope": [
           "landing"
@@ -5093,7 +5093,7 @@
       "tags": [
         "landing"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__landing__site__landing-site-mark-folder-delete.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__landing__site__landing-site-mark-folder-delete.html.md",
       "meta": {
         "scope": [
           "landing"
@@ -5141,7 +5141,7 @@
       "tags": [
         "landing"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__landing__site__landing-site-mark-folder-undelete.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__landing__site__landing-site-mark-folder-undelete.html.md",
       "meta": {
         "scope": [
           "landing"
@@ -5189,7 +5189,7 @@
       "tags": [
         "landing"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__landing__site__landing-site-mark-undelete.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__landing__site__landing-site-mark-undelete.html.md",
       "meta": {
         "scope": [
           "landing"
@@ -5237,7 +5237,7 @@
       "tags": [
         "landing"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__landing__site__landing-site-publication-folder.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__landing__site__landing-site-publication-folder.html.md",
       "meta": {
         "scope": [
           "landing"
@@ -5285,7 +5285,7 @@
       "tags": [
         "landing"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__landing__site__landing-site-publication.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__landing__site__landing-site-publication.html.md",
       "meta": {
         "scope": [
           "landing"
@@ -5333,7 +5333,7 @@
       "tags": [
         "landing"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__landing__site__landing-site-unpublic-folder.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__landing__site__landing-site-unpublic-folder.html.md",
       "meta": {
         "scope": [
           "landing"
@@ -5381,7 +5381,7 @@
       "tags": [
         "landing"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__landing__site__landing-site-unpublic.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__landing__site__landing-site-unpublic.html.md",
       "meta": {
         "scope": [
           "landing"
@@ -5429,7 +5429,7 @@
       "tags": [
         "landing"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__landing__site__landing-site-update-folder.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__landing__site__landing-site-update-folder.html.md",
       "meta": {
         "scope": [
           "landing"
@@ -5477,7 +5477,7 @@
       "tags": [
         "landing"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__landing__site__landing-site-update.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__landing__site__landing-site-update.html.md",
       "meta": {
         "scope": [
           "landing"
@@ -5525,7 +5525,7 @@
       "tags": [
         "landing"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__landing__template__fields.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__landing__template__fields.html.md",
       "meta": {
         "scope": [],
         "who_can_execute": ""
@@ -5550,7 +5550,7 @@
       "tags": [
         "landing"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__landing__template__include-section.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__landing__template__include-section.html.md",
       "meta": {
         "scope": [],
         "who_can_execute": ""
@@ -5575,7 +5575,7 @@
       "tags": [
         "landing"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__landing__template__index.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__landing__template__index.html.md",
       "meta": {
         "scope": [],
         "who_can_execute": ""
@@ -5600,7 +5600,7 @@
       "tags": [
         "landing"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__landing__template__landing-template-get-landing-ref.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__landing__template__landing-template-get-landing-ref.html.md",
       "meta": {
         "scope": [
           "landing"
@@ -5648,7 +5648,7 @@
       "tags": [
         "landing"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__landing__template__landing-template-get-list.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__landing__template__landing-template-get-list.html.md",
       "meta": {
         "scope": [
           "landing"
@@ -5696,7 +5696,7 @@
       "tags": [
         "landing"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__landing__template__landing-template-get-site-ref.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__landing__template__landing-template-get-site-ref.html.md",
       "meta": {
         "scope": [
           "landing"
@@ -5744,7 +5744,7 @@
       "tags": [
         "landing"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__landing__template__landing-template-set-landing-ref.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__landing__template__landing-template-set-landing-ref.html.md",
       "meta": {
         "scope": [
           "landing"
@@ -5792,7 +5792,7 @@
       "tags": [
         "landing"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__landing__template__landing-template-set-site-ref.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__landing__template__landing-template-set-site-ref.html.md",
       "meta": {
         "scope": [
           "landing"
@@ -5840,7 +5840,7 @@
       "tags": [
         "landing"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__landing__types.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__landing__types.html.md",
       "meta": {
         "scope": [],
         "who_can_execute": ""
@@ -5886,7 +5886,7 @@
       "tags": [
         "landing"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__landing__user-blocks__index.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__landing__user-blocks__index.html.md",
       "meta": {
         "scope": [
           "landing"
@@ -5913,7 +5913,7 @@
       "tags": [
         "landing"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__landing__user-blocks__landing-repo-check-content.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__landing__user-blocks__landing-repo-check-content.html.md",
       "meta": {
         "scope": [
           "landing"
@@ -5961,7 +5961,7 @@
       "tags": [
         "landing"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__landing__user-blocks__landing-repo-get-list.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__landing__user-blocks__landing-repo-get-list.html.md",
       "meta": {
         "scope": [
           "landing"
@@ -6009,7 +6009,7 @@
       "tags": [
         "landing"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__landing__user-blocks__landing-repo-register.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__landing__user-blocks__landing-repo-register.html.md",
       "meta": {
         "scope": [
           "landing"
@@ -6057,7 +6057,7 @@
       "tags": [
         "landing"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__landing__user-blocks__landing-repo-unregister.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__landing__user-blocks__landing-repo-unregister.html.md",
       "meta": {
         "scope": [
           "landing"

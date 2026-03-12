@@ -15,7 +15,7 @@
       "tags": [
         "bizproc"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__bizproc__bizproc-activity__bizproc-activity-add.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__bizproc__bizproc-activity__bizproc-activity-add.html.md",
       "meta": {
         "scope": [
           "bizproc"
@@ -226,7 +226,7 @@
       "tags": [
         "bizproc"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__bizproc__bizproc-activity__bizproc-activity-delete.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__bizproc__bizproc-activity__bizproc-activity-delete.html.md",
       "meta": {
         "scope": [
           "bizproc"
@@ -382,7 +382,7 @@
       "tags": [
         "bizproc"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__bizproc__bizproc-activity__bizproc-activity-list.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__bizproc__bizproc-activity__bizproc-activity-list.html.md",
       "meta": {
         "scope": [
           "bizproc"
@@ -532,7 +532,7 @@
       "tags": [
         "bizproc"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__bizproc__bizproc-activity__bizproc-activity-log.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__bizproc__bizproc-activity__bizproc-activity-log.html.md",
       "meta": {
         "scope": [
           "bizproc"
@@ -682,7 +682,7 @@
       "tags": [
         "bizproc"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__bizproc__bizproc-activity__bizproc-activity-update.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__bizproc__bizproc-activity__bizproc-activity-update.html.md",
       "meta": {
         "scope": [
           "bizproc"
@@ -843,7 +843,7 @@
       "tags": [
         "bizproc"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__bizproc__bizproc-activity__index.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__bizproc__bizproc-activity__index.html.md",
       "meta": {
         "scope": [],
         "who_can_execute": ""
@@ -868,7 +868,7 @@
       "tags": [
         "bizproc"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__bizproc__bizproc-robot__bizproc-event-send.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__bizproc__bizproc-robot__bizproc-event-send.html.md",
       "meta": {
         "scope": [
           "bizproc"
@@ -1023,7 +1023,7 @@
       "tags": [
         "bizproc"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__bizproc__bizproc-robot__bizproc-robot-add.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__bizproc__bizproc-robot__bizproc-robot-add.html.md",
       "meta": {
         "scope": [
           "bizproc"
@@ -1234,7 +1234,7 @@
       "tags": [
         "bizproc"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__bizproc__bizproc-robot__bizproc-robot-delete.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__bizproc__bizproc-robot__bizproc-robot-delete.html.md",
       "meta": {
         "scope": [
           "bizproc"
@@ -1390,7 +1390,7 @@
       "tags": [
         "bizproc"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__bizproc__bizproc-robot__bizproc-robot-list.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__bizproc__bizproc-robot__bizproc-robot-list.html.md",
       "meta": {
         "scope": [
           "bizproc"
@@ -1540,7 +1540,7 @@
       "tags": [
         "bizproc"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__bizproc__bizproc-robot__bizproc-robot-update.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__bizproc__bizproc-robot__bizproc-robot-update.html.md",
       "meta": {
         "scope": [
           "bizproc"
@@ -1701,7 +1701,7 @@
       "tags": [
         "bizproc"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__bizproc__bizproc-robot__index.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__bizproc__bizproc-robot__index.html.md",
       "meta": {
         "scope": [],
         "who_can_execute": ""
@@ -1726,7 +1726,7 @@
       "tags": [
         "bizproc"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__bizproc__bizproc-task__bizproc-task-complete.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__bizproc__bizproc-task__bizproc-task-complete.html.md",
       "meta": {
         "scope": [
           "bizproc"
@@ -1897,7 +1897,7 @@
       "tags": [
         "bizproc"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__bizproc__bizproc-task__bizproc-task-delegate.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__bizproc__bizproc-task__bizproc-task-delegate.html.md",
       "meta": {
         "scope": [
           "bizproc"
@@ -2063,7 +2063,7 @@
       "tags": [
         "bizproc"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__bizproc__bizproc-task__bizproc-task-list.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__bizproc__bizproc-task__bizproc-task-list.html.md",
       "meta": {
         "scope": [
           "bizproc"
@@ -2239,7 +2239,7 @@
       "tags": [
         "bizproc"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__bizproc__bizproc-task__index.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__bizproc__bizproc-task__index.html.md",
       "meta": {
         "scope": [
           "bizproc"
@@ -2266,7 +2266,7 @@
       "tags": [
         "bizproc"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__bizproc__bizproc-workflow-instances.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__bizproc__bizproc-workflow-instances.html.md",
       "meta": {
         "scope": [
           "bizproc"
@@ -2442,7 +2442,7 @@
       "tags": [
         "bizproc"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__bizproc__bizproc-workflow-kill.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__bizproc__bizproc-workflow-kill.html.md",
       "meta": {
         "scope": [
           "bizproc"
@@ -2598,7 +2598,7 @@
       "tags": [
         "bizproc"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__bizproc__bizproc-workflow-start.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__bizproc__bizproc-workflow-start.html.md",
       "meta": {
         "scope": [
           "bizproc"
@@ -2764,7 +2764,7 @@
       "tags": [
         "bizproc"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__bizproc__bizproc-workflow-terminate.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__bizproc__bizproc-workflow-terminate.html.md",
       "meta": {
         "scope": [
           "bizproc"
@@ -2925,7 +2925,7 @@
       "tags": [
         "bizproc"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__bizproc__index.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__bizproc__index.html.md",
       "meta": {
         "scope": [],
         "who_can_execute": ""
@@ -2950,7 +2950,7 @@
       "tags": [
         "bizproc"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__bizproc__template__bizproc-workflow-template-add.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__bizproc__template__bizproc-workflow-template-add.html.md",
       "meta": {
         "scope": [
           "bizproc"
@@ -3126,7 +3126,7 @@
       "tags": [
         "bizproc"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__bizproc__template__bizproc-workflow-template-delete.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__bizproc__template__bizproc-workflow-template-delete.html.md",
       "meta": {
         "scope": [
           "bizproc"
@@ -3282,7 +3282,7 @@
       "tags": [
         "bizproc"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__bizproc__template__bizproc-workflow-template-list.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__bizproc__template__bizproc-workflow-template-list.html.md",
       "meta": {
         "scope": [
           "bizproc"
@@ -3458,7 +3458,7 @@
       "tags": [
         "bizproc"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__bizproc__template__bizproc-workflow-template-update.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__bizproc__template__bizproc-workflow-template-update.html.md",
       "meta": {
         "scope": [
           "bizproc"
@@ -3619,7 +3619,7 @@
       "tags": [
         "bizproc"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__bizproc__template__index.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__bizproc__template__index.html.md",
       "meta": {
         "scope": [
           "bizproc"

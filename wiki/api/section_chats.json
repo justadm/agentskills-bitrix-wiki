@@ -15,7 +15,7 @@
       "tags": [
         "chats"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__chats__chat-update__im-chat-set-owner.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__chats__chat-update__im-chat-set-owner.html.md",
       "meta": {
         "scope": [
           "im"
@@ -176,7 +176,7 @@
       "tags": [
         "chats"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__chats__chat-update__im-chat-update-avatar.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__chats__chat-update__im-chat-update-avatar.html.md",
       "meta": {
         "scope": [
           "im"
@@ -337,7 +337,7 @@
       "tags": [
         "chats"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__chats__chat-update__im-chat-update-color.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__chats__chat-update__im-chat-update-color.html.md",
       "meta": {
         "scope": [
           "im"
@@ -498,7 +498,7 @@
       "tags": [
         "chats"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__chats__chat-update__im-chat-update-title.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__chats__chat-update__im-chat-update-title.html.md",
       "meta": {
         "scope": [
           "im"
@@ -659,7 +659,7 @@
       "tags": [
         "chats"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__chats__chat-update__index.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__chats__chat-update__index.html.md",
       "meta": {
         "scope": [
           "im"
@@ -686,7 +686,7 @@
       "tags": [
         "chats"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__chats__chat-users__im-chat-leave.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__chats__chat-users__im-chat-leave.html.md",
       "meta": {
         "scope": [
           "im"
@@ -842,7 +842,7 @@
       "tags": [
         "chats"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__chats__chat-users__im-chat-user-add.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__chats__chat-users__im-chat-user-add.html.md",
       "meta": {
         "scope": [
           "im"
@@ -1008,7 +1008,7 @@
       "tags": [
         "chats"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__chats__chat-users__im-chat-user-delete.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__chats__chat-users__im-chat-user-delete.html.md",
       "meta": {
         "scope": [
           "im"
@@ -1169,7 +1169,7 @@
       "tags": [
         "chats"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__chats__chat-users__im-chat-user-list.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__chats__chat-users__im-chat-user-list.html.md",
       "meta": {
         "scope": [
           "im"
@@ -1325,7 +1325,7 @@
       "tags": [
         "chats"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__chats__chat-users__im-dialog-users-list.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__chats__chat-users__im-dialog-users-list.html.md",
       "meta": {
         "scope": [
           "im"
@@ -1516,7 +1516,7 @@
       "tags": [
         "chats"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__chats__chat-users__index.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__chats__chat-users__index.html.md",
       "meta": {
         "scope": [
           "im"
@@ -1543,7 +1543,7 @@
       "tags": [
         "chats"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__chats__departments__index.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__chats__departments__index.html.md",
       "meta": {
         "scope": [
           "im"
@@ -1570,7 +1570,7 @@
       "tags": [
         "chats"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__chats__files__im-disk-file-commit.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__chats__files__im-disk-file-commit.html.md",
       "meta": {
         "scope": [
           "im"
@@ -1756,7 +1756,7 @@
       "tags": [
         "chats"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__chats__files__im-disk-file-delete.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__chats__files__im-disk-file-delete.html.md",
       "meta": {
         "scope": [
           "im"
@@ -1917,7 +1917,7 @@
       "tags": [
         "chats"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__chats__files__im-disk-file-save.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__chats__files__im-disk-file-save.html.md",
       "meta": {
         "scope": [
           "im"
@@ -2083,7 +2083,7 @@
       "tags": [
         "chats"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__chats__files__im-disk-folder-get.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__chats__files__im-disk-folder-get.html.md",
       "meta": {
         "scope": [
           "im"
@@ -2249,7 +2249,7 @@
       "tags": [
         "chats"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__chats__files__index.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__chats__files__index.html.md",
       "meta": {
         "scope": [
           "im"
@@ -2276,7 +2276,7 @@
       "tags": [
         "chats"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__chats__im-chat-add.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__chats__im-chat-add.html.md",
       "meta": {
         "scope": [
           "im"
@@ -2477,7 +2477,7 @@
       "tags": [
         "chats"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__chats__im-chat-get.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__chats__im-chat-get.html.md",
       "meta": {
         "scope": [
           "im"
@@ -2638,7 +2638,7 @@
       "tags": [
         "chats"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__chats__im-counters-get.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__chats__im-counters-get.html.md",
       "meta": {
         "scope": [
           "im"
@@ -2823,7 +2823,7 @@
       "tags": [
         "chats"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__chats__im-dialog-get.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__chats__im-dialog-get.html.md",
       "meta": {
         "scope": [
           "im"
@@ -2979,7 +2979,7 @@
       "tags": [
         "chats"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__chats__im-recent-get.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__chats__im-recent-get.html.md",
       "meta": {
         "scope": [
           "im"
@@ -3160,7 +3160,7 @@
       "tags": [
         "chats"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__chats__im-recent-list.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__chats__im-recent-list.html.md",
       "meta": {
         "scope": [
           "im"
@@ -3381,7 +3381,7 @@
       "tags": [
         "chats"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__chats__im-revision-get.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__chats__im-revision-get.html.md",
       "meta": {
         "scope": [
           "im"
@@ -3556,7 +3556,7 @@
       "tags": [
         "chats"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__chats__index.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__chats__index.html.md",
       "meta": {
         "scope": [],
         "who_can_execute": ""
@@ -3581,7 +3581,7 @@
       "tags": [
         "chats"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__chats__messages__attachments__block-collections__delimiter.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__chats__messages__attachments__block-collections__delimiter.html.md",
       "meta": {
         "scope": [],
         "who_can_execute": ""
@@ -3623,7 +3623,7 @@
       "tags": [
         "chats"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__chats__messages__attachments__block-collections__files.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__chats__messages__attachments__block-collections__files.html.md",
       "meta": {
         "scope": [],
         "who_can_execute": ""
@@ -3665,7 +3665,7 @@
       "tags": [
         "chats"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__chats__messages__attachments__block-collections__grid.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__chats__messages__attachments__block-collections__grid.html.md",
       "meta": {
         "scope": [],
         "who_can_execute": ""
@@ -3711,7 +3711,7 @@
       "tags": [
         "chats"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__chats__messages__attachments__block-collections__images.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__chats__messages__attachments__block-collections__images.html.md",
       "meta": {
         "scope": [],
         "who_can_execute": ""
@@ -3753,7 +3753,7 @@
       "tags": [
         "chats"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__chats__messages__attachments__block-collections__index.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__chats__messages__attachments__block-collections__index.html.md",
       "meta": {
         "scope": [],
         "who_can_execute": ""
@@ -3778,7 +3778,7 @@
       "tags": [
         "chats"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__chats__messages__attachments__block-collections__links.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__chats__messages__attachments__block-collections__links.html.md",
       "meta": {
         "scope": [],
         "who_can_execute": ""
@@ -3820,7 +3820,7 @@
       "tags": [
         "chats"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__chats__messages__attachments__block-collections__text.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__chats__messages__attachments__block-collections__text.html.md",
       "meta": {
         "scope": [],
         "who_can_execute": ""
@@ -3862,7 +3862,7 @@
       "tags": [
         "chats"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__chats__messages__attachments__block-collections__user.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__chats__messages__attachments__block-collections__user.html.md",
       "meta": {
         "scope": [],
         "who_can_execute": ""
@@ -3904,7 +3904,7 @@
       "tags": [
         "chats"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__chats__messages__attachments__constructor.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__chats__messages__attachments__constructor.html.md",
       "meta": {
         "scope": [],
         "who_can_execute": ""
@@ -3950,7 +3950,7 @@
       "tags": [
         "chats"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__chats__messages__attachments__index.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__chats__messages__attachments__index.html.md",
       "meta": {
         "scope": [],
         "who_can_execute": ""
@@ -3996,7 +3996,7 @@
       "tags": [
         "chats"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__chats__messages__im-dialog-messages-get.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__chats__messages__im-dialog-messages-get.html.md",
       "meta": {
         "scope": [
           "im"
@@ -4167,7 +4167,7 @@
       "tags": [
         "chats"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__chats__messages__im-dialog-messages-search.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__chats__messages__im-dialog-messages-search.html.md",
       "meta": {
         "scope": [
           "im"
@@ -4403,7 +4403,7 @@
       "tags": [
         "chats"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__chats__messages__im-dialog-read.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__chats__messages__im-dialog-read.html.md",
       "meta": {
         "scope": [
           "im"
@@ -4564,7 +4564,7 @@
       "tags": [
         "chats"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__chats__messages__im-dialog-unread.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__chats__messages__im-dialog-unread.html.md",
       "meta": {
         "scope": [
           "im"
@@ -4725,7 +4725,7 @@
       "tags": [
         "chats"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__chats__messages__im-dialog-writing.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__chats__messages__im-dialog-writing.html.md",
       "meta": {
         "scope": [
           "im"
@@ -4881,7 +4881,7 @@
       "tags": [
         "chats"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__chats__messages__im-message-add.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__chats__messages__im-message-add.html.md",
       "meta": {
         "scope": [
           "im"
@@ -5072,7 +5072,7 @@
       "tags": [
         "chats"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__chats__messages__im-message-command.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__chats__messages__im-message-command.html.md",
       "meta": {
         "scope": [
           "im"
@@ -5243,7 +5243,7 @@
       "tags": [
         "chats"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__chats__messages__im-message-delete.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__chats__messages__im-message-delete.html.md",
       "meta": {
         "scope": [
           "im"
@@ -5399,7 +5399,7 @@
       "tags": [
         "chats"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__chats__messages__im-message-like.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__chats__messages__im-message-like.html.md",
       "meta": {
         "scope": [
           "im"
@@ -5560,7 +5560,7 @@
       "tags": [
         "chats"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__chats__messages__im-message-share.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__chats__messages__im-message-share.html.md",
       "meta": {
         "scope": [
           "im"
@@ -5726,7 +5726,7 @@
       "tags": [
         "chats"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__chats__messages__im-message-update.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__chats__messages__im-message-update.html.md",
       "meta": {
         "scope": [
           "im"
@@ -5912,7 +5912,7 @@
       "tags": [
         "chats"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__chats__messages__index.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__chats__messages__index.html.md",
       "meta": {
         "scope": [],
         "who_can_execute": ""
@@ -5958,7 +5958,7 @@
       "tags": [
         "chats"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__chats__messages__keyboards.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__chats__messages__keyboards.html.md",
       "meta": {
         "scope": [],
         "who_can_execute": ""
@@ -6004,7 +6004,7 @@
       "tags": [
         "chats"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__chats__messages__menu.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__chats__messages__menu.html.md",
       "meta": {
         "scope": [],
         "who_can_execute": ""
@@ -6050,7 +6050,7 @@
       "tags": [
         "chats"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__chats__notifications__im-notify-answer.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__chats__notifications__im-notify-answer.html.md",
       "meta": {
         "scope": [
           "im"
@@ -6211,7 +6211,7 @@
       "tags": [
         "chats"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__chats__notifications__im-notify-confirm.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__chats__notifications__im-notify-confirm.html.md",
       "meta": {
         "scope": [
           "im"
@@ -6372,7 +6372,7 @@
       "tags": [
         "chats"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__chats__notifications__im-notify-delete.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__chats__notifications__im-notify-delete.html.md",
       "meta": {
         "scope": [
           "im"
@@ -6543,7 +6543,7 @@
       "tags": [
         "chats"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__chats__notifications__im-notify-get.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__chats__notifications__im-notify-get.html.md",
       "meta": {
         "scope": [
           "im"
@@ -6714,7 +6714,7 @@
       "tags": [
         "chats"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__chats__notifications__im-notify-history-search.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__chats__notifications__im-notify-history-search.html.md",
       "meta": {
         "scope": [
           "im"
@@ -6920,7 +6920,7 @@
       "tags": [
         "chats"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__chats__notifications__im-notify-personal-add.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__chats__notifications__im-notify-personal-add.html.md",
       "meta": {
         "scope": [
           "im"
@@ -7101,7 +7101,7 @@
       "tags": [
         "chats"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__chats__notifications__im-notify-read-all.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__chats__notifications__im-notify-read-all.html.md",
       "meta": {
         "scope": [
           "im"
@@ -7251,7 +7251,7 @@
       "tags": [
         "chats"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__chats__notifications__im-notify-read-list.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__chats__notifications__im-notify-read-list.html.md",
       "meta": {
         "scope": [
           "im"
@@ -7412,7 +7412,7 @@
       "tags": [
         "chats"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__chats__notifications__im-notify-read.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__chats__notifications__im-notify-read.html.md",
       "meta": {
         "scope": [
           "im"
@@ -7578,7 +7578,7 @@
       "tags": [
         "chats"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__chats__notifications__im-notify-schema-get.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__chats__notifications__im-notify-schema-get.html.md",
       "meta": {
         "scope": [
           "im"
@@ -7728,7 +7728,7 @@
       "tags": [
         "chats"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__chats__notifications__im-notify-system-add.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__chats__notifications__im-notify-system-add.html.md",
       "meta": {
         "scope": [
           "im"
@@ -7909,7 +7909,7 @@
       "tags": [
         "chats"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__chats__notifications__im-notify.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__chats__notifications__im-notify.html.md",
       "meta": {
         "scope": [
           "im"
@@ -8095,7 +8095,7 @@
       "tags": [
         "chats"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__chats__notifications__index.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__chats__notifications__index.html.md",
       "meta": {
         "scope": [
           "im"
@@ -8122,7 +8122,7 @@
       "tags": [
         "chats"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__chats__outdated__chat-apps.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__chats__outdated__chat-apps.html.md",
       "meta": {
         "scope": [],
         "who_can_execute": ""
@@ -8147,7 +8147,7 @@
       "tags": [
         "chats"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__chats__outdated__context.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__chats__outdated__context.html.md",
       "meta": {
         "scope": [],
         "who_can_execute": ""
@@ -8181,7 +8181,7 @@
       "tags": [
         "chats"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__chats__outdated__create-app__imbot-app-register.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__chats__outdated__create-app__imbot-app-register.html.md",
       "meta": {
         "scope": [
           "imbot"
@@ -8382,7 +8382,7 @@
       "tags": [
         "chats"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__chats__outdated__create-app__imbot-app-unregister.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__chats__outdated__create-app__imbot-app-unregister.html.md",
       "meta": {
         "scope": [
           "imbot"
@@ -8515,7 +8515,7 @@
       "tags": [
         "chats"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__chats__outdated__create-app__imbot-app-update.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__chats__outdated__create-app__imbot-app-update.html.md",
       "meta": {
         "scope": [
           "imbot"
@@ -8728,7 +8728,7 @@
       "tags": [
         "chats"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__chats__outdated__create-app__index.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__chats__outdated__create-app__index.html.md",
       "meta": {
         "scope": [],
         "who_can_execute": ""
@@ -8753,7 +8753,7 @@
       "tags": [
         "chats"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__chats__outdated__icon.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__chats__outdated__icon.html.md",
       "meta": {
         "scope": [],
         "who_can_execute": ""
@@ -8783,7 +8783,7 @@
       "tags": [
         "chats"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__chats__outdated__iframe.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__chats__outdated__iframe.html.md",
       "meta": {
         "scope": [],
         "who_can_execute": ""
@@ -8821,7 +8821,7 @@
       "tags": [
         "chats"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__chats__outdated__index.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__chats__outdated__index.html.md",
       "meta": {
         "scope": [],
         "who_can_execute": ""
@@ -8846,7 +8846,7 @@
       "tags": [
         "chats"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__chats__search__im-search-chat-list.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__chats__search__im-search-chat-list.html.md",
       "meta": {
         "scope": [
           "im"
@@ -9027,7 +9027,7 @@
       "tags": [
         "chats"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__chats__search__im-search-department-list.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__chats__search__im-search-department-list.html.md",
       "meta": {
         "scope": [
           "im"
@@ -9208,7 +9208,7 @@
       "tags": [
         "chats"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__chats__search__im-search-last-add.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__chats__search__im-search-last-add.html.md",
       "meta": {
         "scope": [
           "im"
@@ -9364,7 +9364,7 @@
       "tags": [
         "chats"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__chats__search__im-search-last-delete.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__chats__search__im-search-last-delete.html.md",
       "meta": {
         "scope": [
           "im"
@@ -9520,7 +9520,7 @@
       "tags": [
         "chats"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__chats__search__im-search-last-get.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__chats__search__im-search-last-get.html.md",
       "meta": {
         "scope": [
           "im"
@@ -9686,7 +9686,7 @@
       "tags": [
         "chats"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__chats__search__im-search-user-list.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__chats__search__im-search-user-list.html.md",
       "meta": {
         "scope": [
           "im"
@@ -9867,7 +9867,7 @@
       "tags": [
         "chats"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__chats__search__index.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__chats__search__index.html.md",
       "meta": {
         "scope": [
           "im"
@@ -9894,7 +9894,7 @@
       "tags": [
         "chats"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__chats__special-operations__im-chat-mute.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__chats__special-operations__im-chat-mute.html.md",
       "meta": {
         "scope": [
           "im"
@@ -10060,7 +10060,7 @@
       "tags": [
         "chats"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__chats__special-operations__im-dialog-read-all.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__chats__special-operations__im-dialog-read-all.html.md",
       "meta": {
         "scope": [
           "im"
@@ -10210,7 +10210,7 @@
       "tags": [
         "chats"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__chats__special-operations__im-recent-hide.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__chats__special-operations__im-recent-hide.html.md",
       "meta": {
         "scope": [
           "im"
@@ -10366,7 +10366,7 @@
       "tags": [
         "chats"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__chats__special-operations__im-recent-pin.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__chats__special-operations__im-recent-pin.html.md",
       "meta": {
         "scope": [
           "im"
@@ -10527,7 +10527,7 @@
       "tags": [
         "chats"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__chats__special-operations__im-recent-unread.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__chats__special-operations__im-recent-unread.html.md",
       "meta": {
         "scope": [
           "im"
@@ -10688,7 +10688,7 @@
       "tags": [
         "chats"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__chats__special-operations__index.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__chats__special-operations__index.html.md",
       "meta": {
         "scope": [
           "im"
@@ -10715,7 +10715,7 @@
       "tags": [
         "chats"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__chats__users__im-user-get.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__chats__users__im-user-get.html.md",
       "meta": {
         "scope": [
           "im"
@@ -10876,7 +10876,7 @@
       "tags": [
         "chats"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__chats__users__im-user-list-get.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__chats__users__im-user-list-get.html.md",
       "meta": {
         "scope": [
           "im"
@@ -11042,7 +11042,7 @@
       "tags": [
         "chats"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__chats__users__im-user-status-get.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__chats__users__im-user-status-get.html.md",
       "meta": {
         "scope": [
           "im"
@@ -11192,7 +11192,7 @@
       "tags": [
         "chats"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__chats__users__im-user-status-idle-end.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__chats__users__im-user-status-idle-end.html.md",
       "meta": {
         "scope": [
           "im"
@@ -11342,7 +11342,7 @@
       "tags": [
         "chats"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__chats__users__im-user-status-idle-start.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__chats__users__im-user-status-idle-start.html.md",
       "meta": {
         "scope": [
           "im"
@@ -11498,7 +11498,7 @@
       "tags": [
         "chats"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__chats__users__im-user-status-set.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__chats__users__im-user-status-set.html.md",
       "meta": {
         "scope": [
           "im"
@@ -11654,7 +11654,7 @@
       "tags": [
         "chats"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__chats__users__index.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__chats__users__index.html.md",
       "meta": {
         "scope": [
           "im"

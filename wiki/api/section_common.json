@@ -15,7 +15,7 @@
       "tags": [
         "common"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__common__events__index.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__common__events__index.html.md",
       "meta": {
         "scope": [],
         "who_can_execute": ""
@@ -40,7 +40,7 @@
       "tags": [
         "common"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__common__events__on-app-install.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__common__events__on-app-install.html.md",
       "meta": {
         "scope": [
           "базовый"
@@ -72,7 +72,7 @@
       "tags": [
         "common"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__common__events__on-app-method-confirm.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__common__events__on-app-method-confirm.html.md",
       "meta": {
         "scope": [
           "базовый"
@@ -104,7 +104,7 @@
       "tags": [
         "common"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__common__events__on-app-payment.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__common__events__on-app-payment.html.md",
       "meta": {
         "scope": [
           "базовый"
@@ -136,7 +136,7 @@
       "tags": [
         "common"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__common__events__on-app-uninstall.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__common__events__on-app-uninstall.html.md",
       "meta": {
         "scope": [
           "базовый"
@@ -168,7 +168,7 @@
       "tags": [
         "common"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__common__events__on-app-update.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__common__events__on-app-update.html.md",
       "meta": {
         "scope": [
           "базовый"
@@ -200,7 +200,7 @@
       "tags": [
         "common"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__common__events__on-user-add.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__common__events__on-user-add.html.md",
       "meta": {
         "scope": [
           "базовый"
@@ -232,7 +232,7 @@
       "tags": [
         "common"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__common__index.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__common__index.html.md",
       "meta": {
         "scope": [],
         "who_can_execute": ""
@@ -257,7 +257,7 @@
       "tags": [
         "common"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__common__settings__app-option-get.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__common__settings__app-option-get.html.md",
       "meta": {
         "scope": [
           "базовый"
@@ -396,7 +396,7 @@
       "tags": [
         "common"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__common__settings__app-option-set.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__common__settings__app-option-set.html.md",
       "meta": {
         "scope": [
           "базовый"
@@ -541,7 +541,7 @@
       "tags": [
         "common"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__common__settings__index.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__common__settings__index.html.md",
       "meta": {
         "scope": [
           "базовый"
@@ -568,7 +568,7 @@
       "tags": [
         "common"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__common__settings__user-option-get.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__common__settings__user-option-get.html.md",
       "meta": {
         "scope": [
           "базовый"
@@ -707,7 +707,7 @@
       "tags": [
         "common"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__common__settings__user-option-set.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__common__settings__user-option-set.html.md",
       "meta": {
         "scope": [
           "базовый"
@@ -852,7 +852,7 @@
       "tags": [
         "common"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__common__system__access-name.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__common__system__access-name.html.md",
       "meta": {
         "scope": [
           "базовый"
@@ -1008,7 +1008,7 @@
       "tags": [
         "common"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__common__system__app-info.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__common__system__app-info.html.md",
       "meta": {
         "scope": [
           "базовый"
@@ -1158,7 +1158,7 @@
       "tags": [
         "common"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__common__system__feature-get.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__common__system__feature-get.html.md",
       "meta": {
         "scope": [
           "базовый"
@@ -1314,7 +1314,7 @@
       "tags": [
         "common"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__common__system__index.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__common__system__index.html.md",
       "meta": {
         "scope": [
           "базовый"
@@ -1341,7 +1341,7 @@
       "tags": [
         "common"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__common__system__method-get.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__common__system__method-get.html.md",
       "meta": {
         "scope": [
           "базовый"
@@ -1497,7 +1497,7 @@
       "tags": [
         "common"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__common__system__methods.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__common__system__methods.html.md",
       "meta": {
         "scope": [
           "базовый"
@@ -1658,7 +1658,7 @@
       "tags": [
         "common"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__common__system__scope.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__common__system__scope.html.md",
       "meta": {
         "scope": [
           "базовый"
@@ -1814,7 +1814,7 @@
       "tags": [
         "common"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__common__system__server-time.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__common__system__server-time.html.md",
       "meta": {
         "scope": [
           "базовый"
@@ -1964,7 +1964,7 @@
       "tags": [
         "common"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__common__users__index.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__common__users__index.html.md",
       "meta": {
         "scope": [
           "базовый"
@@ -1991,7 +1991,7 @@
       "tags": [
         "common"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__common__users__profile.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__common__users__profile.html.md",
       "meta": {
         "scope": [
           "базовый"
@@ -2141,7 +2141,7 @@
       "tags": [
         "common"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__common__users__user-access.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__common__users__user-access.html.md",
       "meta": {
         "scope": [
           "базовый"
@@ -2297,7 +2297,7 @@
       "tags": [
         "common"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__common__users__user-admin.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__common__users__user-admin.html.md",
       "meta": {
         "scope": [
           "базовый"

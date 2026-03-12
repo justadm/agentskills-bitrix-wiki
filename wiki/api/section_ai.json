@@ -15,7 +15,7 @@
       "tags": [
         "ai"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__ai__ai-engine-list.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__ai__ai-engine-list.html.md",
       "meta": {
         "scope": [
           "ai_admin"
@@ -63,7 +63,7 @@
       "tags": [
         "ai"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__ai__ai-engine-register.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__ai__ai-engine-register.html.md",
       "meta": {
         "scope": [
           "ai_admin"
@@ -111,7 +111,7 @@
       "tags": [
         "ai"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__ai__ai-engine-unregister.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__ai__ai-engine-unregister.html.md",
       "meta": {
         "scope": [
           "ai_admin"
@@ -159,7 +159,7 @@
       "tags": [
         "ai"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__ai__index.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__ai__index.html.md",
       "meta": {
         "scope": [],
         "who_can_execute": ""
@@ -184,7 +184,7 @@
       "tags": [
         "ai"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__ai__prompts__ai-prompt-register.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__ai__prompts__ai-prompt-register.html.md",
       "meta": {
         "scope": [
           "ai_admin"
@@ -232,7 +232,7 @@
       "tags": [
         "ai"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__ai__prompts__ai-prompt-unregister.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__ai__prompts__ai-prompt-unregister.html.md",
       "meta": {
         "scope": [
           "ai_admin"
@@ -280,7 +280,7 @@
       "tags": [
         "ai"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__ai__prompts__conditions.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__ai__prompts__conditions.html.md",
       "meta": {
         "scope": [],
         "who_can_execute": ""
@@ -326,7 +326,7 @@
       "tags": [
         "ai"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__ai__prompts__index.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__ai__prompts__index.html.md",
       "meta": {
         "scope": [],
         "who_can_execute": ""
@@ -351,7 +351,7 @@
       "tags": [
         "ai"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__ai__prompts__markers.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__ai__prompts__markers.html.md",
       "meta": {
         "scope": [],
         "who_can_execute": ""

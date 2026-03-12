@@ -15,7 +15,7 @@
       "tags": [
         "disk"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__disk__attached-object__disk-attached-object-get.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__disk__attached-object__disk-attached-object-get.html.md",
       "meta": {
         "scope": [
           "disk"
@@ -221,7 +221,7 @@
       "tags": [
         "disk"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__disk__attached-object__index.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__disk__attached-object__index.html.md",
       "meta": {
         "scope": [
           "disk"
@@ -248,7 +248,7 @@
       "tags": [
         "disk"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__disk__file__disk-file-copy-to.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__disk__file__disk-file-copy-to.html.md",
       "meta": {
         "scope": [
           "disk"
@@ -499,7 +499,7 @@
       "tags": [
         "disk"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__disk__file__disk-file-delete.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__disk__file__disk-file-delete.html.md",
       "meta": {
         "scope": [
           "disk"
@@ -655,7 +655,7 @@
       "tags": [
         "disk"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__disk__file__disk-file-get-external-link.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__disk__file__disk-file-get-external-link.html.md",
       "meta": {
         "scope": [
           "disk"
@@ -811,7 +811,7 @@
       "tags": [
         "disk"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__disk__file__disk-file-get-fields.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__disk__file__disk-file-get-fields.html.md",
       "meta": {
         "scope": [
           "disk"
@@ -1041,7 +1041,7 @@
       "tags": [
         "disk"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__disk__file__disk-file-get-versions.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__disk__file__disk-file-get-versions.html.md",
       "meta": {
         "scope": [
           "disk"
@@ -1252,7 +1252,7 @@
       "tags": [
         "disk"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__disk__file__disk-file-get.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__disk__file__disk-file-get.html.md",
       "meta": {
         "scope": [
           "disk"
@@ -1498,7 +1498,7 @@
       "tags": [
         "disk"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__disk__file__disk-file-mark-deleted.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__disk__file__disk-file-mark-deleted.html.md",
       "meta": {
         "scope": [
           "disk"
@@ -1744,7 +1744,7 @@
       "tags": [
         "disk"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__disk__file__disk-file-move-to.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__disk__file__disk-file-move-to.html.md",
       "meta": {
         "scope": [
           "disk"
@@ -1995,7 +1995,7 @@
       "tags": [
         "disk"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__disk__file__disk-file-rename.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__disk__file__disk-file-rename.html.md",
       "meta": {
         "scope": [
           "disk"
@@ -2246,7 +2246,7 @@
       "tags": [
         "disk"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__disk__file__disk-file-restore-from-version.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__disk__file__disk-file-restore-from-version.html.md",
       "meta": {
         "scope": [
           "disk"
@@ -2497,7 +2497,7 @@
       "tags": [
         "disk"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__disk__file__disk-file-restore.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__disk__file__disk-file-restore.html.md",
       "meta": {
         "scope": [
           "disk"
@@ -2743,7 +2743,7 @@
       "tags": [
         "disk"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__disk__file__disk-file-upload-version.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__disk__file__disk-file-upload-version.html.md",
       "meta": {
         "scope": [
           "disk"
@@ -2994,7 +2994,7 @@
       "tags": [
         "disk"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__disk__file__index.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__disk__file__index.html.md",
       "meta": {
         "scope": [
           "disk"
@@ -3021,7 +3021,7 @@
       "tags": [
         "disk"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__disk__folder__disk-folder-add-subfolder.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__disk__folder__disk-folder-add-subfolder.html.md",
       "meta": {
         "scope": [
           "disk"
@@ -3257,7 +3257,7 @@
       "tags": [
         "disk"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__disk__folder__disk-folder-copy-to.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__disk__folder__disk-folder-copy-to.html.md",
       "meta": {
         "scope": [
           "disk"
@@ -3493,7 +3493,7 @@
       "tags": [
         "disk"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__disk__folder__disk-folder-delete-tree.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__disk__folder__disk-folder-delete-tree.html.md",
       "meta": {
         "scope": [
           "disk"
@@ -3649,7 +3649,7 @@
       "tags": [
         "disk"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__disk__folder__disk-folder-get-children.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__disk__folder__disk-folder-get-children.html.md",
       "meta": {
         "scope": [
           "disk"
@@ -3920,7 +3920,7 @@
       "tags": [
         "disk"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__disk__folder__disk-folder-get-external-link.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__disk__folder__disk-folder-get-external-link.html.md",
       "meta": {
         "scope": [
           "disk"
@@ -4076,7 +4076,7 @@
       "tags": [
         "disk"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__disk__folder__disk-folder-get-fields.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__disk__folder__disk-folder-get-fields.html.md",
       "meta": {
         "scope": [
           "disk"
@@ -4296,7 +4296,7 @@
       "tags": [
         "disk"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__disk__folder__disk-folder-get.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__disk__folder__disk-folder-get.html.md",
       "meta": {
         "scope": [
           "disk"
@@ -4527,7 +4527,7 @@
       "tags": [
         "disk"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__disk__folder__disk-folder-mark-deleted.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__disk__folder__disk-folder-mark-deleted.html.md",
       "meta": {
         "scope": [
           "disk"
@@ -4758,7 +4758,7 @@
       "tags": [
         "disk"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__disk__folder__disk-folder-move-to.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__disk__folder__disk-folder-move-to.html.md",
       "meta": {
         "scope": [
           "disk"
@@ -4994,7 +4994,7 @@
       "tags": [
         "disk"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__disk__folder__disk-folder-rename.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__disk__folder__disk-folder-rename.html.md",
       "meta": {
         "scope": [
           "disk"
@@ -5230,7 +5230,7 @@
       "tags": [
         "disk"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__disk__folder__disk-folder-restore.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__disk__folder__disk-folder-restore.html.md",
       "meta": {
         "scope": [
           "disk"
@@ -5461,7 +5461,7 @@
       "tags": [
         "disk"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__disk__folder__disk-folder-share-to-user.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__disk__folder__disk-folder-share-to-user.html.md",
       "meta": {
         "scope": [
           "disk"
@@ -5627,7 +5627,7 @@
       "tags": [
         "disk"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__disk__folder__disk-folder-upload-file.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__disk__folder__disk-folder-upload-file.html.md",
       "meta": {
         "scope": [
           "disk"
@@ -5893,7 +5893,7 @@
       "tags": [
         "disk"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__disk__folder__index.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__disk__folder__index.html.md",
       "meta": {
         "scope": [
           "disk"
@@ -5920,7 +5920,7 @@
       "tags": [
         "disk"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__disk__index.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__disk__index.html.md",
       "meta": {
         "scope": [
           "disk"
@@ -5947,7 +5947,7 @@
       "tags": [
         "disk"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__disk__rights__disk-rights-get-tasks.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__disk__rights__disk-rights-get-tasks.html.md",
       "meta": {
         "scope": [
           "disk"
@@ -6112,7 +6112,7 @@
       "tags": [
         "disk"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__disk__rights__index.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__disk__rights__index.html.md",
       "meta": {
         "scope": [
           "disk"
@@ -6139,7 +6139,7 @@
       "tags": [
         "disk"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__disk__storage__disk-storage-add-folder.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__disk__storage__disk-storage-add-folder.html.md",
       "meta": {
         "scope": [
           "disk"
@@ -6380,7 +6380,7 @@
       "tags": [
         "disk"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__disk__storage__disk-storage-get-children.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__disk__storage__disk-storage-get-children.html.md",
       "meta": {
         "scope": [
           "disk"
@@ -6651,7 +6651,7 @@
       "tags": [
         "disk"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__disk__storage__disk-storage-get-fields.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__disk__storage__disk-storage-get-fields.html.md",
       "meta": {
         "scope": [
           "disk"
@@ -6836,7 +6836,7 @@
       "tags": [
         "disk"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__disk__storage__disk-storage-get-for-app.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__disk__storage__disk-storage-get-for-app.html.md",
       "meta": {
         "scope": [
           "disk"
@@ -7021,7 +7021,7 @@
       "tags": [
         "disk"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__disk__storage__disk-storage-get-list.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__disk__storage__disk-storage-get-list.html.md",
       "meta": {
         "scope": [
           "disk"
@@ -7227,7 +7227,7 @@
       "tags": [
         "disk"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__disk__storage__disk-storage-get-types.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__disk__storage__disk-storage-get-types.html.md",
       "meta": {
         "scope": [
           "disk"
@@ -7377,7 +7377,7 @@
       "tags": [
         "disk"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__disk__storage__disk-storage-get.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__disk__storage__disk-storage-get.html.md",
       "meta": {
         "scope": [
           "disk"
@@ -7568,7 +7568,7 @@
       "tags": [
         "disk"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__disk__storage__disk-storage-rename.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__disk__storage__disk-storage-rename.html.md",
       "meta": {
         "scope": [
           "disk"
@@ -7764,7 +7764,7 @@
       "tags": [
         "disk"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__disk__storage__disk-storage-upload-file.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__disk__storage__disk-storage-upload-file.html.md",
       "meta": {
         "scope": [
           "disk"
@@ -8030,7 +8030,7 @@
       "tags": [
         "disk"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__disk__storage__index.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__disk__storage__index.html.md",
       "meta": {
         "scope": [
           "disk"
@@ -8057,7 +8057,7 @@
       "tags": [
         "disk"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__disk__version__disk-version-get.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__disk__version__disk-version-get.html.md",
       "meta": {
         "scope": [
           "disk"
@@ -8253,7 +8253,7 @@
       "tags": [
         "disk"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__disk__version__index.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__disk__version__index.html.md",
       "meta": {
         "scope": [
           "disk"

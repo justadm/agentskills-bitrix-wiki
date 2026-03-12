@@ -15,7 +15,7 @@
       "tags": [
         "sonet-group"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__sonet-group__events__index.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__sonet-group__events__index.html.md",
       "meta": {
         "scope": [
           "sonet"
@@ -42,7 +42,7 @@
       "tags": [
         "sonet-group"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__sonet-group__events__on-sonet-group-add.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__sonet-group__events__on-sonet-group-add.html.md",
       "meta": {
         "scope": [
           "sonet"
@@ -74,7 +74,7 @@
       "tags": [
         "sonet-group"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__sonet-group__events__on-sonet-group-delete.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__sonet-group__events__on-sonet-group-delete.html.md",
       "meta": {
         "scope": [
           "sonet"
@@ -106,7 +106,7 @@
       "tags": [
         "sonet-group"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__sonet-group__events__on-sonet-group-update.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__sonet-group__events__on-sonet-group-update.html.md",
       "meta": {
         "scope": [
           "sonet"
@@ -138,7 +138,7 @@
       "tags": [
         "sonet-group"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__sonet-group__index.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__sonet-group__index.html.md",
       "meta": {
         "scope": [
           "sonet"
@@ -165,7 +165,7 @@
       "tags": [
         "sonet-group"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__sonet-group__members__index.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__sonet-group__members__index.html.md",
       "meta": {
         "scope": [
           "sonet"
@@ -192,7 +192,7 @@
       "tags": [
         "sonet-group"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__sonet-group__members__sonet-group-user-add.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__sonet-group__members__sonet-group-user-add.html.md",
       "meta": {
         "scope": [
           "sonet"
@@ -240,7 +240,7 @@
       "tags": [
         "sonet-group"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__sonet-group__members__sonet-group-user-delete.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__sonet-group__members__sonet-group-user-delete.html.md",
       "meta": {
         "scope": [
           "sonet"
@@ -288,7 +288,7 @@
       "tags": [
         "sonet-group"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__sonet-group__members__sonet-group-user-get.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__sonet-group__members__sonet-group-user-get.html.md",
       "meta": {
         "scope": [
           "sonet"
@@ -336,7 +336,7 @@
       "tags": [
         "sonet-group"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__sonet-group__members__sonet-group-user-invite.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__sonet-group__members__sonet-group-user-invite.html.md",
       "meta": {
         "scope": [
           "sonet"
@@ -384,7 +384,7 @@
       "tags": [
         "sonet-group"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__sonet-group__members__sonet-group-user-request.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__sonet-group__members__sonet-group-user-request.html.md",
       "meta": {
         "scope": [
           "sonet"
@@ -432,7 +432,7 @@
       "tags": [
         "sonet-group"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__sonet-group__members__sonet-group-user-update.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__sonet-group__members__sonet-group-user-update.html.md",
       "meta": {
         "scope": [
           "sonet"
@@ -480,7 +480,7 @@
       "tags": [
         "sonet-group"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__sonet-group__outdated__index.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__sonet-group__outdated__index.html.md",
       "meta": {
         "scope": [],
         "who_can_execute": ""
@@ -505,7 +505,7 @@
       "tags": [
         "sonet-group"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__sonet-group__outdated__on-sonet-group-subject-add.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__sonet-group__outdated__on-sonet-group-subject-add.html.md",
       "meta": {
         "scope": [
           "sonet"
@@ -532,7 +532,7 @@
       "tags": [
         "sonet-group"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__sonet-group__outdated__on-sonet-group-subject-delete.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__sonet-group__outdated__on-sonet-group-subject-delete.html.md",
       "meta": {
         "scope": [
           "sonet"
@@ -559,7 +559,7 @@
       "tags": [
         "sonet-group"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__sonet-group__outdated__on-sonet-group-subject-update.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__sonet-group__outdated__on-sonet-group-subject-update.html.md",
       "meta": {
         "scope": [
           "sonet"
@@ -586,7 +586,7 @@
       "tags": [
         "sonet-group"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__sonet-group__scrum__backlog__index.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__sonet-group__scrum__backlog__index.html.md",
       "meta": {
         "scope": [
           "task"
@@ -613,7 +613,7 @@
       "tags": [
         "sonet-group"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__sonet-group__scrum__backlog__tasks-api-scrum-backlog-add.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__sonet-group__scrum__backlog__tasks-api-scrum-backlog-add.html.md",
       "meta": {
         "scope": [
           "task"
@@ -779,7 +779,7 @@
       "tags": [
         "sonet-group"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__sonet-group__scrum__backlog__tasks-api-scrum-backlog-delete.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__sonet-group__scrum__backlog__tasks-api-scrum-backlog-delete.html.md",
       "meta": {
         "scope": [
           "task"
@@ -924,7 +924,7 @@
       "tags": [
         "sonet-group"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__sonet-group__scrum__backlog__tasks-api-scrum-backlog-get-fields.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__sonet-group__scrum__backlog__tasks-api-scrum-backlog-get-fields.html.md",
       "meta": {
         "scope": [
           "task"
@@ -1079,7 +1079,7 @@
       "tags": [
         "sonet-group"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__sonet-group__scrum__backlog__tasks-api-scrum-backlog-get.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__sonet-group__scrum__backlog__tasks-api-scrum-backlog-get.html.md",
       "meta": {
         "scope": [
           "task"
@@ -1245,7 +1245,7 @@
       "tags": [
         "sonet-group"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__sonet-group__scrum__backlog__tasks-api-scrum-backlog-update.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__sonet-group__scrum__backlog__tasks-api-scrum-backlog-update.html.md",
       "meta": {
         "scope": [
           "task"
@@ -1416,7 +1416,7 @@
       "tags": [
         "sonet-group"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__sonet-group__scrum__epic__index.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__sonet-group__scrum__epic__index.html.md",
       "meta": {
         "scope": [
           "task"
@@ -1443,7 +1443,7 @@
       "tags": [
         "sonet-group"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__sonet-group__scrum__epic__tasks-api-scrum-epic-add.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__sonet-group__scrum__epic__tasks-api-scrum-epic-add.html.md",
       "meta": {
         "scope": [
           "task"
@@ -1624,7 +1624,7 @@
       "tags": [
         "sonet-group"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__sonet-group__scrum__epic__tasks-api-scrum-epic-delete.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__sonet-group__scrum__epic__tasks-api-scrum-epic-delete.html.md",
       "meta": {
         "scope": [
           "task"
@@ -1769,7 +1769,7 @@
       "tags": [
         "sonet-group"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__sonet-group__scrum__epic__tasks-api-scrum-epic-get-fields.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__sonet-group__scrum__epic__tasks-api-scrum-epic-get-fields.html.md",
       "meta": {
         "scope": [
           "task"
@@ -1944,7 +1944,7 @@
       "tags": [
         "sonet-group"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__sonet-group__scrum__epic__tasks-api-scrum-epic-get.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__sonet-group__scrum__epic__tasks-api-scrum-epic-get.html.md",
       "meta": {
         "scope": [
           "task"
@@ -2130,7 +2130,7 @@
       "tags": [
         "sonet-group"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__sonet-group__scrum__epic__tasks-api-scrum-epic-list.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__sonet-group__scrum__epic__tasks-api-scrum-epic-list.html.md",
       "meta": {
         "scope": [
           "task"
@@ -2326,7 +2326,7 @@
       "tags": [
         "sonet-group"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__sonet-group__scrum__epic__tasks-api-scrum-epic-update.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__sonet-group__scrum__epic__tasks-api-scrum-epic-update.html.md",
       "meta": {
         "scope": [
           "task"
@@ -2512,7 +2512,7 @@
       "tags": [
         "sonet-group"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__sonet-group__scrum__index.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__sonet-group__scrum__index.html.md",
       "meta": {
         "scope": [
           "task"
@@ -2539,7 +2539,7 @@
       "tags": [
         "sonet-group"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__sonet-group__scrum__kanban__index.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__sonet-group__scrum__kanban__index.html.md",
       "meta": {
         "scope": [
           "task"
@@ -2566,7 +2566,7 @@
       "tags": [
         "sonet-group"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__sonet-group__scrum__kanban__tasks-api-scrum-kanban-add-stage.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__sonet-group__scrum__kanban__tasks-api-scrum-kanban-add-stage.html.md",
       "meta": {
         "scope": [
           "task"
@@ -2711,7 +2711,7 @@
       "tags": [
         "sonet-group"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__sonet-group__scrum__kanban__tasks-api-scrum-kanban-add-task.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__sonet-group__scrum__kanban__tasks-api-scrum-kanban-add-task.html.md",
       "meta": {
         "scope": [
           "task"
@@ -2866,7 +2866,7 @@
       "tags": [
         "sonet-group"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__sonet-group__scrum__kanban__tasks-api-scrum-kanban-delete-stage.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__sonet-group__scrum__kanban__tasks-api-scrum-kanban-delete-stage.html.md",
       "meta": {
         "scope": [
           "task"
@@ -3011,7 +3011,7 @@
       "tags": [
         "sonet-group"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__sonet-group__scrum__kanban__tasks-api-scrum-kanban-delete-task.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__sonet-group__scrum__kanban__tasks-api-scrum-kanban-delete-task.html.md",
       "meta": {
         "scope": [
           "task"
@@ -3161,7 +3161,7 @@
       "tags": [
         "sonet-group"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__sonet-group__scrum__kanban__tasks-api-scrum-kanban-get-fields.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__sonet-group__scrum__kanban__tasks-api-scrum-kanban-get-fields.html.md",
       "meta": {
         "scope": [
           "task"
@@ -3300,7 +3300,7 @@
       "tags": [
         "sonet-group"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__sonet-group__scrum__kanban__tasks-api-scrum-kanban-get-stages.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__sonet-group__scrum__kanban__tasks-api-scrum-kanban-get-stages.html.md",
       "meta": {
         "scope": [
           "task"
@@ -3471,7 +3471,7 @@
       "tags": [
         "sonet-group"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__sonet-group__scrum__kanban__tasks-api-scrum-kanban-update-stage.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__sonet-group__scrum__kanban__tasks-api-scrum-kanban-update-stage.html.md",
       "meta": {
         "scope": [
           "task"
@@ -3621,7 +3621,7 @@
       "tags": [
         "sonet-group"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__sonet-group__scrum__sprint__index.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__sonet-group__scrum__sprint__index.html.md",
       "meta": {
         "scope": [
           "task"
@@ -3648,7 +3648,7 @@
       "tags": [
         "sonet-group"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__sonet-group__scrum__sprint__tasks-api-scrum-sprint-add.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__sonet-group__scrum__sprint__tasks-api-scrum-sprint-add.html.md",
       "meta": {
         "scope": [
           "task"
@@ -3854,7 +3854,7 @@
       "tags": [
         "sonet-group"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__sonet-group__scrum__sprint__tasks-api-scrum-sprint-complete.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__sonet-group__scrum__sprint__tasks-api-scrum-sprint-complete.html.md",
       "meta": {
         "scope": [
           "task"
@@ -4060,7 +4060,7 @@
       "tags": [
         "sonet-group"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__sonet-group__scrum__sprint__tasks-api-scrum-sprint-delete.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__sonet-group__scrum__sprint__tasks-api-scrum-sprint-delete.html.md",
       "meta": {
         "scope": [
           "task"
@@ -4205,7 +4205,7 @@
       "tags": [
         "sonet-group"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__sonet-group__scrum__sprint__tasks-api-scrum-sprint-get-fields.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__sonet-group__scrum__sprint__tasks-api-scrum-sprint-get-fields.html.md",
       "meta": {
         "scope": [
           "task"
@@ -4385,7 +4385,7 @@
       "tags": [
         "sonet-group"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__sonet-group__scrum__sprint__tasks-api-scrum-sprint-get.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__sonet-group__scrum__sprint__tasks-api-scrum-sprint-get.html.md",
       "meta": {
         "scope": [
           "task"
@@ -4591,7 +4591,7 @@
       "tags": [
         "sonet-group"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__sonet-group__scrum__sprint__tasks-api-scrum-sprint-list.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__sonet-group__scrum__sprint__tasks-api-scrum-sprint-list.html.md",
       "meta": {
         "scope": [
           "task"
@@ -4812,7 +4812,7 @@
       "tags": [
         "sonet-group"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__sonet-group__scrum__sprint__tasks-api-scrum-sprint-start.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__sonet-group__scrum__sprint__tasks-api-scrum-sprint-start.html.md",
       "meta": {
         "scope": [
           "task"
@@ -5018,7 +5018,7 @@
       "tags": [
         "sonet-group"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__sonet-group__scrum__sprint__tasks-api-scrum-sprint-update.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__sonet-group__scrum__sprint__tasks-api-scrum-sprint-update.html.md",
       "meta": {
         "scope": [
           "task"
@@ -5229,7 +5229,7 @@
       "tags": [
         "sonet-group"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__sonet-group__scrum__task__index.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__sonet-group__scrum__task__index.html.md",
       "meta": {
         "scope": [
           "task"
@@ -5256,7 +5256,7 @@
       "tags": [
         "sonet-group"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__sonet-group__scrum__task__tasks-api-scrum-task-get-fields.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__sonet-group__scrum__task__tasks-api-scrum-task-get-fields.html.md",
       "meta": {
         "scope": [
           "task"
@@ -5426,7 +5426,7 @@
       "tags": [
         "sonet-group"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__sonet-group__scrum__task__tasks-api-scrum-task-get.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__sonet-group__scrum__task__tasks-api-scrum-task-get.html.md",
       "meta": {
         "scope": [
           "task"
@@ -5612,7 +5612,7 @@
       "tags": [
         "sonet-group"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__sonet-group__scrum__task__tasks-api-scrum-task-update.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__sonet-group__scrum__task__tasks-api-scrum-task-update.html.md",
       "meta": {
         "scope": [
           "task"
@@ -5778,7 +5778,7 @@
       "tags": [
         "sonet-group"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__sonet-group__socialnetwork-api-workgroup-get.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__sonet-group__socialnetwork-api-workgroup-get.html.md",
       "meta": {
         "scope": [
           "socialnetwork"
@@ -5843,7 +5843,7 @@
       "tags": [
         "sonet-group"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__sonet-group__socialnetwork-api-workgroup-list.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__sonet-group__socialnetwork-api-workgroup-list.html.md",
       "meta": {
         "scope": [
           "socialnetwork"
@@ -5891,7 +5891,7 @@
       "tags": [
         "sonet-group"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__sonet-group__sonet-group-create.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__sonet-group__sonet-group-create.html.md",
       "meta": {
         "scope": [
           "sonet"
@@ -5939,7 +5939,7 @@
       "tags": [
         "sonet-group"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__sonet-group__sonet-group-delete.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__sonet-group__sonet-group-delete.html.md",
       "meta": {
         "scope": [
           "sonet"
@@ -5987,7 +5987,7 @@
       "tags": [
         "sonet-group"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__sonet-group__sonet-group-feature-access.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__sonet-group__sonet-group-feature-access.html.md",
       "meta": {
         "scope": [
           "sonet"
@@ -6035,7 +6035,7 @@
       "tags": [
         "sonet-group"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__sonet-group__sonet-group-get.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__sonet-group__sonet-group-get.html.md",
       "meta": {
         "scope": [
           "sonet"
@@ -6083,7 +6083,7 @@
       "tags": [
         "sonet-group"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__sonet-group__sonet-group-setowner.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__sonet-group__sonet-group-setowner.html.md",
       "meta": {
         "scope": [
           "sonet"
@@ -6131,7 +6131,7 @@
       "tags": [
         "sonet-group"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__sonet-group__sonet-group-update.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__sonet-group__sonet-group-update.html.md",
       "meta": {
         "scope": [
           "sonet"
@@ -6179,7 +6179,7 @@
       "tags": [
         "sonet-group"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__sonet-group__sonet-group-user-groups.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__sonet-group__sonet-group-user-groups.html.md",
       "meta": {
         "scope": [
           "sonet"
@@ -6227,7 +6227,7 @@
       "tags": [
         "sonet-group"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__sonet-group__widgets.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__sonet-group__widgets.html.md",
       "meta": {
         "scope": [],
         "who_can_execute": ""

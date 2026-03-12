@@ -15,7 +15,7 @@
       "tags": [
         "pay-system"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__pay-system__index.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__pay-system__index.html.md",
       "meta": {
         "scope": [
           "pay_system"
@@ -42,7 +42,7 @@
       "tags": [
         "pay-system"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__pay-system__sale-pay-system-add.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__pay-system__sale-pay-system-add.html.md",
       "meta": {
         "scope": [
           "pay_system"
@@ -243,7 +243,7 @@
       "tags": [
         "pay-system"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__pay-system__sale-pay-system-delete.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__pay-system__sale-pay-system-delete.html.md",
       "meta": {
         "scope": [
           "pay_system"
@@ -399,7 +399,7 @@
       "tags": [
         "pay-system"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__pay-system__sale-pay-system-handler-add.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__pay-system__sale-pay-system-handler-add.html.md",
       "meta": {
         "scope": [
           "pay_system"
@@ -570,7 +570,7 @@
       "tags": [
         "pay-system"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__pay-system__sale-pay-system-handler-delete.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__pay-system__sale-pay-system-handler-delete.html.md",
       "meta": {
         "scope": [
           "pay_system"
@@ -726,7 +726,7 @@
       "tags": [
         "pay-system"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__pay-system__sale-pay-system-handler-list.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__pay-system__sale-pay-system-handler-list.html.md",
       "meta": {
         "scope": [
           "pay_system"
@@ -876,7 +876,7 @@
       "tags": [
         "pay-system"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__pay-system__sale-pay-system-handler-update.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__pay-system__sale-pay-system-handler-update.html.md",
       "meta": {
         "scope": [
           "pay_system"
@@ -1037,7 +1037,7 @@
       "tags": [
         "pay-system"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__pay-system__sale-pay-system-list.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__pay-system__sale-pay-system-list.html.md",
       "meta": {
         "scope": [
           "pay_system"
@@ -1203,7 +1203,7 @@
       "tags": [
         "pay-system"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__pay-system__sale-pay-system-pay-invoice.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__pay-system__sale-pay-system-pay-invoice.html.md",
       "meta": {
         "scope": [
           "pay_system"
@@ -1369,7 +1369,7 @@
       "tags": [
         "pay-system"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__pay-system__sale-pay-system-pay-payment.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__pay-system__sale-pay-system-pay-payment.html.md",
       "meta": {
         "scope": [
           "pay_system"
@@ -1530,7 +1530,7 @@
       "tags": [
         "pay-system"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__pay-system__sale-pay-system-settings-get.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__pay-system__sale-pay-system-settings-get.html.md",
       "meta": {
         "scope": [
           "pay_system"
@@ -1691,7 +1691,7 @@
       "tags": [
         "pay-system"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__pay-system__sale-pay-system-settings-invoice-get.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__pay-system__sale-pay-system-settings-invoice-get.html.md",
       "meta": {
         "scope": [
           "pay_system"
@@ -1857,7 +1857,7 @@
       "tags": [
         "pay-system"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__pay-system__sale-pay-system-settings-payment-get.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__pay-system__sale-pay-system-settings-payment-get.html.md",
       "meta": {
         "scope": [
           "pay_system"
@@ -2018,7 +2018,7 @@
       "tags": [
         "pay-system"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__pay-system__sale-pay-system-settings-update.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__pay-system__sale-pay-system-settings-update.html.md",
       "meta": {
         "scope": [
           "pay_system"
@@ -2184,7 +2184,7 @@
       "tags": [
         "pay-system"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__pay-system__sale-pay-system-update.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__pay-system__sale-pay-system-update.html.md",
       "meta": {
         "scope": [
           "pay_system"

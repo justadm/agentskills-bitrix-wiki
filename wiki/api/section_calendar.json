@@ -15,7 +15,7 @@
       "tags": [
         "calendar"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__calendar__calendar-event__calendar-accessibility-get.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__calendar__calendar-event__calendar-accessibility-get.html.md",
       "meta": {
         "scope": [
           "calendar"
@@ -176,7 +176,7 @@
       "tags": [
         "calendar"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__calendar__calendar-event__calendar-event-add.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__calendar__calendar-event__calendar-event-add.html.md",
       "meta": {
         "scope": [
           "calendar"
@@ -356,7 +356,7 @@
       "tags": [
         "calendar"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__calendar__calendar-event__calendar-event-delete.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__calendar__calendar-event__calendar-event-delete.html.md",
       "meta": {
         "scope": [
           "calendar"
@@ -416,7 +416,7 @@
       "tags": [
         "calendar"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__calendar__calendar-event__calendar-event-get-by-id.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__calendar__calendar-event__calendar-event-get-by-id.html.md",
       "meta": {
         "scope": [
           "calendar"
@@ -756,7 +756,7 @@
       "tags": [
         "calendar"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__calendar__calendar-event__calendar-event-get-nearest.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__calendar__calendar-event__calendar-event-get-nearest.html.md",
       "meta": {
         "scope": [
           "calendar"
@@ -1121,7 +1121,7 @@
       "tags": [
         "calendar"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__calendar__calendar-event__calendar-event-get.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__calendar__calendar-event__calendar-event-get.html.md",
       "meta": {
         "scope": [
           "calendar"
@@ -1481,7 +1481,7 @@
       "tags": [
         "calendar"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__calendar__calendar-event__calendar-event-update.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__calendar__calendar-event__calendar-event-update.html.md",
       "meta": {
         "scope": [
           "calendar"
@@ -1676,7 +1676,7 @@
       "tags": [
         "calendar"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__calendar__calendar-event__calendar-meeting-status-get.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__calendar__calendar-event__calendar-meeting-status-get.html.md",
       "meta": {
         "scope": [
           "calendar"
@@ -1827,7 +1827,7 @@
       "tags": [
         "calendar"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__calendar__calendar-event__calendar-meeting-status-set.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__calendar__calendar-event__calendar-meeting-status-set.html.md",
       "meta": {
         "scope": [
           "calendar"
@@ -1983,7 +1983,7 @@
       "tags": [
         "calendar"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__calendar__calendar-event__events__index.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__calendar__calendar-event__events__index.html.md",
       "meta": {
         "scope": [
           "calendar"
@@ -2010,7 +2010,7 @@
       "tags": [
         "calendar"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__calendar__calendar-event__events__on-calendar-entry-add.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__calendar__calendar-event__events__on-calendar-entry-add.html.md",
       "meta": {
         "scope": [
           "calendar"
@@ -2042,7 +2042,7 @@
       "tags": [
         "calendar"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__calendar__calendar-event__events__on-calendar-entry-delete.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__calendar__calendar-event__events__on-calendar-entry-delete.html.md",
       "meta": {
         "scope": [
           "calendar"
@@ -2074,7 +2074,7 @@
       "tags": [
         "calendar"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__calendar__calendar-event__events__on-calendar-entry-update.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__calendar__calendar-event__events__on-calendar-entry-update.html.md",
       "meta": {
         "scope": [
           "calendar"
@@ -2106,7 +2106,7 @@
       "tags": [
         "calendar"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__calendar__calendar-event__index.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__calendar__calendar-event__index.html.md",
       "meta": {
         "scope": [
           "calendar"
@@ -2133,7 +2133,7 @@
       "tags": [
         "calendar"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__calendar__calendar-grid-veiw.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__calendar__calendar-grid-veiw.html.md",
       "meta": {
         "scope": [],
         "who_can_execute": ""
@@ -2179,7 +2179,7 @@
       "tags": [
         "calendar"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__calendar__calendar-section-add.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__calendar__calendar-section-add.html.md",
       "meta": {
         "scope": [
           "calendar"
@@ -2360,7 +2360,7 @@
       "tags": [
         "calendar"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__calendar__calendar-section-delete.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__calendar__calendar-section-delete.html.md",
       "meta": {
         "scope": [
           "calendar"
@@ -2521,7 +2521,7 @@
       "tags": [
         "calendar"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__calendar__calendar-section-get.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__calendar__calendar-section-get.html.md",
       "meta": {
         "scope": [
           "calendar"
@@ -2772,7 +2772,7 @@
       "tags": [
         "calendar"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__calendar__calendar-section-update.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__calendar__calendar-section-update.html.md",
       "meta": {
         "scope": [
           "calendar"
@@ -2958,7 +2958,7 @@
       "tags": [
         "calendar"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__calendar__calendar-settings-get.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__calendar__calendar-settings-get.html.md",
       "meta": {
         "scope": [
           "calendar"
@@ -3223,7 +3223,7 @@
       "tags": [
         "calendar"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__calendar__calendar-user-settings-get.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__calendar__calendar-user-settings-get.html.md",
       "meta": {
         "scope": [
           "calendar"
@@ -3473,7 +3473,7 @@
       "tags": [
         "calendar"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__calendar__calendar-user-settings-set.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__calendar__calendar-user-settings-set.html.md",
       "meta": {
         "scope": [
           "calendar"
@@ -3624,7 +3624,7 @@
       "tags": [
         "calendar"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__calendar__events__index.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__calendar__events__index.html.md",
       "meta": {
         "scope": [
           "calendar"
@@ -3651,7 +3651,7 @@
       "tags": [
         "calendar"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__calendar__events__on-calendar-section-add.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__calendar__events__on-calendar-section-add.html.md",
       "meta": {
         "scope": [
           "calendar"
@@ -3683,7 +3683,7 @@
       "tags": [
         "calendar"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__calendar__events__on-calendar-section-delete.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__calendar__events__on-calendar-section-delete.html.md",
       "meta": {
         "scope": [
           "calendar"
@@ -3715,7 +3715,7 @@
       "tags": [
         "calendar"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__calendar__events__on-calendar-section-update.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__calendar__events__on-calendar-section-update.html.md",
       "meta": {
         "scope": [
           "calendar"
@@ -3747,7 +3747,7 @@
       "tags": [
         "calendar"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__calendar__index.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__calendar__index.html.md",
       "meta": {
         "scope": [
           "calendar"
@@ -3774,7 +3774,7 @@
       "tags": [
         "calendar"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__calendar__resource__calendar-resource-add.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__calendar__resource__calendar-resource-add.html.md",
       "meta": {
         "scope": [
           "calendar"
@@ -3925,7 +3925,7 @@
       "tags": [
         "calendar"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__calendar__resource__calendar-resource-booking-list.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__calendar__resource__calendar-resource-booking-list.html.md",
       "meta": {
         "scope": [
           "calendar"
@@ -4076,7 +4076,7 @@
       "tags": [
         "calendar"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__calendar__resource__calendar-resource-delete.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__calendar__resource__calendar-resource-delete.html.md",
       "meta": {
         "scope": [
           "calendar"
@@ -4227,7 +4227,7 @@
       "tags": [
         "calendar"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__calendar__resource__calendar-resource-list.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__calendar__resource__calendar-resource-list.html.md",
       "meta": {
         "scope": [
           "calendar"
@@ -4372,7 +4372,7 @@
       "tags": [
         "calendar"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__calendar__resource__calendar-resource-update.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__calendar__resource__calendar-resource-update.html.md",
       "meta": {
         "scope": [
           "calendar"
@@ -4528,7 +4528,7 @@
       "tags": [
         "calendar"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__calendar__resource__index.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__calendar__resource__index.html.md",
       "meta": {
         "scope": [
           "calendar"

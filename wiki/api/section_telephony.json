@@ -15,7 +15,7 @@
       "tags": [
         "telephony"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__telephony__events__index.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__telephony__events__index.html.md",
       "meta": {
         "scope": [
           "telephony"
@@ -42,7 +42,7 @@
       "tags": [
         "telephony"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__telephony__events__on-external-call-back-start.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__telephony__events__on-external-call-back-start.html.md",
       "meta": {
         "scope": [
           "telephony"
@@ -69,7 +69,7 @@
       "tags": [
         "telephony"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__telephony__events__on-external-call-start.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__telephony__events__on-external-call-start.html.md",
       "meta": {
         "scope": [
           "telephony"
@@ -96,7 +96,7 @@
       "tags": [
         "telephony"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__telephony__index.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__telephony__index.html.md",
       "meta": {
         "scope": [],
         "who_can_execute": ""

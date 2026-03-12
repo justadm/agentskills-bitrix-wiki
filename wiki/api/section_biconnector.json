@@ -15,7 +15,7 @@
       "tags": [
         "biconnector"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__biconnector__connector__biconnector-connector-add.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__biconnector__connector__biconnector-connector-add.html.md",
       "meta": {
         "scope": [
           "biconnector"
@@ -171,7 +171,7 @@
       "tags": [
         "biconnector"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__biconnector__connector__biconnector-connector-delete.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__biconnector__connector__biconnector-connector-delete.html.md",
       "meta": {
         "scope": [
           "biconnector"
@@ -327,7 +327,7 @@
       "tags": [
         "biconnector"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__biconnector__connector__biconnector-connector-fields.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__biconnector__connector__biconnector-connector-fields.html.md",
       "meta": {
         "scope": [
           "biconnector"
@@ -477,7 +477,7 @@
       "tags": [
         "biconnector"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__biconnector__connector__biconnector-connector-get.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__biconnector__connector__biconnector-connector-get.html.md",
       "meta": {
         "scope": [
           "biconnector"
@@ -633,7 +633,7 @@
       "tags": [
         "biconnector"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__biconnector__connector__biconnector-connector-list.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__biconnector__connector__biconnector-connector-list.html.md",
       "meta": {
         "scope": [
           "biconnector"
@@ -799,7 +799,7 @@
       "tags": [
         "biconnector"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__biconnector__connector__biconnector-connector-update.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__biconnector__connector__biconnector-connector-update.html.md",
       "meta": {
         "scope": [
           "biconnector"
@@ -960,7 +960,7 @@
       "tags": [
         "biconnector"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__biconnector__connector__index.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__biconnector__connector__index.html.md",
       "meta": {
         "scope": [
           "biconnector"
@@ -1008,7 +1008,7 @@
       "tags": [
         "biconnector"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__biconnector__dataset__biconnector-dataset-add.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__biconnector__dataset__biconnector-dataset-add.html.md",
       "meta": {
         "scope": [
           "biconnector"
@@ -1164,7 +1164,7 @@
       "tags": [
         "biconnector"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__biconnector__dataset__biconnector-dataset-delete.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__biconnector__dataset__biconnector-dataset-delete.html.md",
       "meta": {
         "scope": [
           "biconnector"
@@ -1320,7 +1320,7 @@
       "tags": [
         "biconnector"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__biconnector__dataset__biconnector-dataset-fields-update.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__biconnector__dataset__biconnector-dataset-fields-update.html.md",
       "meta": {
         "scope": [
           "biconnector"
@@ -1491,7 +1491,7 @@
       "tags": [
         "biconnector"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__biconnector__dataset__biconnector-dataset-fields.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__biconnector__dataset__biconnector-dataset-fields.html.md",
       "meta": {
         "scope": [
           "biconnector"
@@ -1641,7 +1641,7 @@
       "tags": [
         "biconnector"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__biconnector__dataset__biconnector-dataset-get.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__biconnector__dataset__biconnector-dataset-get.html.md",
       "meta": {
         "scope": [
           "biconnector"
@@ -1797,7 +1797,7 @@
       "tags": [
         "biconnector"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__biconnector__dataset__biconnector-dataset-list.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__biconnector__dataset__biconnector-dataset-list.html.md",
       "meta": {
         "scope": [
           "biconnector"
@@ -1963,7 +1963,7 @@
       "tags": [
         "biconnector"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__biconnector__dataset__biconnector-dataset-update.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__biconnector__dataset__biconnector-dataset-update.html.md",
       "meta": {
         "scope": [
           "biconnector"
@@ -2124,7 +2124,7 @@
       "tags": [
         "biconnector"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__biconnector__dataset__index.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__biconnector__dataset__index.html.md",
       "meta": {
         "scope": [
           "biconnector"
@@ -2151,7 +2151,7 @@
       "tags": [
         "biconnector"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__biconnector__index.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__biconnector__index.html.md",
       "meta": {
         "scope": [
           "biconnector"
@@ -2178,7 +2178,7 @@
       "tags": [
         "biconnector"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__biconnector__source__biconnector-source-add.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__biconnector__source__biconnector-source-add.html.md",
       "meta": {
         "scope": [
           "biconnector"
@@ -2334,7 +2334,7 @@
       "tags": [
         "biconnector"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__biconnector__source__biconnector-source-delete.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__biconnector__source__biconnector-source-delete.html.md",
       "meta": {
         "scope": [
           "biconnector"
@@ -2490,7 +2490,7 @@
       "tags": [
         "biconnector"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__biconnector__source__biconnector-source-fields.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__biconnector__source__biconnector-source-fields.html.md",
       "meta": {
         "scope": [
           "biconnector"
@@ -2640,7 +2640,7 @@
       "tags": [
         "biconnector"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__biconnector__source__biconnector-source-get.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__biconnector__source__biconnector-source-get.html.md",
       "meta": {
         "scope": [
           "biconnector"
@@ -2796,7 +2796,7 @@
       "tags": [
         "biconnector"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__biconnector__source__biconnector-source-list.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__biconnector__source__biconnector-source-list.html.md",
       "meta": {
         "scope": [
           "biconnector"
@@ -2962,7 +2962,7 @@
       "tags": [
         "biconnector"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__biconnector__source__biconnector-source-update.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__biconnector__source__biconnector-source-update.html.md",
       "meta": {
         "scope": [
           "biconnector"
@@ -3123,7 +3123,7 @@
       "tags": [
         "biconnector"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__biconnector__source__index.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__biconnector__source__index.html.md",
       "meta": {
         "scope": [
           "biconnector"

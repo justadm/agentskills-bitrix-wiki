@@ -15,7 +15,7 @@
       "tags": [
         "booking"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__booking__booking-v1-clienttype-list.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__booking__booking-v1-clienttype-list.html.md",
       "meta": {
         "scope": [
           "booking"
@@ -165,7 +165,7 @@
       "tags": [
         "booking"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__booking__booking__booking-v1-booking-add.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__booking__booking__booking-v1-booking-add.html.md",
       "meta": {
         "scope": [
           "booking"
@@ -321,7 +321,7 @@
       "tags": [
         "booking"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__booking__booking__booking-v1-booking-createfromwaitlist.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__booking__booking__booking-v1-booking-createfromwaitlist.html.md",
       "meta": {
         "scope": [
           "booking"
@@ -482,7 +482,7 @@
       "tags": [
         "booking"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__booking__booking__booking-v1-booking-delete.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__booking__booking__booking-v1-booking-delete.html.md",
       "meta": {
         "scope": [
           "booking"
@@ -638,7 +638,7 @@
       "tags": [
         "booking"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__booking__booking__booking-v1-booking-get.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__booking__booking__booking-v1-booking-get.html.md",
       "meta": {
         "scope": [
           "booking"
@@ -794,7 +794,7 @@
       "tags": [
         "booking"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__booking__booking__booking-v1-booking-list.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__booking__booking__booking-v1-booking-list.html.md",
       "meta": {
         "scope": [
           "booking"
@@ -950,7 +950,7 @@
       "tags": [
         "booking"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__booking__booking__booking-v1-booking-update.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__booking__booking__booking-v1-booking-update.html.md",
       "meta": {
         "scope": [
           "booking"
@@ -1111,7 +1111,7 @@
       "tags": [
         "booking"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__booking__booking__client__booking-v1-booking-client-list.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__booking__booking__client__booking-v1-booking-client-list.html.md",
       "meta": {
         "scope": [
           "booking"
@@ -1267,7 +1267,7 @@
       "tags": [
         "booking"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__booking__booking__client__booking-v1-booking-client-set.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__booking__booking__client__booking-v1-booking-client-set.html.md",
       "meta": {
         "scope": [
           "booking"
@@ -1428,7 +1428,7 @@
       "tags": [
         "booking"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__booking__booking__client__booking-v1-booking-client-unset.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__booking__booking__client__booking-v1-booking-client-unset.html.md",
       "meta": {
         "scope": [
           "booking"
@@ -1584,7 +1584,7 @@
       "tags": [
         "booking"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__booking__booking__client__index.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__booking__booking__client__index.html.md",
       "meta": {
         "scope": [
           "booking"
@@ -1611,7 +1611,7 @@
       "tags": [
         "booking"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__booking__booking__events__index.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__booking__booking__events__index.html.md",
       "meta": {
         "scope": [
           "booking"
@@ -1638,7 +1638,7 @@
       "tags": [
         "booking"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__booking__booking__events__on-booking-add.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__booking__booking__events__on-booking-add.html.md",
       "meta": {
         "scope": [
           "booking"
@@ -1670,7 +1670,7 @@
       "tags": [
         "booking"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__booking__booking__events__on-booking-delete.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__booking__booking__events__on-booking-delete.html.md",
       "meta": {
         "scope": [
           "booking"
@@ -1702,7 +1702,7 @@
       "tags": [
         "booking"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__booking__booking__events__on-booking-update.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__booking__booking__events__on-booking-update.html.md",
       "meta": {
         "scope": [
           "booking"
@@ -1734,7 +1734,7 @@
       "tags": [
         "booking"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__booking__booking__external-data__booking-v1-booking-externaldata-list.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__booking__booking__external-data__booking-v1-booking-externaldata-list.html.md",
       "meta": {
         "scope": [
           "booking"
@@ -1890,7 +1890,7 @@
       "tags": [
         "booking"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__booking__booking__external-data__booking-v1-booking-externaldata-set.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__booking__booking__external-data__booking-v1-booking-externaldata-set.html.md",
       "meta": {
         "scope": [
           "booking"
@@ -2051,7 +2051,7 @@
       "tags": [
         "booking"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__booking__booking__external-data__booking-v1-booking-externaldata-unset.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__booking__booking__external-data__booking-v1-booking-externaldata-unset.html.md",
       "meta": {
         "scope": [
           "booking"
@@ -2207,7 +2207,7 @@
       "tags": [
         "booking"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__booking__booking__external-data__index.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__booking__booking__external-data__index.html.md",
       "meta": {
         "scope": [
           "booking"
@@ -2234,7 +2234,7 @@
       "tags": [
         "booking"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__booking__booking__index.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__booking__booking__index.html.md",
       "meta": {
         "scope": [
           "booking"
@@ -2261,7 +2261,7 @@
       "tags": [
         "booking"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__booking__index.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__booking__index.html.md",
       "meta": {
         "scope": [
           "booking"
@@ -2288,7 +2288,7 @@
       "tags": [
         "booking"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__booking__resource__booking-v1-resource-add.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__booking__resource__booking-v1-resource-add.html.md",
       "meta": {
         "scope": [
           "booking"
@@ -2444,7 +2444,7 @@
       "tags": [
         "booking"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__booking__resource__booking-v1-resource-delete.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__booking__resource__booking-v1-resource-delete.html.md",
       "meta": {
         "scope": [
           "booking"
@@ -2600,7 +2600,7 @@
       "tags": [
         "booking"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__booking__resource__booking-v1-resource-get.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__booking__resource__booking-v1-resource-get.html.md",
       "meta": {
         "scope": [
           "booking"
@@ -2756,7 +2756,7 @@
       "tags": [
         "booking"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__booking__resource__booking-v1-resource-list.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__booking__resource__booking-v1-resource-list.html.md",
       "meta": {
         "scope": [
           "booking"
@@ -2912,7 +2912,7 @@
       "tags": [
         "booking"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__booking__resource__booking-v1-resource-update.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__booking__resource__booking-v1-resource-update.html.md",
       "meta": {
         "scope": [
           "booking"
@@ -3073,7 +3073,7 @@
       "tags": [
         "booking"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__booking__resource__events__index.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__booking__resource__events__index.html.md",
       "meta": {
         "scope": [
           "booking"
@@ -3100,7 +3100,7 @@
       "tags": [
         "booking"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__booking__resource__events__on-booking-resource-add.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__booking__resource__events__on-booking-resource-add.html.md",
       "meta": {
         "scope": [
           "booking"
@@ -3132,7 +3132,7 @@
       "tags": [
         "booking"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__booking__resource__events__on-booking-resource-delete.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__booking__resource__events__on-booking-resource-delete.html.md",
       "meta": {
         "scope": [
           "booking"
@@ -3164,7 +3164,7 @@
       "tags": [
         "booking"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__booking__resource__events__on-booking-resource-update.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__booking__resource__events__on-booking-resource-update.html.md",
       "meta": {
         "scope": [
           "booking"
@@ -3196,7 +3196,7 @@
       "tags": [
         "booking"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__booking__resource__index.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__booking__resource__index.html.md",
       "meta": {
         "scope": [
           "booking"
@@ -3223,7 +3223,7 @@
       "tags": [
         "booking"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__booking__resource__resource-type__booking-v1-resourcetype-add.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__booking__resource__resource-type__booking-v1-resourcetype-add.html.md",
       "meta": {
         "scope": [
           "booking"
@@ -3379,7 +3379,7 @@
       "tags": [
         "booking"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__booking__resource__resource-type__booking-v1-resourcetype-delete.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__booking__resource__resource-type__booking-v1-resourcetype-delete.html.md",
       "meta": {
         "scope": [
           "booking"
@@ -3535,7 +3535,7 @@
       "tags": [
         "booking"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__booking__resource__resource-type__booking-v1-resourcetype-get.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__booking__resource__resource-type__booking-v1-resourcetype-get.html.md",
       "meta": {
         "scope": [
           "booking"
@@ -3691,7 +3691,7 @@
       "tags": [
         "booking"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__booking__resource__resource-type__booking-v1-resourcetype-list.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__booking__resource__resource-type__booking-v1-resourcetype-list.html.md",
       "meta": {
         "scope": [
           "booking"
@@ -3847,7 +3847,7 @@
       "tags": [
         "booking"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__booking__resource__resource-type__booking-v1-resourcetype-update.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__booking__resource__resource-type__booking-v1-resourcetype-update.html.md",
       "meta": {
         "scope": [
           "booking"
@@ -4008,7 +4008,7 @@
       "tags": [
         "booking"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__booking__resource__resource-type__events__index.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__booking__resource__resource-type__events__index.html.md",
       "meta": {
         "scope": [
           "booking"
@@ -4035,7 +4035,7 @@
       "tags": [
         "booking"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__booking__resource__resource-type__events__on-booking-resource-type-add.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__booking__resource__resource-type__events__on-booking-resource-type-add.html.md",
       "meta": {
         "scope": [
           "booking"
@@ -4067,7 +4067,7 @@
       "tags": [
         "booking"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__booking__resource__resource-type__events__on-booking-resource-type-delete.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__booking__resource__resource-type__events__on-booking-resource-type-delete.html.md",
       "meta": {
         "scope": [
           "booking"
@@ -4099,7 +4099,7 @@
       "tags": [
         "booking"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__booking__resource__resource-type__events__on-booking-resource-type-update.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__booking__resource__resource-type__events__on-booking-resource-type-update.html.md",
       "meta": {
         "scope": [
           "booking"
@@ -4131,7 +4131,7 @@
       "tags": [
         "booking"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__booking__resource__resource-type__index.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__booking__resource__resource-type__index.html.md",
       "meta": {
         "scope": [
           "booking"
@@ -4158,7 +4158,7 @@
       "tags": [
         "booking"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__booking__resource__slots__booking-v1-resource-slots-list.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__booking__resource__slots__booking-v1-resource-slots-list.html.md",
       "meta": {
         "scope": [
           "booking"
@@ -4314,7 +4314,7 @@
       "tags": [
         "booking"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__booking__resource__slots__booking-v1-resource-slots-set.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__booking__resource__slots__booking-v1-resource-slots-set.html.md",
       "meta": {
         "scope": [
           "booking"
@@ -4475,7 +4475,7 @@
       "tags": [
         "booking"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__booking__resource__slots__booking-v1-resource-slots-unset.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__booking__resource__slots__booking-v1-resource-slots-unset.html.md",
       "meta": {
         "scope": [
           "booking"
@@ -4631,7 +4631,7 @@
       "tags": [
         "booking"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__booking__resource__slots__index.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__booking__resource__slots__index.html.md",
       "meta": {
         "scope": [
           "booking"
@@ -4658,7 +4658,7 @@
       "tags": [
         "booking"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__booking__waitlist__booking-v1-waitlist-add.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__booking__waitlist__booking-v1-waitlist-add.html.md",
       "meta": {
         "scope": [
           "booking"
@@ -4814,7 +4814,7 @@
       "tags": [
         "booking"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__booking__waitlist__booking-v1-waitlist-createfrombooking.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__booking__waitlist__booking-v1-waitlist-createfrombooking.html.md",
       "meta": {
         "scope": [
           "booking"
@@ -4970,7 +4970,7 @@
       "tags": [
         "booking"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__booking__waitlist__booking-v1-waitlist-delete.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__booking__waitlist__booking-v1-waitlist-delete.html.md",
       "meta": {
         "scope": [
           "booking"
@@ -5126,7 +5126,7 @@
       "tags": [
         "booking"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__booking__waitlist__booking-v1-waitlist-get.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__booking__waitlist__booking-v1-waitlist-get.html.md",
       "meta": {
         "scope": [
           "booking"
@@ -5282,7 +5282,7 @@
       "tags": [
         "booking"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__booking__waitlist__booking-v1-waitlist-list.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__booking__waitlist__booking-v1-waitlist-list.html.md",
       "meta": {
         "scope": [
           "booking"
@@ -5438,7 +5438,7 @@
       "tags": [
         "booking"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__booking__waitlist__booking-v1-waitlist-update.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__booking__waitlist__booking-v1-waitlist-update.html.md",
       "meta": {
         "scope": [
           "booking"
@@ -5599,7 +5599,7 @@
       "tags": [
         "booking"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__booking__waitlist__client__booking-v1-waitlist-client-list.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__booking__waitlist__client__booking-v1-waitlist-client-list.html.md",
       "meta": {
         "scope": [
           "booking"
@@ -5755,7 +5755,7 @@
       "tags": [
         "booking"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__booking__waitlist__client__booking-v1-waitlist-client-set.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__booking__waitlist__client__booking-v1-waitlist-client-set.html.md",
       "meta": {
         "scope": [
           "booking"
@@ -5916,7 +5916,7 @@
       "tags": [
         "booking"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__booking__waitlist__client__booking-v1-waitlist-client-unset.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__booking__waitlist__client__booking-v1-waitlist-client-unset.html.md",
       "meta": {
         "scope": [
           "booking"
@@ -6072,7 +6072,7 @@
       "tags": [
         "booking"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__booking__waitlist__client__index.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__booking__waitlist__client__index.html.md",
       "meta": {
         "scope": [
           "booking"
@@ -6099,7 +6099,7 @@
       "tags": [
         "booking"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__booking__waitlist__events__index.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__booking__waitlist__events__index.html.md",
       "meta": {
         "scope": [
           "crm"
@@ -6126,7 +6126,7 @@
       "tags": [
         "booking"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__booking__waitlist__events__on-booking-waitlistitem-add.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__booking__waitlist__events__on-booking-waitlistitem-add.html.md",
       "meta": {
         "scope": [
           "booking"
@@ -6158,7 +6158,7 @@
       "tags": [
         "booking"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__booking__waitlist__events__on-booking-waitlistitem-delete.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__booking__waitlist__events__on-booking-waitlistitem-delete.html.md",
       "meta": {
         "scope": [
           "booking"
@@ -6190,7 +6190,7 @@
       "tags": [
         "booking"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__booking__waitlist__events__on-booking-waitlistitem-update.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__booking__waitlist__events__on-booking-waitlistitem-update.html.md",
       "meta": {
         "scope": [
           "booking"
@@ -6222,7 +6222,7 @@
       "tags": [
         "booking"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__booking__waitlist__external-data__booking-v1-waitlist-externaldata-list.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__booking__waitlist__external-data__booking-v1-waitlist-externaldata-list.html.md",
       "meta": {
         "scope": [
           "booking"
@@ -6378,7 +6378,7 @@
       "tags": [
         "booking"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__booking__waitlist__external-data__booking-v1-waitlist-externaldata-set.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__booking__waitlist__external-data__booking-v1-waitlist-externaldata-set.html.md",
       "meta": {
         "scope": [
           "booking"
@@ -6539,7 +6539,7 @@
       "tags": [
         "booking"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__booking__waitlist__external-data__booking-v1-waitlist-externaldata-unset.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__booking__waitlist__external-data__booking-v1-waitlist-externaldata-unset.html.md",
       "meta": {
         "scope": [
           "booking"
@@ -6695,7 +6695,7 @@
       "tags": [
         "booking"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__booking__waitlist__external-data__index.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__booking__waitlist__external-data__index.html.md",
       "meta": {
         "scope": [
           "booking"
@@ -6722,7 +6722,7 @@
       "tags": [
         "booking"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__booking__waitlist__index.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__booking__waitlist__index.html.md",
       "meta": {
         "scope": [
           "booking"

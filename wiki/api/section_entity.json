@@ -15,7 +15,7 @@
       "tags": [
         "entity"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__entity__entities__entity-add.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__entity__entities__entity-add.html.md",
       "meta": {
         "scope": [
           "entity"
@@ -63,7 +63,7 @@
       "tags": [
         "entity"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__entity__entities__entity-delete.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__entity__entities__entity-delete.html.md",
       "meta": {
         "scope": [
           "entity"
@@ -111,7 +111,7 @@
       "tags": [
         "entity"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__entity__entities__entity-get.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__entity__entities__entity-get.html.md",
       "meta": {
         "scope": [
           "entity"
@@ -159,7 +159,7 @@
       "tags": [
         "entity"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__entity__entities__entity-rights.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__entity__entities__entity-rights.html.md",
       "meta": {
         "scope": [
           "entity"
@@ -207,7 +207,7 @@
       "tags": [
         "entity"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__entity__entities__entity-update.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__entity__entities__entity-update.html.md",
       "meta": {
         "scope": [
           "entity"
@@ -255,7 +255,7 @@
       "tags": [
         "entity"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__entity__entities__index.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__entity__entities__index.html.md",
       "meta": {
         "scope": [
           "entity"
@@ -282,7 +282,7 @@
       "tags": [
         "entity"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__entity__index.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__entity__index.html.md",
       "meta": {
         "scope": [
           "entity"
@@ -309,7 +309,7 @@
       "tags": [
         "entity"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__entity__items__entity-item-add.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__entity__items__entity-item-add.html.md",
       "meta": {
         "scope": [
           "entity"
@@ -357,7 +357,7 @@
       "tags": [
         "entity"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__entity__items__entity-item-delete.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__entity__items__entity-item-delete.html.md",
       "meta": {
         "scope": [
           "entity"
@@ -405,7 +405,7 @@
       "tags": [
         "entity"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__entity__items__entity-item-get.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__entity__items__entity-item-get.html.md",
       "meta": {
         "scope": [
           "entity"
@@ -453,7 +453,7 @@
       "tags": [
         "entity"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__entity__items__entity-item-update.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__entity__items__entity-item-update.html.md",
       "meta": {
         "scope": [
           "entity"
@@ -501,7 +501,7 @@
       "tags": [
         "entity"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__entity__items__index.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__entity__items__index.html.md",
       "meta": {
         "scope": [
           "entity"
@@ -528,7 +528,7 @@
       "tags": [
         "entity"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__entity__items__properties__entity-item-property-add.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__entity__items__properties__entity-item-property-add.html.md",
       "meta": {
         "scope": [
           "entity"
@@ -576,7 +576,7 @@
       "tags": [
         "entity"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__entity__items__properties__entity-item-property-delete.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__entity__items__properties__entity-item-property-delete.html.md",
       "meta": {
         "scope": [
           "entity"
@@ -624,7 +624,7 @@
       "tags": [
         "entity"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__entity__items__properties__entity-item-property-get.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__entity__items__properties__entity-item-property-get.html.md",
       "meta": {
         "scope": [
           "entity"
@@ -672,7 +672,7 @@
       "tags": [
         "entity"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__entity__items__properties__entity-item-property-update.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__entity__items__properties__entity-item-property-update.html.md",
       "meta": {
         "scope": [
           "entity"
@@ -720,7 +720,7 @@
       "tags": [
         "entity"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__entity__items__properties__index.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__entity__items__properties__index.html.md",
       "meta": {
         "scope": [
           "entity"
@@ -747,7 +747,7 @@
       "tags": [
         "entity"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__entity__sections__entity-section-add.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__entity__sections__entity-section-add.html.md",
       "meta": {
         "scope": [
           "entity"
@@ -795,7 +795,7 @@
       "tags": [
         "entity"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__entity__sections__entity-section-delete.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__entity__sections__entity-section-delete.html.md",
       "meta": {
         "scope": [
           "entity"
@@ -843,7 +843,7 @@
       "tags": [
         "entity"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__entity__sections__entity-section-get.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__entity__sections__entity-section-get.html.md",
       "meta": {
         "scope": [
           "entity"
@@ -891,7 +891,7 @@
       "tags": [
         "entity"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__entity__sections__entity-section-update.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__entity__sections__entity-section-update.html.md",
       "meta": {
         "scope": [
           "entity"
@@ -939,7 +939,7 @@
       "tags": [
         "entity"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__entity__sections__index.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__entity__sections__index.html.md",
       "meta": {
         "scope": [
           "entity"

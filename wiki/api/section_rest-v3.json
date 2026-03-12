@@ -15,7 +15,7 @@
       "tags": [
         "rest-v3"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__rest-v3__index.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__rest-v3__index.html.md",
       "meta": {
         "scope": [],
         "who_can_execute": ""
@@ -61,7 +61,7 @@
       "tags": [
         "rest-v3"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__rest-v3__main__index.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__rest-v3__main__index.html.md",
       "meta": {
         "scope": [
           "main"
@@ -88,7 +88,7 @@
       "tags": [
         "rest-v3"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__rest-v3__main__main-eventlog-get.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__rest-v3__main__main-eventlog-get.html.md",
       "meta": {
         "scope": [
           "main"
@@ -319,7 +319,7 @@
       "tags": [
         "rest-v3"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__rest-v3__main__main-eventlog-list.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__rest-v3__main__main-eventlog-list.html.md",
       "meta": {
         "scope": [
           "main"
@@ -565,7 +565,7 @@
       "tags": [
         "rest-v3"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__rest-v3__main__main-eventlog-tail.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__rest-v3__main__main-eventlog-tail.html.md",
       "meta": {
         "scope": [
           "main"
@@ -806,7 +806,7 @@
       "tags": [
         "rest-v3"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__rest-v3__tasks__fields.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__rest-v3__tasks__fields.html.md",
       "meta": {
         "scope": [],
         "who_can_execute": ""
@@ -831,7 +831,7 @@
       "tags": [
         "rest-v3"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__rest-v3__tasks__index.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__rest-v3__tasks__index.html.md",
       "meta": {
         "scope": [
           "task"
@@ -858,7 +858,7 @@
       "tags": [
         "rest-v3"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__rest-v3__tasks__tasks-task-access-get.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__rest-v3__tasks__tasks-task-access-get.html.md",
       "meta": {
         "scope": [
           "task"
@@ -1014,7 +1014,7 @@
       "tags": [
         "rest-v3"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__rest-v3__tasks__tasks-task-add.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__rest-v3__tasks__tasks-task-add.html.md",
       "meta": {
         "scope": [
           "task"
@@ -1175,7 +1175,7 @@
       "tags": [
         "rest-v3"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__rest-v3__tasks__tasks-task-chat-message-send.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__rest-v3__tasks__tasks-task-chat-message-send.html.md",
       "meta": {
         "scope": [
           "task"
@@ -1331,7 +1331,7 @@
       "tags": [
         "rest-v3"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__rest-v3__tasks__tasks-task-delete.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__rest-v3__tasks__tasks-task-delete.html.md",
       "meta": {
         "scope": [
           "task"
@@ -1487,7 +1487,7 @@
       "tags": [
         "rest-v3"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__rest-v3__tasks__tasks-task-file-attach.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__rest-v3__tasks__tasks-task-file-attach.html.md",
       "meta": {
         "scope": [
           "task"
@@ -1648,7 +1648,7 @@
       "tags": [
         "rest-v3"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__rest-v3__tasks__tasks-task-get.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__rest-v3__tasks__tasks-task-get.html.md",
       "meta": {
         "scope": [
           "task"
@@ -1814,7 +1814,7 @@
       "tags": [
         "rest-v3"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__rest-v3__tasks__tasks-task-update.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__rest-v3__tasks__tasks-task-update.html.md",
       "meta": {
         "scope": [
           "task"

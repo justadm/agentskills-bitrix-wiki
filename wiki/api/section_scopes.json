@@ -15,7 +15,7 @@
       "tags": [
         "scopes"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__scopes__confirmation.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__scopes__confirmation.html.md",
       "meta": {
         "scope": [],
         "who_can_execute": ""
@@ -57,7 +57,7 @@
       "tags": [
         "scopes"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__scopes__index.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__scopes__index.html.md",
       "meta": {
         "scope": [
           "CRM"
@@ -84,7 +84,7 @@
       "tags": [
         "scopes"
       ],
-      "body_md_path": "/Users/just/projects/AgentSkills/Bitrix/wiki/wiki/apidocs.bitrix24.ru__api-reference__scopes__permissions.html.md",
+      "body_md_path": "wiki/apidocs.bitrix24.ru__api-reference__scopes__permissions.html.md",
       "meta": {
         "scope": [],
         "who_can_execute": ""
